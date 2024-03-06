@@ -1,0 +1,4 @@
+db_gen\ctrltype\p_kasuga_brawler.cfe
+db_gen\ctrltype\p_kiryu_crash_brawler.cfe
+db_gen\ctrltype\p_kiryu_rush_brawler.cfe
+db_gen\ctrltype\p_kiryu_legend_1988_brawler.cfe

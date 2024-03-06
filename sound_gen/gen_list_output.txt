@@ -1,0 +1,11 @@
+testytest|0
+hact_h25560_najimi_fumi|56
+hact_h25250_sayama_2pkick|56
+hact_yd13160_kiryu_g|56
+hact_y8b1000_oi_trample_ao|56
+hact_y8b1010_krh_rush_oi_kabe|56
+hact_y8b1020_krh_down_hangeki|56
+hact_y8b1030_krh_hangeki|56
+hact_y8b1040_ich_gougeki|56
+hact_y8b1050_ich_kabe_airon|56
+hact_y8b1060_ich_oi_upper|56

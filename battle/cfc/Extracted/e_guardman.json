@@ -1,0 +1,88 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null"
+    },
+    "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "E_GDM_BTL_WPA_ath_tcl"
+    },
+    "Heavy_1": {
+      "Move Type": 2,
+      "Animation Used": "E_GDM_BTL_WPA_ath_tcl"
+    },
+    "Skill_provoke": {
+      "Move Type": 2,
+      "Animation Used": "E_GDM_BTL_WPA_skl_pvk"
+    },
+    "Skill_atk_buff": {
+      "Move Type": 2,
+      "Animation Used": "E_GDM_BTL_WPA_skl_ikigomu"
+    },
+    "Skill_def_debuff": {
+      "Move Type": 2,
+      "Animation Used": "E_GDM_BTL_WPA_ath_kuzushi"
+    },
+    "BreakObstract": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_WPN_katateL_ath_ast"
+    },
+    "RunAway": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ecp_180r_a"
+    },
+    "RunAway_Success": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Success_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Success_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_lp"
+    },
+    "RunAway_Failed": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Failed_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Failed_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "RunAwayFailed": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "InterceptAction": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    }
+  }
+}

@@ -1,0 +1,1191 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null"
+    },
+    "ComboAtk_1": {
+      "Move Type": 2,
+      "Animation Used": "P_KRC_BTL_SUD_ath_nml_02"
+    },
+    "ComboAtk_1_b": {
+      "Move Type": 2,
+      "Animation Used": "P_KRC_BTL_SUD_ath_nml_02_b"
+    },
+    "Atk_infight": {
+      "Move Type": 2,
+      "Animation Used": "P_KRC_BTL_SUD_atm_sze",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Atk_infight_sync_g",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "CanSeize",
+              "Conditionals": ""
+            },
+            "Condition 4| Angle Limit": {
+              "Property Type": 20,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 64,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Tall",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Atk_infight_sync",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "CanSeize",
+              "Conditionals": ""
+            },
+            "Condition 4| Angle Limit": {
+              "Property Type": 20,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 64,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "Atk_infight_sync_b_g",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "CanSeize",
+              "Conditionals": ""
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Tall",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 4": {
+          "Follows Up to": "Atk_infight_sync_b",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "CanSeize",
+              "Conditionals": ""
+            }
+          }
+        }
+      }
+    },
+    "Atk_infight_sync": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRC_BTL_SUD_sy0_nge_inf",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19114
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRC_BTL_SUD_sy1_nge_inf",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19115
+        }
+      }
+    },
+    "Atk_infight_sync_g": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRC_BTL_SUD_sy0_nge_inf_g",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19342
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRC_BTL_SUD_sy1_nge_inf_g",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19347
+        }
+      }
+    },
+    "Atk_infight_sync_b": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRC_BTL_SUD_sy0_nge_inf",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19114
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRC_BTL_SUD_sy1_nge_inf_b",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19116
+        }
+      }
+    },
+    "Atk_infight_sync_b_g": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRC_BTL_SUD_sy0_nge_inf_g",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19342
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRC_BTL_SUD_sy1_nge_inf_b_g",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19346
+        }
+      }
+    },
+    "Atk_normal": {
+      "Move Type": 2,
+      "Animation Used": "P_KRC_BTL_SUD_atm_sze",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Atk_normal_sync_g",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "CanSeize",
+              "Conditionals": ""
+            },
+            "Condition 4| Angle Limit": {
+              "Property Type": 20,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 64,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Tall",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Atk_normal_sync",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "CanSeize",
+              "Conditionals": ""
+            },
+            "Condition 4| Angle Limit": {
+              "Property Type": 20,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 64,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "Atk_normal_sync_b_g",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "CanSeize",
+              "Conditionals": ""
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Tall",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 4": {
+          "Follows Up to": "Atk_normal_sync_b",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "CanSeize",
+              "Conditionals": ""
+            }
+          }
+        }
+      }
+    },
+    "Atk_normal_sync": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRC_BTL_SUD_sy0_nge",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18025
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRC_BTL_SUD_sy1_nge",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18026
+        }
+      }
+    },
+    "Atk_normal_sync_g": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRC_BTL_SUD_sy0_nge_g",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19341
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRC_BTL_SUD_sy1_nge_g",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19345
+        }
+      }
+    },
+    "Atk_normal_sync_b": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRC_BTL_SUD_sy0_nge",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18025
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRC_BTL_SUD_sy1_nge_b",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18027
+        }
+      }
+    },
+    "Atk_normal_sync_b_g": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRC_BTL_SUD_sy0_nge_g",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19341
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRC_BTL_SUD_sy1_nge_b_g",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19344
+        }
+      }
+    },
+    "Skill_dosu": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_WPB_atm_slh",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_dosu_sync_g",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Tall",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Skill_dosu_sync",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_dosu_sync": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRU_BTL_WPB_sy0_atk",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18504
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRU_BTL_WPB_sy1_atk",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18505
+        }
+      }
+    },
+    "Skill_dosu_sync_g": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRU_BTL_WPB_sy0_atk_230",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19355
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRU_BTL_WPB_sy1_atk_230",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19356
+        }
+      }
+    },
+    "Skill_gun_sync": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRU_BTL_WPY_sy0_atk",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18510
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRU_BTL_WPY_sy1_atk",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18511
+        }
+      }
+    },
+    "Skill_gun_sync_g": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRU_BTL_WPY_sy0_atk_230",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19357
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRU_BTL_WPY_sy1_atk_230",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19358
+        }
+      }
+    },
+    "Skill_tora": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_skl_kudaki",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_tora_sync_g",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Tall",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Skill_tora_sync",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "Skill_tora_en",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_tora_sync": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRU_BTL_SUD_sy0_kudaki",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18499
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRU_BTL_SUD_sy1_kudaki",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18501
+        }
+      }
+    },
+    "Skill_tora_sync_g": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRU_BTL_SUD_sy0_kudaki",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18499
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRU_BTL_SUD_sy1_kudaki_230",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19353
+        }
+      }
+    },
+    "Skill_tora_en": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_skl_kudaki_02"
+    },
+    "Skill_kuzushi": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_atm_sze",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_kuzushi_sync_g",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Tall",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Skill_kuzushi_sync",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_kuzushi_sync": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRU_BTL_SUD_sy0_kuzushi",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18500
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRU_BTL_SUD_sy1_kuzushi",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18502
+        }
+      }
+    },
+    "Skill_kuzushi_sync_g": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRU_BTL_SUD_sy0_kuzushi_230",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19352
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRU_BTL_SUD_sy1_kuzushi_230",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19354
+        }
+      }
+    },
+    "Skill_n_swing": {
+      "Move Type": 2,
+      "Animation Used": "P_KRC_BTL_SUD_atm_sze",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_n_swing_sync_g",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Tall",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Skill_n_swing_sync",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_n_swing_sync": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRC_BTL_SUD_sy0_atk",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18512
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRC_BTL_SUD_sy1_atk",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18513
+        }
+      }
+    },
+    "Skill_n_swing_sync_g": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRC_BTL_SUD_sy0_atk",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18512
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRC_BTL_SUD_sy1_atk_g",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19343
+        }
+      }
+    },
+    "Skill_wpx_01": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_WPX_skl_atk_01",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_wpx_02",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_wpx_02": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_WPX_skl_atk_02",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_wpx_03",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_wpx_03": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_WPX_skl_atk_03"
+    },
+    "style_normal": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_style_st"
+    },
+    "style_speed": {
+      "Move Type": 2,
+      "Animation Used": "P_KRH_BTL_SUD_style_st"
+    },
+    "style_power": {
+      "Move Type": 2,
+      "Animation Used": "P_KRC_BTL_SUD_style_st"
+    },
+    "boost_st": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_bct_st"
+    },
+    "BreakObstract": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_SUD_ath_obj"
+    },
+    "InterceptAction": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_SUD_ath_obj"
+    },
+    "Skill_Category_Grab_Failed": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_SUD_atg_sze"
+    },
+    "CombinationCombo": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_BTL_SUD_ath_mlt_01"
+    },
+    "ComboAir_st": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_SUD_ath_swy_f"
+    },
+    "ComboAir_fin_01": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_SUD_renB_drpkik"
+    },
+    "ComboAir_fin_02": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_SUD_renB_dvghd"
+    },
+    "ComboAir_fin_near": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_SUD_renB_uprsttr"
+    },
+    "ComboCatch_st": {
+      "Move Type": 2,
+      "Animation Used": "M_ADC_BTL_SUD_atm_kizuna",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "ComboCatch_kizuna",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "ComboCatch": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "E_NML_BTL_SUD_sy0_cth_lp",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 8160
+        },
+        "Animation 2": {
+          "Animation Used": "E_NML_BTL_SUD_sy1_cth_lp",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 8164
+        }
+      },
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "ComboCatch",
+          "Conditions": {
+            "Condition 1| Combo Number": {
+              "Property Type": 32,
+              "Unk Byte 1": 3,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "ComboCatch_fin_st": {
+      "Move Type": 2,
+      "Animation Used": "M_ADC_BTL_SUD_rct_buff",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "ComboCatch_fin_en",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "ComboCatch_fin_en": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_SUD_ath_chg_en2"
+    },
+    "ComboThrow": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "M_COM_BTL_SUD_sy0_gsp_nge",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 13570
+        },
+        "Animation 2": {
+          "Animation Used": "M_COM_BTL_SUD_sy1_gsp_nge",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 8573
+        }
+      }
+    },
+    "ComboThrow_fin_01": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_SUD_ath_02_fin",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "ComboThrow_fin_01_en",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "ComboThrow_fin_01_en": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_SUD_ath_02_fin_hit"
+    },
+    "ComboThrow_fin_02": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "M_COM_BTL_SUD_wal_sy0_nge",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 8583
+        },
+        "Animation 2": {
+          "Animation Used": "M_COM_BTL_SUD_wal_sy1_nge",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 8586
+        }
+      }
+    },
+    "ComboCatch_kizuna": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "M_ADC_BTL_SUD_sy0_kizuna",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 13676
+        },
+        "Animation 2": {
+          "Animation Used": "M_ADC_BTL_SUD_sy1_kizuna",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 13675
+        }
+      }
+    },
+    "Shot_machine_gun_st": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_WPR_sht_f_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Shot_machine_gun_lp",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Shot_machine_gun_lp": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_WPR_sht_f_lp",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Shot_machine_gun_en",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Shot_machine_gun_en": {
+      "Move Type": 2,
+      "Animation Used": "M_COM_BTL_WPR_sht_f_en"
+    },
+    "RunAway_Success": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Success_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Success_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_lp"
+    },
+    "RunAway_Failed": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Failed_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Failed_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "RunAway": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ecp_180r_a"
+    },
+    "RunAwayFailed": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    }
+  }
+}

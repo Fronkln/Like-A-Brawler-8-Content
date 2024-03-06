@@ -1,0 +1,76 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null"
+    },
+    "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_WPB_dsu_slh_yoko"
+    },
+    "Heavy_1": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_WPB_dsu_slh_tuki"
+    },
+    "BreakObstract": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_WPN_katateR_ath_ast"
+    },
+    "RunAway": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ecp_180l_b"
+    },
+    "RunAway_Success": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Success_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Success_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_lp"
+    },
+    "RunAway_Failed": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Failed_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Failed_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "RunAwayFailed": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "InterceptAction": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    }
+  }
+}

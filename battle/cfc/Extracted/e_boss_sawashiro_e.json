@@ -1,0 +1,199 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null"
+    },
+    "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "E_SAW_BTL_WPE_slh_ryodan"
+    },
+    "Heavy_1st": {
+      "Move Type": 2,
+      "Animation Used": "E_SAW_BTL_WPE_slh_iai_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Heavy_1lp",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Heavy_1lp": {
+      "Move Type": 2,
+      "Animation Used": "E_SAW_BTL_WPE_slh_iai_lp",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Heavy_1en",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Heavy_1en": {
+      "Move Type": 2,
+      "Animation Used": "E_SAW_BTL_WPE_slh_iai_en"
+    },
+    "Skill_issen_st": {
+      "Move Type": 2,
+      "Animation Used": "E_SAW_BTL_WPE_atm_line",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_issen_sync_w",
+          "Conditions": {
+            "Condition 1| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Woman",
+              "Conditionals": ""
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 150,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Skill_issen_sync",
+          "Conditions": {
+            "Condition 1| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 150,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_issen_sync": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "E_SAW_BTL_WPE_sy0_line",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18897
+        },
+        "Animation 2": {
+          "Animation Used": "E_SAW_BTL_WPE_sy1_line",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18899
+        }
+      }
+    },
+    "Skill_issen_sync_w": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "E_SAW_BTL_WPE_sy0_line_f",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18898
+        },
+        "Animation 2": {
+          "Animation Used": "E_SAW_BTL_WPE_sy1_line_f",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 18900
+        }
+      }
+    },
+    "RunAway_Success": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Success_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Success_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_lp"
+    },
+    "RunAway_Failed": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Failed_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Failed_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "BreakObstract": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    },
+    "RunAway": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ecp_180r_a"
+    },
+    "RunAwayFailed": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "InterceptAction": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    }
+  }
+}

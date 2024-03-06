@@ -1,0 +1,152 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null"
+    },
+    "Skill_swing": {
+      "Move Type": 2,
+      "Animation Used": "E_HTS_BTL_DBL_atm_swing",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "swing_hit_woman",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Woman",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "swing_hit_man",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "swing_hit_man": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "E_HTS_BTL_DBL_sy0_swing",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 14285
+        },
+        "Animation 2": {
+          "Animation Used": "E_HTS_BTL_DBL_sy1_swing",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 14297
+        }
+      }
+    },
+    "swing_hit_woman": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "E_HTS_BTL_DBL_sy0_swing_f",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 14301
+        },
+        "Animation 2": {
+          "Animation Used": "E_HTS_BTL_DBL_sy1_swing_f",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 9068
+        }
+      }
+    },
+    "RunAway_Success": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Success_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Success_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_lp"
+    },
+    "RunAway_Failed": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Failed_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Failed_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "BreakObstract": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    },
+    "RunAway": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ecp_180r_a"
+    },
+    "RunAwayFailed": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "InterceptAction": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    }
+  }
+}

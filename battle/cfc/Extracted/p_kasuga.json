@@ -1,0 +1,182 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null"
+    },
+    "Skill_kyou": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_BTL_SUD_skl_kyou_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_kyou_success",
+          "Conditions": {
+            "Condition 1| Skill Success": {
+              "Property Type": 49,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Skill_kyou_failed",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_kyou_success": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_BTL_SUD_skl_kyou_suc"
+    },
+    "Skill_kyou_failed": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_BTL_SUD_skl_kyou_mis"
+    },
+    "Skill_baisyu": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_BTL_SUD_skl_bai_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_baisyu_success",
+          "Conditions": {
+            "Condition 1| Skill Success": {
+              "Property Type": 49,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Skill_baisyu_failed",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_baisyu_success": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_BTL_SUD_skl_bai_suc"
+    },
+    "Skill_baisyu_failed": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_BTL_SUD_skl_bai_mis"
+    },
+    "Skill_setu": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_BTL_SUD_skl_setu_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_setu_success",
+          "Conditions": {
+            "Condition 1| Skill Success": {
+              "Property Type": 49,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Skill_setu_failed",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_setu_success": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_BTL_SUD_skl_setu_suc"
+    },
+    "Skill_setu_failed": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_BTL_SUD_skl_setu_mis"
+    },
+    "Skill_asakura_tackle": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_BTL_SUD_atm_tckl",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_asakura_tackle_sync",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_asakura_tackle_sync": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_ICH_BTL_SUD_sy0_tckl",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 20095
+        },
+        "Animation 2": {
+          "Animation Used": "P_ICH_BTL_SUD_sy1_tckl",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 20096
+        }
+      }
+    }
+  }
+}

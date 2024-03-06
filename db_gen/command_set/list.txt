@@ -1,0 +1,6 @@
+db_gen\command_set\p_kasuga_brawler.dat
+db_gen\command_set\p_kiryu_rush_brawler.dat
+db_gen\command_set\p_kiryu_crash_brawler.dat
+db_gen\command_set\p_kiryu_legend_1988_brawler.dat
+db_gen\command_set\p_man_western_brawler.dat
+db_gen\command_set\p_kasuga_hero_brawler.dat

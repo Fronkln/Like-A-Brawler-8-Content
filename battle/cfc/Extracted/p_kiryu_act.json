@@ -1,0 +1,121 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_01",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_01": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_ath_01_md",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_02",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_02": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_ath_02_md",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_03",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_03": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_ath_03_md",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_04",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_04": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_ath_04_md",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_05",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_05": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_ath_04_fin_md"
+    }
+  }
+}

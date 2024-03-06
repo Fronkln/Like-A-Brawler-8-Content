@@ -1,0 +1,689 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "SelfStunSt",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "R2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadDown",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "Cross",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "prv_custom_heavy",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadUp",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadRight",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "prv_custom_action",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadDown",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadRight",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 4": {
+          "Follows Up to": "prv_custom_sway",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadDown",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadLeft",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 5": {
+          "Follows Up to": "prv_custom_light",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadUp",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadLeft",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 6": {
+          "Follows Up to": "prv_custom_up",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadUp",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 7": {
+          "Follows Up to": "prv_custom_down",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadDown",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 8": {
+          "Follows Up to": "prv_custom_left",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadLeft",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 9": {
+          "Follows Up to": "prv_custom_right",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadRight",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 10": {
+          "Follows Up to": "prv_custom",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 11": {
+          "Follows Up to": "PushWeaponD",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "R2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadDown",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 12": {
+          "Follows Up to": "PushWeapon",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "R2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 13": {
+          "Follows Up to": "angry_A",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadUp",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Cross",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 4| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 14": {
+          "Follows Up to": "angry_B",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadLeft",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Cross",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 4| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 15": {
+          "Follows Up to": "angry_C",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadDown",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Cross",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 4| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 16": {
+          "Follows Up to": "bibiri_A",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadUp",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 4| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 17": {
+          "Follows Up to": "bibiri_B",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadLeft",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 4| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 18": {
+          "Follows Up to": "bibiri_C",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadDown",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 4| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 19": {
+          "Follows Up to": "bibiri_D",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadRight",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 4| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 20": {
+          "Follows Up to": "surprise_A",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadUp",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 21": {
+          "Follows Up to": "surprise_B",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadLeft",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 22": {
+          "Follows Up to": "surprise_C",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadDown",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 23": {
+          "Follows Up to": "surprise_D",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "PadRight",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L2",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "prv_custom": {
+      "Move Type": 17,
+      "Unknown Value": 0
+    },
+    "prv_custom_up": {
+      "Move Type": 17,
+      "Unknown Value": 0
+    },
+    "prv_custom_down": {
+      "Move Type": 17,
+      "Unknown Value": 0
+    },
+    "prv_custom_left": {
+      "Move Type": 17,
+      "Unknown Value": 0
+    },
+    "prv_custom_right": {
+      "Move Type": 17,
+      "Unknown Value": 0
+    },
+    "prv_custom_light": {
+      "Move Type": 17,
+      "Unknown Value": 0
+    },
+    "prv_custom_heavy": {
+      "Move Type": 17,
+      "Unknown Value": 0
+    },
+    "prv_custom_action": {
+      "Move Type": 17,
+      "Unknown Value": 0
+    },
+    "prv_custom_sway": {
+      "Move Type": 17,
+      "Unknown Value": 0
+    },
+    "SelfStunSt": {
+      "Move Type": 10,
+      "Animation Used": "E_BOS_BTL_SUD_brk_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "SelfStunLp",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "SelfStunEn",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "Cross",
+              "Conditionals": "NOT",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "SelfStunLp": {
+      "Move Type": 10,
+      "Animation Used": "E_BOS_BTL_SUD_brk_lp",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "SelfStunEn",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "Cross",
+              "Conditionals": "NOT",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "SelfStunLp",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "SelfStunEn": {
+      "Move Type": 10,
+      "Animation Used": "E_BOS_BTL_SUD_brk_en"
+    },
+    "bibiri_A": {
+      "Move Type": 10,
+      "Animation Used": "E_NML_BTL_SUD_bbr_a"
+    },
+    "bibiri_B": {
+      "Move Type": 10,
+      "Animation Used": "E_NML_BTL_SUD_bbr_b"
+    },
+    "bibiri_C": {
+      "Move Type": 10,
+      "Animation Used": "E_NML_BTL_SUD_bbr_c"
+    },
+    "bibiri_D": {
+      "Move Type": 10,
+      "Animation Used": "E_NML_BTL_SUD_bbr_d"
+    },
+    "surprise_A": {
+      "Move Type": 10,
+      "Animation Used": "E_NML_BTL_SUD_sps_a"
+    },
+    "surprise_B": {
+      "Move Type": 10,
+      "Animation Used": "E_NML_BTL_SUD_sps_b"
+    },
+    "surprise_C": {
+      "Move Type": 10,
+      "Animation Used": "E_NML_BTL_SUD_sps_c"
+    },
+    "surprise_D": {
+      "Move Type": 10,
+      "Animation Used": "E_NML_BTL_SUD_sps_d"
+    },
+    "angry_A": {
+      "Move Type": 10,
+      "Animation Used": "E_NML_BTL_SUD_agy_a"
+    },
+    "angry_B": {
+      "Move Type": 10,
+      "Animation Used": "E_NML_BTL_SUD_agy_b"
+    },
+    "angry_C": {
+      "Move Type": 10,
+      "Animation Used": "E_NML_BTL_SUD_agy_c"
+    },
+    "PushWeapon": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    },
+    "PushWeaponD": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    }
+  }
+}

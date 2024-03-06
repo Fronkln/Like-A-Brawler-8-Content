@@ -1,0 +1,1223 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 240,
+  "COLUMN_COUNT": 0,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": -1,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": false,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": false,
+  "TABLE_ID": 0,
+  "STORAGE_MODE": 0,
+  "columnTypes": {},
+  "0": {
+    "": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "1": {
+    "default": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "2": {
+    "e_base": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "3": {
+    "p_man_job_06": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "4": {
+    "p_kasuga_job_04": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "5": {
+    "e_cpr": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "6": {
+    "p_kasuga_job_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "7": {
+    "p_jyungi_job_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "8": {
+    "p_dlc_job_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "9": {
+    "e_akutoku_collector": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "10": {
+    "e_big_head": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "11": {
+    "p_woman_kunoichi": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "12": {
+    "e_ukulele_man": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "13": {
+    "p_kiryu_act": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "14": {
+    "p_adachi_job_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "15": {
+    "p_adachi": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "16": {
+    "e_zombie": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "17": {
+    "e_yakuza_touzyo": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "18": {
+    "e_aloha_gang": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "19": {
+    "p_kiryu": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "20": {
+    "e_yakuza_pistol": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21": {
+    "e_yakuza_oumi": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "22": {
+    "e_yakuza_knife": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "23": {
+    "e_ayashi_ballerino": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "24": {
+    "e_ayashi_hanaya": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "25": {
+    "e_ayashi_seibishi": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "26": {
+    "e_beach_ball_man": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "27": {
+    "e_city_worm": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "28": {
+    "e_cosplayer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "29": {
+    "e_fake_cop": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "30": {
+    "e_haikai_aruchu": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "31": {
+    "e_hawaii_paripi": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "32": {
+    "e_hawaiian_noir": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "33": {
+    "e_homeless_gari": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "34": {
+    "e_hori_gurui": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "35": {
+    "e_kaibou_gurui": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "36": {
+    "e_kakyo_mafia": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "37": {
+    "e_kantigai_narikin": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "38": {
+    "e_kyoujin": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "39": {
+    "e_trouble_boxer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "40": {
+    "e_yasagure_niwashi": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "41": {
+    "e_yakuza_katana": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "42": {
+    "p_man_job_05": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "43": {
+    "e_yakuza_handgun": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "44": {
+    "e_yakuza_bat": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "45": {
+    "e_yakuza": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "46": {
+    "e_wp_master": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "47": {
+    "e_umibouzu": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "48": {
+    "e_thief": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "49": {
+    "e_tepoudama": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "50": {
+    "e_straw_doll": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "51": {
+    "e_soldier": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "52": {
+    "e_sniper": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "53": {
+    "e_slugger": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "54": {
+    "e_skater": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "55": {
+    "e_shokunin": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "56": {
+    "e_sandwich_man": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "57": {
+    "e_salaryman": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "58": {
+    "e_reinou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "59": {
+    "e_press": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "60": {
+    "e_performer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "61": {
+    "e_paripi": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "62": {
+    "e_otaku_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "63": {
+    "p_man_wpr": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "64": {
+    "e_gambler": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "65": {
+    "e_fanatic": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "66": {
+    "e_doctor": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "67": {
+    "e_dealer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "68": {
+    "e_criminal": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "69": {
+    "e_cmafia": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "70": {
+    "e_cleaner": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "71": {
+    "e_chef": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "72": {
+    "e_boxer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "73": {
+    "e_bousou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "74": {
+    "e_bouncer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "75": {
+    "e_boss_tiger": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "76": {
+    "e_boss_big_shark_h": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "77": {
+    "e_boss_tank": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "78": {
+    "e_boss_sawashiro_x": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "79": {
+    "e_boss_sawashiro_e": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "80": {
+    "e_boss_sawashiro_brt": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "81": {
+    "st_ufo_charger": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "82": {
+    "p_saeko": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "83": {
+    "p_saeko_job_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "84": {
+    "e_otaku": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "85": {
+    "e_musician": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "86": {
+    "p_kasuga_job_03": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "87": {
+    "e_scissors": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "88": {
+    "e_rosyutsu": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "89": {
+    "p_man_job_07": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "90": {
+    "e_ungra_fighter": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "91": {
+    "e_back_meat_shop": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "92": {
+    "e_mazooji": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "93": {
+    "p_kasuga": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "94": {
+    "e_ayashi_sharman": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "95": {
+    "e_calorie_knight": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "96": {
+    "e_shinkyu": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "97": {
+    "e_scout_man": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "98": {
+    "e_katuage_performer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "99": {
+    "p_man_job_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "100": {
+    "e_fanatic_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "101": {
+    "p_man_job_08": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "102": {
+    "p_man_samurai": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "103": {
+    "e_kempo": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "104": {
+    "e_inventor": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "105": {
+    "e_gang_leader": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "106": {
+    "p_kiryu_job_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "107": {
+    "p_woman_nightqueen": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "108": {
+    "p_woman_a_job_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "109": {
+    "p_man_kaitaiya": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "110": {
+    "p_nanba_job_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "111": {
+    "e_lotion_man": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "112": {
+    "e_homeless": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "113": {
+    "e_host": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "114": {
+    "e_yakuza_dosu": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "115": {
+    "e_gang": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "116": {
+    "e_tourima": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "117": {
+    "e_tribal": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "118": {
+    "e_dundee_coat": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "119": {
+    "e_furamacho": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "120": {
+    "e_land_surfer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "121": {
+    "e_spray_gang": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "122": {
+    "e_sun_oil_man": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "123": {
+    "p_kasuga_job_02": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "124": {
+    "p_woman_martial": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "125": {
+    "p_woman_job_02": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "126": {
+    "p_man_job_02": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "127": {
+    "p_man_musician": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "128": {
+    "p_chou_job_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "129": {
+    "e_regent": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "130": {
+    "e_rapper": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "131": {
+    "e_pyro": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "132": {
+    "p_woman_idol": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "133": {
+    "e_nagare_kung_fu": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "134": {
+    "p_woman_dealer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "135": {
+    "e_hitman": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "136": {
+    "e_hippie": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "137": {
+    "e_guardman": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "138": {
+    "e_hecaton": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "139": {
+    "e_hacker": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "140": {
+    "e_grappler": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "141": {
+    "e_gomi_fukuro": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "142": {
+    "e_drunk": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "143": {
+    "e_arashi": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "144": {
+    "e_ballplayer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "145": {
+    "e_bannin": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "146": {
+    "e_baseball_fan": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "147": {
+    "e_bcj": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "148": {
+    "e_big_eater": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "149": {
+    "e_barracuda_grn": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "150": {
+    "e_boss_komaki": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "151": {
+    "e_boss_attacker": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "152": {
+    "e_boss_clean_robot": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "153": {
+    "e_boss_crane_truck": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "154": {
+    "e_boss_healer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "155": {
+    "st_gas_generator": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "156": {
+    "e_boss_lau": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "157": {
+    "e_pokecer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "158": {
+    "e_mame": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "159": {
+    "e_charlie": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "160": {
+    "e_boss_kuma": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "161": {
+    "e_c_buster": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "162": {
+    "e_boss_majima_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "163": {
+    "e_special_hostess": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "164": {
+    "e_kashiwa": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "165": {
+    "e_boss_power_shovel": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "166": {
+    "e_boss_saejima": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "167": {
+    "e_boss_sawashiro": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "168": {
+    "p_man_footballer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "169": {
+    "p_woman_housekeeper": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "170": {
+    "p_woman_tennis": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "171": {
+    "e_big_sumou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "172": {
+    "e_board_man": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "173": {
+    "e_dig_man": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "174": {
+    "e_leg_long_pierrot": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "175": {
+    "e_mituryo": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "176": {
+    "e_resura_kuzure": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "177": {
+    "e_salesman": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "178": {
+    "e_smoking_dead": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "179": {
+    "e_stray_dog": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "180": {
+    "e_vacance_muscle": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "181": {
+    "e_yasi_man": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "182": {
+    "p_man_actionstar": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "183": {
+    "e_boss_kraken": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "184": {
+    "e_boss_kraken_left": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "185": {
+    "e_boss_kraken_right": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "186": {
+    "p_man_firedancer": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "187": {
+    "p_man_western": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "188": {
+    "e_ayashi_kikori": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "189": {
+    "e_bad_boys": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "190": {
+    "e_gaityu_kuzyo": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "191": {
+    "e_huhou_touki": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "192": {
+    "e_yusuriya": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "193": {
+    "e_punk": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "194": {
+    "p_man_marine": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "195": {
+    "p_chitose_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "196": {
+    "p_sonhi_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "197": {
+    "p_tomizawa_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "198": {
+    "e_boss_dwight_x": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "199": {
+    "e_special_shark": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "200": {
+    "e_boss_wong": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "201": {
+    "e_boss_yamai": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "202": {
+    "e_boss_yamai_honki": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "203": {
+    "e_kimen": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "204": {
+    "p_woman_tropical": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "205": {
+    "e_boss_kraken_sumi": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "206": {
+    "e_boss_ufo": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "207": {
+    "e_palekana_warrior": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "208": {
+    "e_eiji": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "209": {
+    "p_kiryu_cpr": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "210": {
+    "p_kiryu_crash": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "211": {
+    "p_kiryu_rush": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "212": {
+    "e_boss_big_shark": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "213": {
+    "p_kiryu_legend": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "214": {
+    "e_boss_daigo": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "215": {
+    "e_boss_narasaki": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "216": {
+    "e_boss_ebina": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "217": {
+    "e_boss_ebina_e": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "218": {
+    "p_kasuga_sujimon": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "219": {
+    "p_man_flame": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "220": {
+    "p_man_wpq": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "221": {
+    "p_woman_flame": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "222": {
+    "p_woman_wpq": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "223": {
+    "e_boss_bluthe": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "224": {
+    "e_boss_bluthe_e": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "225": {
+    "e_special_bluthe": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "226": {
+    "e_palekana_warrior_r": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "227": {
+    "e_boss_asakura": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "228": {
+    "e_nathan": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "229": {
+    "e_gondawara": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "230": {
+    "e_boss_amon": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "231": {
+    "e_boss_amon_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "232": {
+    "e_boss_amon_02": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "233": {
+    "e_boss_amon_03": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "234": {
+    "p_kasuga_brawler": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "235": {
+    "p_kiryu_rush_brawler": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "236": {
+    "p_kiryu_crash_brawler": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "236": {
+    "p_kiryu_crash_brawler": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "237": {
+    "p_kiryu_legend_1988_brawler": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "238": {
+    "p_man_western_brawler": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "239": {
+    "p_kasuga_hero_brawler": {
+      "reARMP_isValid": "1"
+    }
+  }
+}

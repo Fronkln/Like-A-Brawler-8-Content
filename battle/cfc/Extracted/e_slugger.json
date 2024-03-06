@@ -1,0 +1,176 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null"
+    },
+    "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_ath_swg"
+    },
+    "Heavy_1": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_ath_swg"
+    },
+    "Skill_yokoku": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_skl_yokoku"
+    },
+    "Skill_cry_a": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_skl_otakebiA"
+    },
+    "Skill_cry_b": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_skl_otakebiB"
+    },
+    "Skill_heal": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_skl_heal"
+    },
+    "Skill_swing_st": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_chg_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_swing_en",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_swing_en": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_ath_fulswg"
+    },
+    "Skill_swing_fail_st": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_chg_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_swing_fail_en",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_swing_fail_en": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_chg_en"
+    },
+    "BreakObstract": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_ath_ast"
+    },
+    "RunAway": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_escape"
+    },
+    "Skill_guard": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_grd_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_guard_lp",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_guard_lp": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_grd_lp",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Skill_guard_lp",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Skill_guard_en": {
+      "Move Type": 2,
+      "Animation Used": "E_SRG_BTL_WPD_grd_en"
+    },
+    "RunAway_Success": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Success_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Success_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_lp"
+    },
+    "RunAway_Failed": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Failed_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Failed_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "RunAwayFailed": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "InterceptAction": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    }
+  }
+}
