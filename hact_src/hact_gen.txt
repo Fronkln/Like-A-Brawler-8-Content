@@ -1,6 +1,5 @@
 test_hact
 h25560_najimi_fumi
-h25250_sayama_2pkick
 yd13162_kiryu_g_aston
 ec07050408_epe_select
 y8b1000_oi_trample_ao
@@ -13,3 +12,10 @@ y8b1050_ich_kabe_airon
 y8b1060_ich_oi_upper
 y8b1070_buki_n
 y8b1080_c_german
+y8b1130_bat
+y8b1140_stick_knife_body
+y8b1150_wpb_whip
+y8b1160_ich_kru_powerbomb
+y8b1170_kru_ich_lariat
+y8b1180_plr_cts_scorpion
+y8b1190_plr_shi_2pkick

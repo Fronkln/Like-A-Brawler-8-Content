@@ -1,6 +1,6 @@
 testytest|0
 hact_h25560_najimi_fumi|56
-hact_h25250_sayama_2pkick|56
+h25250_sayama_2pkick|56
 hact_yd13160_kiryu_g|56
 hact_y8b1000_oi_trample_ao|56
 hact_y8b1010_krh_rush_oi_kabe|56
@@ -9,3 +9,9 @@ hact_y8b1030_krh_hangeki|56
 hact_y8b1040_ich_gougeki|56
 hact_y8b1050_ich_kabe_airon|56
 hact_y8b1060_ich_oi_upper|56
+hact_y8b1130_bat|56
+hact_y8b1140_stick_knife_body|56
+hact_y8b1160_ich_kru_powerbomb|56
+hact_y8b1170_kru_ich_lariat|56
+hact_y8b1180_plr_cts_scorpion|56
+hact_y8b1190_plr_shi_2pkick|56

@@ -1,4 +1,3 @@
-0 
 1 default
 2 e_base
 3 p_man_job_06
@@ -238,3 +237,10 @@
 237 p_kiryu_legend_1988_brawler
 238 p_man_western_brawler
 239 p_kasuga_hero_brawler
+240 p_com_wpd
+241 p_com_wpa
+242 p_com_wpc
+243 p_com_wpb
+244 p_com_wph
+245 p_kasuga_wph
+246 p_kiryu_legend_brawler

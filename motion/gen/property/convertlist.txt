@@ -1,2 +1,7 @@
 H:\steamapps2\steamapps\common\Yakuza Kiwami\media\data\motion\property.bin
-P_KRS_ATK_counter p_ich_btl_sud_ath_cntr
+P_WPH_CMB_01 p_ich_btl_wph_ath_01
+P_WPH_CMB_02 p_ich_btl_wph_ath_02
+P_WPH_CMB_03 p_ich_btl_wph_ath_03
+P_WPH_CMB_04 p_ich_btl_wph_ath_04
+P_WPH_CMB_05 p_ich_btl_wph_ath_05
+P_WPH_ATK_heavy p_ich_btl_wph_hvy

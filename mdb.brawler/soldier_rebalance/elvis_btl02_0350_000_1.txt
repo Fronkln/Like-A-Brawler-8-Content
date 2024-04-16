@@ -1,0 +1,6 @@
+{
+   "Comment": "Yamai 1st Battle",
+   "Health": 479,
+   "Attack": 60,
+   "Defense": 60
+}

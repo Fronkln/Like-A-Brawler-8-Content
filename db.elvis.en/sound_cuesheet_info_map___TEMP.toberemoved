@@ -6669,7 +6669,7 @@
 6669 step_walk_waraji
 6670 testytest
 6671 hact_h25560_najimi_fumi
-6672 hact_h25250_sayama_2pkick
+6672 h25250_sayama_2pkick
 6673 hact_y8b1000_oi_trample_ao
 6674 hact_y8b1010_krh_rush_oi_kabe
 6675 hact_y8b1020_krh_down_hangeki
@@ -6677,3 +6677,9 @@
 6677 hact_y8b1040_ich_gougeki
 6678 hact_y8b1050_ich_kabe_airon
 6679 hact_y8b1060_ich_oi_upper
+6680 hact_y8b1130_bat
+6681 hact_y8b1140_stick_knife_body
+6682 hact_y8b1160_ich_kru_powerbomb
+6683 hact_y8b1170_kru_ich_lariat
+6684 hact_y8b1180_plr_cts_scorpion
+6685 hact_y8b1190_plr_shi_2pkick

@@ -246,7 +246,14 @@
       "p_kiryu_crash_brawler": 236,
       "p_kiryu_legend_1988_brawler": 237,
       "p_man_western_brawler": 238,
-      "p_kasuga_hero_brawler": 239
+      "p_kasuga_hero_brawler": 239,
+      "p_com_wpd": 240,
+      "p_com_wpa": 241,
+      "p_com_wpc": 242,
+      "p_com_wpb": 243,
+      "p_com_wph": 244,
+      "p_kasuga_wph": 245,
+      "p_kiryu_legend_brawler": 246
     }
   }
 }

@@ -1,0 +1,23 @@
+{
+  "is_common_pack": false,
+  "is_loop": true,
+  "base_gmt": 0,
+  "start_frame": 0.0,
+  "is_counter_attack": false,
+  "action_joint_tick": 0,
+  "is_charge_attack": false,
+  "is_nage_attack": false,
+  "is_finish_hold_attack": false,
+  "is_heavy_attack": false,
+  "is_light_attack": false,
+  "is_damage_reversal": false,
+  "is_ma_break": false,
+  "is_reverse_attack": false,
+  "is_enable_rev_sabaki": false,
+  "is_sway_attack": false,
+  "is_ex_attack": false,
+  "is_revenge": false,
+  "is_run_attack": false,
+  "is_low_attack": false,
+  "is_combo_finish": false
+}

@@ -1,4 +1,3 @@
-0 
 1 chinpira_1
 2 chinpira_2
 3 chinpira_3
@@ -9,7 +8,6 @@
 8 clean_robot_l_arm
 9 salaryman
 10 sawashiro_test
-11 matoba_e_test
 12 boss_healer_test
 13 sawashiro_e_test
 14 test_bcj
@@ -154,9 +152,6 @@
 153 elvis_boss_saejima
 154 elvis_boss_sawashiro_c13
 155 elvis_boss_amon
-156 elvis_boss_amon_rush
-157 elvis_boss_amon_crash
-158 elvis_boss_amon_legend
 159 elvis_hhm01
 160 elvis_hhm02
 161 elvis_hhm03
@@ -399,27 +394,6 @@
 398 elvis_ganjo
 399 elvis_palekana_warrior01
 400 elvis_palekana_warrior02
-401 elvis_osj02_r_arm
-402 elvis_osj02_l_arm
-403 elvis_osj03_r_arm
-404 elvis_osj03_l_arm
-405 elvis_gjn02
-406 elvis_osj02
-407 elvis_osj03
-408 elvis_boss_newosj
-409 elvis_boss_yamai_c03
-410 elvis_boss_dojima_c12
-411 elvis_boss_majima_c12
-412 elvis_boss_saejima_c12
-413 yazawa_hml04
-414 yazawa_srm03
-415 yazawa_nus01
-416 yazawa_nus02
-417 yazawa_nus03
-418 yazawa_nus04
-419 yazawa_boss_arakawa
-420 elvis_boss_wong_c06
-421 yazawa_bou01
 422 elvis_boss_sasaki
 423 elvis_npc_eiji_no_pc
 424 elvis_boss_robonomichio
@@ -429,9 +403,6 @@
 428 elvis_boss_amon_01
 429 elvis_boss_amon_02
 430 elvis_boss_amon_03
-431 elvis_boss_sawashiro_brt_shinen
-432 elvis_boss_sawashiro_e_shinen
-433 elvis_boss_sawashiro_x_shinen
 434 elvis_boss_yamai_c09_dlc
 435 elvis_boss_sawashiro_brt_dlc
 436 elvis_boss_sawashiro_e_dlc
@@ -458,3 +429,4 @@
 457 supporter_kiryu_legend
 458 supporter_tomizawa
 459 supporter_chitose
+460 supporter_sonhi

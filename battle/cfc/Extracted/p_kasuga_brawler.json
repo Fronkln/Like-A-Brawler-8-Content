@@ -295,99 +295,19 @@
     },
     "AttackFinish1": {
       "Move Type": 2,
-      "Animation Used": "p_ich_btl_sud_ath_01_fin",
-      "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "AttackFinishW1",
-          "Conditions": {
-            "Condition 1| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 2| Button Press (Buffered Input)": {
-              "Property Type": 4,
-              "Button Press": "Triangle",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            }
-          }
-        }
-      }
+      "Animation Used": "p_ich_btl_sud_ath_01_fin"
     },
     "AttackFinish2": {
       "Move Type": 2,
-      "Animation Used": "p_ich_btl_sud_ath_02_fin",
-      "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "AttackFinishW2",
-          "Conditions": {
-            "Condition 1| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 2| Button Press (Buffered Input)": {
-              "Property Type": 4,
-              "Button Press": "Triangle",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            }
-          }
-        }
-      }
+      "Animation Used": "p_ich_btl_sud_ath_02_fin"
     },
     "AttackFinish3": {
       "Move Type": 2,
-      "Animation Used": "p_ich_btl_sud_ath_03_fin",
-      "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "AttackFinishW3",
-          "Conditions": {
-            "Condition 1| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 2| Button Press (Buffered Input)": {
-              "Property Type": 4,
-              "Button Press": "Triangle",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            }
-          }
-        }
-      }
+      "Animation Used": "p_ich_btl_sud_ath_03_fin"
     },
     "AttackFinish4": {
       "Move Type": 2,
-      "Animation Used": "p_ich_btl_sud_ath_04_fin",
-      "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "AttackFinishW4",
-          "Conditions": {
-            "Condition 1| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 2| Button Press (Buffered Input)": {
-              "Property Type": 4,
-              "Button Press": "Triangle",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            }
-          }
-        }
-      }
+      "Animation Used": "p_ich_btl_sud_ath_04_fin"
     },
     "AttackFinishW1": {
       "Move Type": 2,
@@ -560,7 +480,21 @@
           "Unknown Byte 4": 0,
           "Motion ID": 16521
         }
-      }
+      },
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "GrabProcedureF",
+          "Conditions": {
+            "Condition 1| Analog Deadzone": {
+              "Property Type": 13,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 128
+            }
+          }
+        }
+	  }
     },
     "MortalCounter": {
       "Move Type": 2,
@@ -588,7 +522,7 @@
           "Conditions": {
             "Condition 1| Button Press": {
               "Property Type": 1,
-              "Button Press": "Circle",
+              "Button Press": "Square",
               "Conditionals": "",
               "Additional Conditional": 0
             }
@@ -600,20 +534,20 @@
       "Move Type": 2,
       "Animation Table": {
         "Animation 1": {
-          "Animation Used": "P_ICH_BTL_SUD_sy0_tckl",
+          "Animation Used": "p_ich_btl_sud_sy0_mr_02",
           "Unknown Byte 1": 1,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
           "Unknown Byte 4": 0,
-          "Motion ID": 20095
+          "Motion ID": 21064
         },
         "Animation 2": {
-          "Animation Used": "P_ICH_BTL_SUD_sy1_tckl",
+          "Animation Used": "p_ich_btl_sud_sy1_mr_02",
           "Unknown Byte 1": 3,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
           "Unknown Byte 4": 0,
-          "Motion ID": 20096
+          "Motion ID": 21065
         }
       }
     },
