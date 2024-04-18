@@ -224,6 +224,13 @@
               "Conditionals": "",
               "Additional Conditional": 0
             },
+            "Condition 3| Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 5,
+              "Unk Byte 2": 1,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
             "Condition 2| Follow Up Window Start": {
               "Property Type": 5,
               "Unk Byte 1": 0,

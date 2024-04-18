@@ -1,0 +1,6 @@
+{
+   "Comment": "Sasaki",
+   "Health": 60,
+   "Attack": 13,
+   "Defense": 4
+}

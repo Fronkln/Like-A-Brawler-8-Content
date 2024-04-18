@@ -1,0 +1,6 @@
+{
+   "Comment": "Ch1 Homeless Man Bully",
+   "Health": 36,
+   "Attack": 10,
+   "Defense": 4
+}

@@ -1,0 +1,6 @@
+{
+   "Comment": "Encounter",
+   "Health": 40,
+   "Attack": 18,
+   "Defense": 14
+}
