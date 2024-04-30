@@ -1,0 +1,6 @@
+{
+   "Comment": "Asakura Battle Goon",
+   "Health": 40,
+   "Attack": 18,
+   "Defense": 14
+}

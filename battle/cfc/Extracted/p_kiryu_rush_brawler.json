@@ -107,7 +107,7 @@
     },
     "Light_1": {
       "Move Type": 2,
-      "Animation Used": "p_kru_btl_krh_ath_01",
+      "Animation Used": "p_kra_btl_sud_ath_rsh01",
       "Follow Ups": {
         "Follow Up 1": {
           "Follows Up to": "Light_2",
@@ -149,7 +149,7 @@
     },
     "Light_2": {
       "Move Type": 2,
-      "Animation Used": "p_kru_btl_krh_ath_02",
+      "Animation Used": "p_kra_btl_sud_ath_rsh02",
       "Follow Ups": {
         "Follow Up 1": {
           "Follows Up to": "Light_3",
@@ -191,7 +191,7 @@
     },
     "Light_3": {
       "Move Type": 2,
-      "Animation Used": "p_kru_btl_krh_ath_03",
+      "Animation Used": "p_kra_btl_sud_ath_rsh03",
       "Follow Ups": {
         "Follow Up 1": {
           "Follows Up to": "Light_4",
@@ -233,7 +233,7 @@
     },
     "Light_4": {
       "Move Type": 2,
-      "Animation Used": "p_kru_btl_krh_ath_04",
+      "Animation Used": "p_kra_btl_sud_ath_rsh04",
       "Follow Ups": {
         "Follow Up 2": {
           "Follows Up to": "Light_5",
@@ -275,11 +275,11 @@
     },
     "Light_5": {
       "Move Type": 2,
-      "Animation Used": "p_kru_btl_krh_ath_05"
+      "Animation Used": "p_kra_btl_sud_ath_rsh05"
     },
     "Heavy": {
       "Move Type": 2,
-      "Animation Used": "P_KRU_BTL_SUD_bct_ath_hvy"
+      "Animation Used": "p_kra_btl_sud_ath_gdtb_st"
     },
     "down_atk": {
       "Move Type": 2,

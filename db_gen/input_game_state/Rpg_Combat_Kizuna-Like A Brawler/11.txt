@@ -1,0 +1,5 @@
+{
+    "InputActionName": "Battle_Extreme_Heat",
+    "Button1": "15",
+    "Button2": "68",
+}

@@ -19,3 +19,10 @@ y8b1160_ich_kru_powerbomb
 y8b1170_kru_ich_lariat
 y8b1180_plr_cts_scorpion
 y8b1190_plr_shi_2pkick
+y8b1200_oi_kickover_utu_c
+y8b1210_ich_tower_bridge
+y8b1220_plr_sae_tag
+y8b1230_ich_torment
+y8b1240_ich_wph_kaburikasa
+y8b_tutorial_btl01_0500_01
+talk_y8b_yoshino_test

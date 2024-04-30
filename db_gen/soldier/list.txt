@@ -9,3 +9,4 @@ db_gen\soldier\elvis_btl02_0300_000_2
 db_gen\soldier\elvis_btl02_0300_000_3
 db_gen\soldier\elvis_btl02_0300_000_4
 db_gen\soldier\supporter_sonhi
+db_gen\soldier\supporter_saeko

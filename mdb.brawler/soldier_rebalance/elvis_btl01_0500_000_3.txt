@@ -1,0 +1,6 @@
+{
+   "Comment": "Extreme Heat Tutorial Goon",
+   "Health": 55,
+   "Attack": 24,
+   "Defense": 22
+}

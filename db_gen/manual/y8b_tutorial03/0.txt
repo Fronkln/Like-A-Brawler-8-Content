@@ -1,0 +1,6 @@
+Fight With Style!
+y8b_tutorial03_manual1
+When you have heat, you can enter Extreme Heat Mode!
+When in Extreme Heat Mode, you transform to your current job, and have flinching invulnerability.
+Your heat will rapidly decay, and you will transform back once your heat is depleted. 
+As you increase your stats, you will be able to activate it for longer. For now, give it a try!

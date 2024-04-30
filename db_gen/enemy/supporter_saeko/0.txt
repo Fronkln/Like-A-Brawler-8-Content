@@ -1,0 +1,4 @@
+{
+    "Skill": "saeko_job01_nml_atk",
+    "Rate": 100
+}

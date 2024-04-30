@@ -1,0 +1,301 @@
+{
+	".ver": 43,
+	"centity_base": {
+		".ver": 2,
+		"m_entity_component_map": {
+			".ver": 1,
+			"basic": {
+				".ver": 0,
+				"p_ec": {
+					".ver": 8,
+					"m_daynight": "day,eve,ngt,spe,",
+					"m_stage_id": {
+						"puid": 114,
+						"puid.id": "st_yokohama",
+						"puid.type": "stage"
+					},
+					"m_v_orient.w": 1063843267,
+					"m_v_orient.x": 0,
+					"m_v_orient.y": 3201428357,
+					"m_v_orient.z": 0,
+					"m_v_pos.w": 1065353216,
+					"m_v_pos.x": 1121581793,
+					"m_v_pos.y": 1091567616,
+					"m_v_pos.z": 1134176829
+				}
+			},
+			"ccc": {
+				".ver": 0,
+				"p_ec": {
+					".ver": 8,
+					"m_access_type": {
+						"puid": 1,
+						"puid.id": "talk",
+						"puid.type": "access_type"
+					},
+					"m_children": [],
+					"m_flags": 0,
+					"m_pages": [
+						{
+							".kind": "base",
+							".ver": 0,
+							"m_actions": [
+								{
+									".kind": "play_auth_shop",
+									".ver": 12,
+									"m_b_free_play": false,
+									"m_is_pause_waiting_file": false,
+									"m_play_origin": {
+										"puid": 1,
+										"puid.id": "default",
+										"puid.type": "hact/play_origin"
+									},
+									"m_replace_asset_list": [],
+									"m_replace_chara_list": [],
+									"m_return_timing": {
+										"puid": 3,
+										"puid.id": "talk_end",
+										"puid.type": "callback_timing"
+									},
+									"m_shop_id": {
+										"puid": 251,
+										"puid.id": "elvis_y_lovemagic_c01",
+										"puid.type": "shop"
+									},
+									"m_talk_id": {
+										"puid": 4451,
+										"puid.id": "talk_y8b_yoshino_test",
+										"puid.type": "talk/param"
+									}
+								}
+							],
+							"m_conditions": [
+								{
+									".ver": 0,
+									"ary": [
+										{
+											".kind": "range",
+											".ver": 4,
+											"f_cylinder_height": 2.99999952316285,
+											"f_cylinder_radius": 1.5,
+											"flags": 10,
+											"m_effect_id": {
+												"puid": 10,
+												"puid.id": "side_wait",
+												"puid.type": "effect/mission_area"
+											},
+											"m_shape": {
+												"puid": 3,
+												"puid.id": "cylinder",
+												"puid.type": "ccc/range_shape"
+											},
+											"m_uid": {
+												".ver": 1,
+												"kind": "",
+												"serial": 0,
+												"user": 0
+											},
+											"v_cylinder_center": [
+												0.0,
+												1.0,
+												0,
+												0.0
+											]
+										},
+										{
+											".kind": "pad_input",
+											".ver": 6,
+											"m_access_type": {
+												"puid": 1,
+												"puid.id": "talk",
+												"puid.type": "access_type"
+											},
+											"m_b_visible_check": true,
+											"m_button": {
+												"puid": 1,
+												"puid.id": "decide",
+												"puid.type": "pad_button"
+											},
+											"m_debug_info_text": "",
+											"m_f_visible_range": 16.00000000000001,
+											"m_v_icon_offset": [
+												0.0,
+												0.0,
+												0.0,
+												1.0
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			}
+		},
+		"m_uid": {
+			".ver": 1,
+			"kind": "character",
+			"serial": 1122,
+			"user": 2337
+		}
+	},
+	"m_attributes.get_dispose_data()": {
+		".ver": 14,
+		"ai_": {
+			"puid": 5,
+			"puid.id": "idle",
+			"puid.type": "ai/dispose"
+		},
+		"ai_graph_name_": "",
+		"ai_graph_param_": "",
+		"ai_param_": {
+			"puid": 175,
+			"puid.id": "idle_shop",
+			"puid.type": "ai/param"
+		},
+		"auto_invisible_cancel_mission_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "mission/mission_kind"
+		},
+		"behavior_action_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "bhv_action"
+		},
+		"behavior_group_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "bhv_group"
+		},
+		"behavior_set_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "behavior_set"
+		},
+		"btl_reaction_pattern_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "ai/btl_reaction_pattern"
+		},
+		"chara_id_": {
+			"puid": 15613,
+			"puid.id": "m_watase",
+			"puid.type": "character"
+		},
+		"deform_kind_id_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "character/npc/deform/kind"
+		},
+		"disp_init_id_": 0,
+		"div_ai_id_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "talk/param"
+		},
+		"div_ai_param_id_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "ai/div_ai/param"
+		},
+		"edit_style_": {
+			"puid": 1,
+			"puid.id": "expert",
+			"puid.type": "dispose/chara_edit_style"
+		},
+		"emote_reaction_pattern_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "ai/emote_reaction_pattern"
+		},
+		"equip_order_list_": [],
+		"eye_pattern_id_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "character/npc/eye_pattern"
+		},
+		"face_pattern_id_": {
+			"puid": 32,
+			"puid.id": "pat_joy1_a",
+			"puid.type": "motion/face_pattern"
+		},
+		"first_entry_mission_id_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "mission/mission_kind"
+		},
+		"fix_model_lod_": 4,
+		"is_bag_off_": true,
+		"is_dark_light_off_": false,
+		"is_disp_plight_shadow_": false,
+		"is_enable_chara_proxy_": true,
+		"is_force_update_motion_": false,
+		"is_no_disp_map_icon_": false,
+		"is_shoes_off_": false,
+		"is_test_layout_": false,
+		"is_wish_auto_invisible_": false,
+		"look_param_id_": {
+			"puid": 1,
+			"puid.id": "idle",
+			"puid.type": "character/npc/look_param"
+		},
+		"map_icon_id_": {
+			"puid": 103,
+			"puid.id": "store_equip",
+			"puid.type": "map/icon"
+		},
+		"npc_light_processing_id_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "character/npc/light_processing"
+		},
+		"npc_setup_": {
+			"puid": 32,
+			"puid.id": "no_collision_ever_fix",
+			"puid.type": "character/npc/setup"
+		},
+		"npc_special_type_id_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "character/npc/special_type"
+		},
+		"personality_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "character/npc/personality"
+		},
+		"property_template_id_": {
+			"puid": 7,
+			"puid.id": "npc_idle_no_collision",
+			"puid.type": "character/property_template"
+		},
+		"scale_id_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "character/height_scale"
+		},
+		"sleep_sec_": 0.0,
+		"soldier_data_id_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "character/npc/soldier/personal_data"
+		},
+		"tag_id_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "character/npc/tag"
+		},
+		"voicer_id_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "sound/voicer"
+		},
+		"voicer_list_kind_": {
+			"puid": 0,
+			"puid.id": "",
+			"puid.type": "character/npc/voicer_list_kind"
+		}
+	}
+}

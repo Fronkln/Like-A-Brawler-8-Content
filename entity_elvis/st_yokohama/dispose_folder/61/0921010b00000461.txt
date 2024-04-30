@@ -1,0 +1,64 @@
+{
+	".ver": 1,
+	"centity_base": {
+		".ver": 2,
+		"m_entity_component_map": {
+			".ver": 1,
+			"basic": {
+				".ver": 0,
+				"p_ec": {
+					".ver": 8,
+					"m_daynight": "day,eve,ngt,spe,",
+					"m_stage_id": {
+						"puid": 114,
+						"puid.id": "st_yokohama",
+						"puid.type": "stage"
+					},
+					"m_v_orient.w": 1065353216,
+					"m_v_orient.x": 0,
+					"m_v_orient.y": 0,
+					"m_v_orient.z": 0,
+					"m_v_pos.w": 1065353216,
+					"m_v_pos.x": 0,
+					"m_v_pos.y": 0,
+					"m_v_pos.z": 0
+				}
+			},
+			"ccc": {
+				".ver": 0,
+				"p_ec": {
+					".ver": 8,
+					"m_access_type": {
+						"puid": 1,
+						"puid.id": "talk",
+						"puid.type": "access_type"
+					},
+					"m_children": [
+						657807935400838242,
+						675540858933609570
+					],
+					"m_flags": 0,
+					"m_pages": [
+						{
+							".kind": "base",
+							".ver": 0,
+							"m_actions": [],
+							"m_conditions": [
+								{
+									".ver": 0,
+									"ary": []
+								}
+							]
+						}
+					]
+				}
+			}
+		},
+		"m_uid": {
+			".ver": 1,
+			"kind": "dispose_folder",
+			"serial": 1121,
+			"user": 2337
+		}
+	}
+}

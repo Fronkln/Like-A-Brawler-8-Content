@@ -1,0 +1,6 @@
+{
+   "Comment": "Asakura 1st Fight",
+   "Health": 151,
+   "Attack": 25,
+   "Defense": 22
+}

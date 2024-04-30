@@ -15,3 +15,8 @@ hact_y8b1160_ich_kru_powerbomb|56
 hact_y8b1170_kru_ich_lariat|56
 hact_y8b1180_plr_cts_scorpion|56
 hact_y8b1190_plr_shi_2pkick|56
+hact_y8b1210_ich_tower_bridge|56
+hact_y8b1200_oi_kickover_utu_c|56
+hact_y8b1220_plr_sae_tag|56
+hact_y8b1230_ich_torment|56
+hact_y8b1240_ich_wph_kaburikasa|56

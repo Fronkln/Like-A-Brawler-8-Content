@@ -5,3 +5,4 @@ db_gen\enemy\supporter_kiryu_legend
 db_gen\enemy\supporter_tomizawa
 db_gen\enemy\supporter_chitose
 db_gen\enemy\supporter_sonhi
+db_gen\enemy\supporter_saeko
