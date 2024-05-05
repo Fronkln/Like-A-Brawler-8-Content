@@ -1,6 +1,6 @@
 {
    "Comment": "Sasaki",
-   "Health": 60,
-   "Attack": 13,
+   "Health": 55,
+   "Attack": 10,
    "Defense": 4
 }
