@@ -1,6 +1,6 @@
 {
    "Comment": "Saeko Date Enemy",
-   "Health": 46,
+   "Health": 75,
    "Attack": 16,
    "Defense": 14
 }

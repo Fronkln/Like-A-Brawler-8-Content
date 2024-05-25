@@ -21199,3 +21199,14 @@
 21199 p_com_btl_wpc_grd_lp
 21200 p_com_btl_wpc_grd_rct_f
 21201 p_com_btl_wpc_grd_st
+21202 p_ich_btl_hro_ath_hvy_md
+21203 p_ich_btl_sud_sy0_nck_hvy
+21204 p_ich_btl_sud_sy0_nck_rsh
+21205 p_ich_btl_sud_sy1_nck_hvy
+21206 p_ich_btl_sud_sy1_nck_rsh
+21207 p_ich_btl_wph_stda_lp
+21208 p_ich_btl_wph_sft_tfm01_std
+21209 p_ich_btl_wph_sft_tfm02_std
+21210 p_ich_btl_wph_run_f
+21211 p_ich_mov_run_en_wph
+21212 p_com_btl_wpd_pickup_flr_a

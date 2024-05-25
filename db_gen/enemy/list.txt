@@ -1,8 +1,0 @@
-db_gen\enemy\supporter_kasuga
-db_gen\enemy\supporter_adachi
-db_gen\enemy\supporter_nanba
-db_gen\enemy\supporter_kiryu_legend
-db_gen\enemy\supporter_tomizawa
-db_gen\enemy\supporter_chitose
-db_gen\enemy\supporter_sonhi
-db_gen\enemy\supporter_saeko

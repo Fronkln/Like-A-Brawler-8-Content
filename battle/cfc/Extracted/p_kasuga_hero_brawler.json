@@ -37,44 +37,6 @@
             }
           }
         },
-        "Follow Up 3": {
-          "Follows Up to": "down_atk_dush",
-          "Conditions": {
-            "Condition 1| Button Press": {
-              "Property Type": 1,
-              "Button Press": "Triangle",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            },
-            "Condition 2| Fighter Status": {
-              "Property Type": 7,
-              "State Type": "Dash",
-              "Conditionals": ""
-            },
-            "Condition 3| Target Change": {
-              "Property Type": 9,
-              "Target": 0,
-              "Unk Byte 2": 0,
-              "Target Position": 2,
-              "Unk Byte 4": 0
-            },
-            "Condition 4| Fighter Status": {
-              "Property Type": 7,
-              "State Type": "Down",
-              "Conditionals": ""
-            },
-            "Condition 5| Distance Limit": {
-              "Property Type": 19,
-              "Enemy Distance": 250,
-              "Unk Byte 4": 128
-            },
-            "Condition 6| Distance Limit": {
-              "Property Type": 19,
-              "Enemy Distance": 450,
-              "Unk Byte 4": 0
-            }
-          }
-        },
         "Follow Up 4": {
           "Follows Up to": "down_atk",
           "Conditions": {
@@ -241,15 +203,11 @@
     },
     "Heavy": {
       "Move Type": 2,
-      "Animation Used": "P_KRU_BTL_SUD_bct_ath_hvy"
+      "Animation Used": "p_ich_btl_hro_ath_hvy_md"
     },
     "down_atk": {
       "Move Type": 2,
-      "Animation Used": "P_KRU_BTL_SUD_ath_dwn_sp"
-    },
-    "down_atk_dush": {
-      "Move Type": 2,
-      "Animation Used": "P_KRU_BTL_SUD_ath_dwn_02_sp"
+      "Animation Used": "p_ich_btl_hro_ath_hvy_md"
     },
     "AttackFinish1": {
       "Move Type": 2,

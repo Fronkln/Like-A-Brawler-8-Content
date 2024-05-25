@@ -180,3 +180,14 @@ p_com_btl_wpc_grd_en
 p_com_btl_wpc_grd_lp
 p_com_btl_wpc_grd_rct_f
 p_com_btl_wpc_grd_st
+p_ich_btl_hro_ath_hvy_md
+p_ich_btl_sud_sy0_nck_hvy
+p_ich_btl_sud_sy0_nck_rsh
+p_ich_btl_sud_sy1_nck_hvy
+p_ich_btl_sud_sy1_nck_rsh
+p_ich_btl_wph_stda_lp
+p_ich_btl_wph_sft_tfm01_std
+p_ich_btl_wph_sft_tfm02_std
+p_ich_btl_wph_run_f
+p_ich_mov_run_en_wph
+p_com_btl_wpd_pickup_flr_a
