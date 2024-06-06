@@ -1,0 +1,9 @@
+{
+    "Name": "LAB8: Western Test",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "p_man_western_brawler",
+    "CommandName": "Shoot_1",
+    "HAct": "",
+    "BaseAttackRatio": 10000000.0 
+}

@@ -4,6 +4,10 @@
       "Move Type": 1,
       "Animation Used": "Null"
     },
+    "MortalAttack": {
+      "Move Type": 2,
+      "Animation Used": "e_nml_btl_wpe_ath_ma"
+      },
     "Skill_charge": {
       "Move Type": 2,
       "Animation Used": "E_NML_BTL_WPE_chg_nyukon"

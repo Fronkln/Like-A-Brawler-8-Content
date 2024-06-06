@@ -191,3 +191,5 @@ p_ich_btl_wph_sft_tfm02_std
 p_ich_btl_wph_run_f
 p_ich_mov_run_en_wph
 p_com_btl_wpd_pickup_flr_a
+e_ask_btl_sud_ath_ma
+e_nml_btl_wpe_ath_ma

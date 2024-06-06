@@ -1,0 +1,8 @@
+{
+    "Name": "LAB8: Kiryu To Legend",
+    "Motion": "P_KRU_BTL_SUD_style_st",
+    "UseCond": 23,
+    "CommandSet": "",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}

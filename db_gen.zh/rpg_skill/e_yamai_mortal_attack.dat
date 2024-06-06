@@ -1,0 +1,9 @@
+{
+    "Name": "LAB8: Yamai Mortal Attack",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "e_boss_yamai",
+    "CommandName": "MortalAttack",
+    "HAct": "",
+    "BaseAttackRatio": 100.0
+}

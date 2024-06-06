@@ -1,0 +1,8 @@
+{
+    "Name": "LAB8: Player Pickup WPH",
+    "Motion": "p_com_btl_wph_pickup_flr_a",
+    "UseCond": 23,
+    "CommandSet": "",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}

@@ -1,0 +1,9 @@
+{
+    "Name": "LAB8: Asakura Mortal Attack",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "e_boss_asakura",
+    "CommandName": "MortalAttack",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}

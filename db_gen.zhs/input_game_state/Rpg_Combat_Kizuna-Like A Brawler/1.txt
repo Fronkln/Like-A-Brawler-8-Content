@@ -1,0 +1,5 @@
+{
+    "InputActionName": "Move_Back",
+    "Button1": "20",
+    "Button2": "70",
+}

@@ -1,0 +1,5 @@
+The Art of Perfect Guarding
+btl_manual_004
+Guarding just before an attack hits will result in a <color=sanpo>Perfect Guard</color>, dealing no damage.
+You can still perform a <color=sanpo>Perfect Guard</color> while you are in pain.
+Mastering <color=sanpo>Perfect Guard</color> is the recipe to avoiding damage and breaking out of tough situations!

@@ -1,0 +1,5 @@
+{
+    "InputActionName": "Battle_Drop_Weapon",
+    "Button1": "4",
+    "Button2": "56",
+}

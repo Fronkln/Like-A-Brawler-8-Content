@@ -1,0 +1,5 @@
+{
+    "InputActionName": "Battle_Reset_Camera",
+    "Button1": "7",
+    "Button2": "69",
+}

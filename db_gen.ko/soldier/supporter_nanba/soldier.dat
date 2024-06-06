@@ -1,0 +1,16 @@
+{
+    "EnemyID": "supporter_nanba",
+    "CharaID": 15637,
+    "LifeGaugeType": 1,
+    "Level": 1,
+    "HPRatio": 1,
+    "Health": 3,
+    "Attack": 8,
+    "Defense": 3,
+    "SPAttack": 8,
+    "SPDefense": 8,
+    "BaseWait": 8,
+    "JobEXPPoint": 6,
+    "ForceKind": true,
+    "NoSujimon": true,
+}

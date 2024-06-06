@@ -1,0 +1,17 @@
+{
+    "IDOverride": "elvis_btl02_0300_000_1",
+    "EnemyID": "elvis_ars01",
+    "CharaID": 23335,
+    "LifeGaugeType": 1,
+    "Level": 6,
+    "HPRatio": 1,
+    "Health": 16,
+    "Attack": 3,
+    "Defense": 8,
+    "SPAttack": 1,
+    "SPDefense": 4,
+    "BaseWait": 3,
+    "JobEXPPoint": 7,
+    "ForceKind": false,
+    "NoSujimon": false
+}

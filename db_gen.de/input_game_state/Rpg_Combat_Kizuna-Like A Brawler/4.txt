@@ -1,0 +1,5 @@
+{
+    "InputActionName": "Battle_Dodge",
+    "Button1": "3",
+    "Button2": "26",
+}

@@ -1,0 +1,4 @@
+{
+    "Skill": "kiryu_job01_nml_atk_cpr",
+    "Rate": 100
+}

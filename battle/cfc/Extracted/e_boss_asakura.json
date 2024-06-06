@@ -4,6 +4,10 @@
       "Move Type": 1,
       "Animation Used": "Null"
     },
+    "MortalAttack": {
+      "Move Type": 2,
+      "Animation Used": "e_ask_btl_sud_ath_ma"
+      },	  
     "Skill_tackle_st": {
       "Move Type": 2,
       "Animation Used": "E_ASK_BTL_SUD_atm_tckl",

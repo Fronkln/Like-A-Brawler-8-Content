@@ -1,0 +1,8 @@
+{
+    "Name": "LAB8: Yamai Counter",
+    "Motion": "e_ymi_btl_wpa_ath_cntr",
+    "UseCond": 23,
+    "CommandSet": "",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}

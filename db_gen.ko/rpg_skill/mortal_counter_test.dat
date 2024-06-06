@@ -1,0 +1,10 @@
+{
+    "Name": "LAB8: Mortal Counter Test",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "p_kasuga_brawler",
+    "CommandName": "MortalCounter",
+    "HAct": "",
+    "BaseAttackRatio": 100.0,
+    "IsSync": true 
+}

@@ -1,0 +1,3 @@
+2 3
+Realtime
+Turn-based

@@ -1,0 +1,9 @@
+{
+  "Name": "Kiryu",
+  "CtrlType": "kiryu",
+  "Arts": "supporter_kiryu_legend",
+  "EquipL": 0,
+  "EquipR": 0,
+  "Level": 10,
+  "Model": 23350
+}
