@@ -1,3 +1,4 @@
 Mortal Reversal
 y8b_tutorial05_manual1
-Sometimes, powerful enemies may perform a deadly Mortal Attack indicated by them glowing red. Guard against the attack just before the hit lands to perform a Mortal Reversal.
+Sometimes, powerful enemies may perform a deadly Mortal Attack indicated by them glowing red. 
+Guard just before the hit lands to perform a Mortal Reversal!

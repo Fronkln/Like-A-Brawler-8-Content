@@ -1,0 +1,9 @@
+{
+    "Name": "LAB8: Generic WPE Boss Mortal Attack",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "e_boss_attacker",
+    "CommandName": "MortalAttack",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}
