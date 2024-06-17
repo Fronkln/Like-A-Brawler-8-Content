@@ -1,0 +1,6 @@
+{
+   "Comment": "Long Battle Enemy",
+   "Health": 50,
+   "Attack": 28,
+   "Defense": 34
+}

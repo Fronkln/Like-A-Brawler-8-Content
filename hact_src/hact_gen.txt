@@ -54,3 +54,7 @@ y8b1420_sit_needle_holder
 y8bb1430_ask_rush
 y8b_tutorial_btl01_0400_01
 y8b1440_ich_kru_recovery
+y8br0010_combo_extension
+y8b1450_ministove_burn
+y8b1460_nageotoshi
+y8b1470_nageotoshi_kubi

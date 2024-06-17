@@ -5,3 +5,4 @@ y8b_tutorial03_manual1
 y8b_ichiban_skill_torment
 y8b_tutorial05_manual1
 y8b_can_hact
+y8b_ichiban_skill_attack

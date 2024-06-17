@@ -1,6 +1,6 @@
 {
    "Comment": "Kuwaki",
-   "Health": 510,
-   "Attack": 45,
+   "Health": 465,
+   "Attack": 40,
    "Defense": 20
 }

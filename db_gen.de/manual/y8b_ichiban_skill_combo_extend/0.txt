@@ -1,0 +1,3 @@
+Combo Extension
+y8b_ichiban_skill_attack
+Rush combo increased to 4 attacks!

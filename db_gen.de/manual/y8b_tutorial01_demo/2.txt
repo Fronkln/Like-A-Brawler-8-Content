@@ -1,3 +1,4 @@
-Changing Controls
+Adjusting Settings
 y8b_tutorial01_manual3
-You can change mod controls from Settings.
+You can change mod controls from the pause menu.
+You can also change mod settings from mods/Like A Brawler 8/mod_settings.ini
