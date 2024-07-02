@@ -1,0 +1,5 @@
+Incomplete/Broken Battle
+y8b_poor_battle
+This battle may not work properly in realtime.
+You may choose to experience it in turn based instead.
+Sorry!

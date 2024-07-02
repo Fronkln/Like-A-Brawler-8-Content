@@ -230,3 +230,4 @@ e_nml_btl_wpy_ath_dmg_rev
 e_nml_btl_wpy_atm_ma
 e_nml_btl_wpy_sy0_ma
 e_nml_btl_wpy_sy1_ma
+e_kpt_btl_sud_ath_shouken

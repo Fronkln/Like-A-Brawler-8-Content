@@ -8,3 +8,4 @@ y8b_tutorial04
 y8b_tutorial01_3
 y8b_tutorial05
 y8b_ichiban_skill_combo_extend
+y8b_warning_poor_battle

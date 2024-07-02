@@ -59,3 +59,4 @@ y8b1450_ministove_burn
 y8b1460_nageotoshi
 y8b1470_nageotoshi_kubi
 y8bb1480_amn_binta
+y8b_warning_poor_battle

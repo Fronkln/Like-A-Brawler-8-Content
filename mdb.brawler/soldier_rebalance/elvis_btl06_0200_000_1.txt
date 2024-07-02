@@ -1,0 +1,6 @@
+{
+   "Comment": "Yamai 2nd Fight(Broken)",
+   "Health": 1500,
+   "Attack": 146,
+   "Defense": 116
+}

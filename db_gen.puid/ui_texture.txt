@@ -7,3 +7,4 @@ y8b_tutorial05_manual1
 y8b_can_hact
 y8b_ichiban_skill_attack
 title_logo_elvis
+y8b_poor_battle
