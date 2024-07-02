@@ -1,0 +1,6 @@
+{
+   "Comment": "Sujimon Introduction Battle Creep",
+   "Health": 170,
+   "Attack": 34,
+   "Defense": 44
+}

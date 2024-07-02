@@ -4,6 +4,28 @@
       "Move Type": 1,
       "Animation Used": "Null"
     },
+    "MortalAttack_st": {
+      "Move Type": 2,
+      "Animation Used": "E_DWT_BTL_WPX_skl_tame",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "MortalAttack_en",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "MortalAttack_en": {
+      "Move Type": 2,
+      "Animation Used": "E_DWT_BTL_WPX_slh_abare"
+    },
     "Skill_shark_st": {
       "Move Type": 2,
       "Animation Used": "E_DWT_BTL_WPX_atm_nge",

@@ -4,6 +4,46 @@
       "Move Type": 1,
       "Animation Used": "Null"
     },
+    "MortalAttack1_Enemy": {
+      "Move Type": 2,
+      "Animation Used": "e_tmz_btl_rnc_ath_ma_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "MortalAttack2_Enemy",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "MortalAttack2_Enemy": {
+      "Move Type": 2,
+      "Animation Used": "E_TMZ_BTL_RNC_skl_kachiage",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "MortalAttack3_Enemy",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "MortalAttack3_Enemy": {
+      "Move Type": 2,
+      "Animation Used": "E_TMZ_BTL_RNC_ath_nml_01"
+    },		
     "ComboAtk_1": {
       "Move Type": 2,
       "Animation Used": "M_TMZ_BTL_RNC_ath_nml_02"

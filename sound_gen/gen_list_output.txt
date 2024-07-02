@@ -37,3 +37,4 @@ hact_y8b1400_ich_ura_grail|56
 hact_y8b1410_ich_drop_obj|56
 y8b_common|19
 hact_y8bb1430_ask_rush|56
+hact_y8bb1480_amn_binta|56

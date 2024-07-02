@@ -20,6 +20,67 @@
       "Move Type": 2,
       "Animation Used": "E_NML_BTL_SUD_ecp_180l_b"
     },
+    "MortalAttack_st": {
+      "Move Type": 2,
+      "Animation Used": "E_TST_BTL_WPG_skl_tckl_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "MortalAttack_lp",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "MortalAttack_lp": {
+      "Move Type": 2,
+      "Animation Used": "E_TST_BTL_WPG_skl_tckl_lp",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "MortalAttack_en",
+          "Conditions": {
+            "Condition 1| Custom": {
+              "Property Type": 10,
+              "String": 5656
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "MortalAttack_en",
+          "Conditions": {
+            "Condition 1| Combo Number": {
+              "Property Type": 32,
+              "Unk Byte 1": 10,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 128
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "MortalAttack_lp",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "MortalAttack_en": {
+      "Move Type": 2,
+      "Animation Used": "E_TST_BTL_WPG_skl_tckl_en"
+    },
     "Skill_tackle_st": {
       "Move Type": 2,
       "Animation Used": "E_TST_BTL_WPG_skl_tckl_st",
