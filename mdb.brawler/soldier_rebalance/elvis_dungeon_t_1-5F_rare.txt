@@ -1,0 +1,6 @@
+{
+   "Comment": "Dungeon Worm Rare",
+   "Health": 160,
+   "Attack": 130,
+   "Defense": 162
+}

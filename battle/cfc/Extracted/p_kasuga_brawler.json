@@ -487,7 +487,7 @@
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
-          "Unknown Byte 4": 0,
+          "Unknown Byte 4": 1,
           "Motion ID": 16484
         },
         "Animation 2": {

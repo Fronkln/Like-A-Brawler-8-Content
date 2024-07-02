@@ -1,0 +1,6 @@
+{
+   "Comment": "Dungeon Boss",
+   "Health": 300,
+   "Attack": 116,
+   "Defense": 104
+}

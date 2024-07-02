@@ -1,0 +1,6 @@
+{
+   "Comment": "Kung Fu Enemy",
+   "Health": 265,
+   "Attack": 80,
+   "Defense": 108
+}
