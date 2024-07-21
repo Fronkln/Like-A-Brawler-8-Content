@@ -60,3 +60,6 @@ y8b1460_nageotoshi
 y8b1470_nageotoshi_kubi
 y8bb1480_amn_binta
 y8b_warning_poor_battle
+y8b1490_cts_revive
+y8bn1010_ric
+y8b1500_oiuchi_head_punch_ao

@@ -25,3 +25,4 @@ e_boss_wpy_mortal_attack
 e_boss_calorie_knight_mortal_attack
 e_boss_wpg_mortal_attack
 e_dwight_mortal_attack
+e_wong_mortal_attack

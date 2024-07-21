@@ -134,6 +134,53 @@
         }
       }
     },
+    "Damage": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "DamRevHeavyL",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2|Input Direction": {
+              "Property Type": 26,
+              "Direction": "Right"
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "DamRevHeavyR",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2|Input Direction": {
+              "Property Type": 26,
+              "Direction": "Left"
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "DamRevHeavyF",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
     "Light_1": {
       "Move Type": 2,
       "Animation Used": "p_ich_btl_sud_ath_01",
@@ -338,6 +385,18 @@
     "AttackFinishW4": {
       "Move Type": 2,
       "Animation Used": "P_KRU_BTL_SUD_bct_ath_04_finW"
+    },
+    "DamRevHeavyF": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_dmg_rev_fin_f"
+    },
+    "DamRevHeavyL": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_dmg_rev_fin_l"
+    },
+    "DamRevHeavyR": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_dmg_rev_fin_r"
     },
     "GrabStart": {
       "Move Type": 2,

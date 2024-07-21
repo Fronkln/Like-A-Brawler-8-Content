@@ -4,6 +4,64 @@
       "Move Type": 1,
       "Animation Used": "Null"
     },
+    "MortalAttack_st": {
+      "Move Type": 2,
+      "Animation Used": "e_won_btl_wpb_ath_ma_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "MortalAttack_01",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "MortalAttack_01": {
+      "Move Type": 2,
+      "Animation Used": "E_WON_BTL_WPB_ath_cmb_01",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "MortalAttack_02",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "MortalAttack_02": {
+      "Move Type": 2,
+      "Animation Used": "E_WON_BTL_WPB_ath_cmb_02",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "MortalAttack_03",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "MortalAttack_03": {
+      "Move Type": 2,
+      "Animation Used": "E_WON_BTL_WPB_ath_cmb_03"
+    },
     "Skill_combo_01": {
       "Move Type": 2,
       "Animation Used": "E_WON_BTL_WPB_ath_cmb_01",

@@ -4,28 +4,6 @@
       "Move Type": 1,
       "Animation Used": "Null",
       "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "Counter",
-          "Conditions": {
-            "Condition 1| Button Press (Buffered Input)": {
-              "Property Type": 4,
-              "Button Press": "Triangle",
-              "Conditionals": "UNK5",
-              "Additional Conditional": 0
-            },
-            "Condition 2| Target Change": {
-              "Property Type": 9,
-              "Target": 0,
-              "Unk Byte 2": 0,
-              "Target Position": 2,
-              "Unk Byte 4": 0
-            },
-            "Condition 3| Timing": {
-              "Property Type": 30,
-              "Timing": 6
-            }
-          }
-        },
         "Follow Up 2": {
           "Follows Up to": "Light_1",
           "Conditions": {
@@ -207,7 +185,7 @@
     },
     "down_atk": {
       "Move Type": 2,
-      "Animation Used": "p_ich_btl_hro_ath_hvy_md"
+      "Animation Used": "P_ICH_BTL_WPD_ath_dwn"
     },
     "AttackFinish1": {
       "Move Type": 2,

@@ -365,19 +365,19 @@
     },
     "AttackFinishW1": {
       "Move Type": 2,
-      "Animation Used": "P_KRU_BTL_SUD_bct_ath_01_finW"
+      "Animation Used": "p_kru_btl_krl_ath_01_finw"
     },
     "AttackFinishW2": {
       "Move Type": 2,
-      "Animation Used": "P_KRU_BTL_SUD_bct_ath_02_finW"
+      "Animation Used": "p_kru_btl_krl_ath_02_finw"
     },
     "AttackFinishW3": {
       "Move Type": 2,
-      "Animation Used": "P_KRU_BTL_SUD_bct_ath_03_finW"
+      "Animation Used": "p_kru_btl_krl_ath_03_finw"
     },
     "AttackFinishW4": {
       "Move Type": 2,
-      "Animation Used": "P_KRU_BTL_SUD_bct_ath_04_finW"
+      "Animation Used": "p_kru_btl_krl_ath_04_finw"
     },
     "Action": {
       "Move Type": 2,
