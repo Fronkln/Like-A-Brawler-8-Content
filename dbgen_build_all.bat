@@ -14,6 +14,7 @@ mkdir db.elvis.zhs
 copy "db.elvis.en\effect_event_chara_info.bin" "db.elvis.de\effect_event_chara_info.bin" /Y
 copy "db.elvis.en\battle_motion_set.bin" "db.elvis.de\battle_motion_set.bin" /Y 
 copy "db.elvis.en\ui_visibility.bin" "db.elvis.de\ui_visibility.bin" /Y 
+copy "db.elvis.en\pause_tutorial.bin" "db.elvis.zhs\pause_tutorial.bin" /Y  
 
 copy "db.elvis.en\effect_event_chara_info.bin" "db.elvis.es\effect_event_chara_info.bin" /Y
 copy "db.elvis.en\battle_motion_set.bin" "db.elvis.es\battle_motion_set.bin" /Y 

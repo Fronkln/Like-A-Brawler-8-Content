@@ -8,3 +8,4 @@ y8b_can_hact
 y8b_ichiban_skill_attack
 title_logo_elvis
 y8b_poor_battle
+btl_manual_016_realtime

@@ -1,0 +1,6 @@
+{
+   "Comment": "Amon Win",
+   "Health": 3200,
+   "Attack": 200,
+   "Defense": 194
+}

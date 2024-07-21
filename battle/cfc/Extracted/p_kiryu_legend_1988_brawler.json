@@ -648,6 +648,10 @@
     "InterceptAction": {
       "Move Type": 2,
       "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    },
+    "StyleStart": {
+      "Move Type": 2,
+      "Animation Used": "p_kru_btl_krl_style_st"
     }
   }
 }

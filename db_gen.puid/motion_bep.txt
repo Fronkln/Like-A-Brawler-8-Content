@@ -243,3 +243,4 @@ p_kru_btl_krl_ath_01_finw
 p_kru_btl_krl_ath_02_finw
 p_kru_btl_krl_ath_03_finw
 p_kru_btl_krl_ath_04_finw
+p_kru_btl_krl_style_st
