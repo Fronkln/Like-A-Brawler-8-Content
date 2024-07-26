@@ -43,3 +43,4 @@ hact_y8bn1010_ric|56
 hact_y8b1500_oiuchi_head_punch_ao|56
 bbg_k|57
 hact_y8b1510_krl_oi_combo|56
+hact_y8b1520_krl_kabe|56
