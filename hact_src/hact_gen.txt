@@ -66,3 +66,5 @@ y8b1500_oiuchi_head_punch_ao
 y8b1510_krl_oi_combo
 tutorial_subnote_btl13_0020_realtime
 y8b1520_krl_kabe
+y8b1530_krc_resistguard
+y8b1540_krc_hodoki_tackle

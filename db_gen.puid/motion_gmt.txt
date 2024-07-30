@@ -244,3 +244,8 @@ p_kru_btl_krl_ath_02_finw
 p_kru_btl_krl_ath_03_finw
 p_kru_btl_krl_ath_04_finw
 p_kru_btl_krl_style_st
+p_ich_btl_sud_swy_02_f
+p_ich_btl_sud_swy_02_b
+p_ich_btl_sud_swy_02_l
+p_ich_btl_sud_swy_02_r
+p_ich_btl_sud_swy_f

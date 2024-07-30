@@ -1,7 +1,7 @@
 {
   "VERSION": 2,
   "REVISION": 0,
-  "ROW_COUNT": 21237,
+  "ROW_COUNT": 21270,
   "COLUMN_COUNT": 0,
   "TEXT_COUNT": 0,
   "ROW_VALIDATOR": 0,
@@ -106197,6 +106197,171 @@
   },
   "21236": {
     "p_com_btl_wpa_sft_r": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21237": {
+    "p_com_btl_wpa_swy_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21238": {
+    "p_com_btl_wpa_swy_f": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21239": {
+    "p_com_btl_wpa_swy_l": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21240": {
+    "p_com_btl_wpa_swy_r": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21241": {
+    "p_ich_btl_sud_sy0_gsp_hvy": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21242": {
+    "p_ich_btl_sud_sy1_gsp_hvy": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21243": {
+    "p_ich_btl_sud_sy0_gsp_rsh": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21244": {
+    "p_ich_btl_sud_sy1_gsp_rsh": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21245": {
+    "p_com_btl_wpa_ath_thw_f": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21246": {
+    "p_com_btl_wpc_ath_thw_f": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21247": {
+    "p_kra_btl_sud_ddg_f_wev": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21248": {
+    "e_tmz_btl_rnc_ath_ma_st": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21249": {
+    "e_nml_btl_wpy_ath_dmg_rev": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21250": {
+    "e_nml_btl_wpy_atm_ma": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21251": {
+    "e_nml_btl_wpy_sy0_ma": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21252": {
+    "e_nml_btl_wpy_sy1_ma": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21253": {
+    "e_won_btl_wpb_ath_ma_st": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21254": {
+    "p_ich_btl_sud_dmg_rev_fin_f": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21255": {
+    "p_ich_btl_sud_dmg_rev_fin_l": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21256": {
+    "p_ich_btl_sud_dmg_rev_fin_r": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21257": {
+    "p_krc_btl_sud_ath_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21258": {
+    "p_krc_btl_sud_ath_02": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21259": {
+    "p_krc_btl_sud_ath_03": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21260": {
+    "p_krh_btl_sud_grd_st_wev": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21261": {
+    "p_kru_btl_krl_ath_01_finw": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21262": {
+    "p_kru_btl_krl_ath_02_finw": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21263": {
+    "p_kru_btl_krl_ath_03_finw": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21264": {
+    "p_kru_btl_krl_ath_04_finw": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21265": {
+    "p_kru_btl_krl_style_st": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21266": {
+    "p_ich_btl_sud_swy_02_f": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21267": {
+    "p_ich_btl_sud_swy_02_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21268": {
+    "p_ich_btl_sud_swy_02_l": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21269": {
+    "p_ich_btl_sud_swy_02_r": {
       "reARMP_isValid": "1"
     }
   }
