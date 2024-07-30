@@ -235,7 +235,7 @@
       "Move Type": 2,
       "Animation Used": "p_kru_btl_sud_ath_04_md",
       "Follow Ups": {
-        "Follow Up 3": {
+        "Follow Up 1": {
           "Follows Up to": "AttackFinish4",
           "Conditions": {
             "Condition 1| Follow Up Window Start": {
@@ -479,7 +479,7 @@
       "Move Type": 2,
       "Animation Used": "P_KRU_BTL_SUD_bct_atm_sze",
       "Follow Ups": {
-        "Follow Up 2": {
+        "Follow Up 1": {
           "Follows Up to": "GrabProcedureFStart",
           "Conditions": {
             "Condition 1| Follow Up On Hit": {
@@ -510,7 +510,7 @@
             }
           }
         },
-        "Follow Up 3": {
+        "Follow Up 2": {
           "Follows Up to": "Action_sync_b_g",
           "Conditions": {
             "Condition 1| Follow Up On Hit": {
@@ -539,7 +539,7 @@
             }
           }
         },
-        "Follow Up 4": {
+        "Follow Up 3": {
           "Follows Up to": "Action_sync_b",
           "Conditions": {
             "Condition 1| Follow Up On Hit": {
@@ -589,7 +589,7 @@
         "Follow Up 1": {
           "Follows Up to": "GrabProcedureF",
           "Conditions": {
-            "Condition 1| Motion Followup Window End": {
+            "Condition 1| Follow Up Window End": {
               "Property Type": 6,
               "Unk Byte 1": 0,
               "Unk Byte 2": 0,
@@ -679,7 +679,7 @@
             }
           }
         }
-	  }
+      }
     },
     "Action_sync_f": {
       "Move Type": 2,
