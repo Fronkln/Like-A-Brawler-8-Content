@@ -11,3 +11,4 @@ p_com_wpb.dat
 p_com_wph.dat
 p_kasuga_wph.dat
 p_kiryu_legend_brawler.dat
+p_com_wpy.dat

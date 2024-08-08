@@ -68,3 +68,9 @@ tutorial_subnote_btl13_0020_realtime
 y8b1520_krl_kabe
 y8b1530_krc_resistguard
 y8b1540_krc_hodoki_tackle
+y8b1550_krc_gaman_genkai
+y8b1560_kru_knock_wall_l
+y8b1570_krh_snatch_wpy
+y8b1580_krh_snatch_wpd
+y8b1590_kru_grail_knock_f
+y8b1600_krc_nage_iwa

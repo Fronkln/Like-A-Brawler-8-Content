@@ -46,3 +46,6 @@ hact_y8b1510_krl_oi_combo|56
 hact_y8b1520_krl_kabe|56
 hact_y8b1530_krc_resistguard|56
 hact_y8b1540_krc_hodoki_tackle|56
+hact_y8b1550_krc_gaman_genkai|56
+hact_y8b1570_krh_snatch_wpy|56
+hact_y8b1600_krc_nage_iwa|56
