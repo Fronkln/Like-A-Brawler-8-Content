@@ -26,8 +26,8 @@ hact_y8b1280_ich_bat_run|56
 hact_y8b1290_ich_buki_d_oi|56
 hact_y8b1300_ich_wall_knock_neck|56
 hact_y7b1490_brainbuster_bench|56
-hact_y8b1310_ich_table90_neck|56
-hact_y8b1320_ich_table90_lapel|56
+hact_y8b1310_com_table90_neck|56
+hact_y8b1320_com_table90_lapel|56
 hact_y8b1360_ich_mikan|56
 hact_y8b1350_ich_pole_knock_lapel|56
 hact_y8bn1000_nabe|56
@@ -45,7 +45,7 @@ bbg_k|57
 hact_y8b1510_krl_oi_combo|56
 hact_y8b1520_krl_kabe|56
 hact_y8b1530_krc_resistguard|56
-hact_y8b1540_krc_hodoki_tackle|56
+hact_y8b1540_krl_hodoki_tackle|56
 hact_y8b1550_krc_gaman_genkai|56
 hact_y8b1570_krh_snatch_wpy|56
 hact_y8b1600_krc_nage_iwa|56

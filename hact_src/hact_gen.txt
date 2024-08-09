@@ -37,8 +37,8 @@ y8b1290_ich_buki_d_oi
 y8b_tutorial_btl01_0300_01
 y8b1300_ich_wall_knock_neck
 y7b1490_brainbuster_bench
-y8b1310_ich_table90_neck
-y8b1320_ich_table90_lapel
+y8b1310_com_table90_neck
+y8b1320_com_table90_lapel
 y8b1330_nageotoshi_w
 y8b1340_nageotoshi_kubi_w
 y8b1350_ich_pole_knock_lapel
@@ -67,7 +67,7 @@ y8b1510_krl_oi_combo
 tutorial_subnote_btl13_0020_realtime
 y8b1520_krl_kabe
 y8b1530_krc_resistguard
-y8b1540_krc_hodoki_tackle
+y8b1540_krl_hodoki_tackle
 y8b1550_krc_gaman_genkai
 y8b1560_kru_knock_wall_l
 y8b1570_krh_snatch_wpy

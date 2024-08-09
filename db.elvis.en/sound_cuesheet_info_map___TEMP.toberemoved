@@ -6694,8 +6694,8 @@
 6694 hact_y8b1290_ich_buki_d_oi
 6695 hact_y8b1300_ich_wall_knock_neck
 6696 hact_y7b1490_brainbuster_bench
-6697 hact_y8b1310_ich_table90_neck
-6698 hact_y8b1320_ich_table90_lapel
+6697 hact_y8b1310_com_table90_neck
+6698 hact_y8b1320_com_table90_lapel
 6699 hact_y8b1360_ich_mikan
 6700 hact_y8b1350_ich_pole_knock_lapel
 6701 hact_y8bn1000_nabe
@@ -6713,7 +6713,7 @@
 6713 hact_y8b1510_krl_oi_combo
 6714 hact_y8b1520_krl_kabe
 6715 hact_y8b1530_krc_resistguard
-6716 hact_y8b1540_krc_hodoki_tackle
+6716 hact_y8b1540_krl_hodoki_tackle
 6717 hact_y8b1550_krc_gaman_genkai
 6718 hact_y8b1570_krh_snatch_wpy
 6719 hact_y8b1600_krc_nage_iwa

@@ -4145,8 +4145,8 @@
 4460 y8b_tutorial_btl01_0300_01
 4461 y8b1300_ich_wall_knock_neck
 4462 y7b1490_brainbuster_bench
-4463 y8b1310_ich_table90_neck
-4464 y8b1320_ich_table90_lapel
+4463 y8b1310_com_table90_neck
+4464 y8b1320_com_table90_lapel
 4465 y8b1330_nageotoshi_w
 4466 y8b1340_nageotoshi_kubi_w
 4467 y8b1350_ich_pole_knock_lapel
@@ -4175,7 +4175,7 @@
 4490 tutorial_subnote_btl13_0020_realtime
 4491 y8b1520_krl_kabe
 4492 y8b1530_krc_resistguard
-4493 y8b1540_krc_hodoki_tackle
+4493 y8b1540_krl_hodoki_tackle
 4494 y8b1550_krc_gaman_genkai
 4495 y8b1560_kru_knock_wall_l
 4496 y8b1570_krh_snatch_wpy
