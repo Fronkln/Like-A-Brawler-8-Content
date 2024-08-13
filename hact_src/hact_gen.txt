@@ -74,3 +74,6 @@ y8b1570_krh_snatch_wpy
 y8b1580_krh_snatch_wpd
 y8b1590_kru_grail_knock_f
 y8b1600_krc_nage_iwa
+y8b1610_krh_surrender_oi_ura
+y8b1620_krc_mouko_noukudaki
+y8b1630_kru_run_car

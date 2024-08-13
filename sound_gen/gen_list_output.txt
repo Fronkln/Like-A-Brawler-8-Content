@@ -49,3 +49,6 @@ hact_y8b1540_krl_hodoki_tackle|56
 hact_y8b1550_krc_gaman_genkai|56
 hact_y8b1570_krh_snatch_wpy|56
 hact_y8b1600_krc_nage_iwa|56
+hact_y8b1610_krh_surrender_oi_ura|56
+hact_y8b1620_krc_mouko_noukudaki|56
+hact_y8b1630_kru_run_car|56
