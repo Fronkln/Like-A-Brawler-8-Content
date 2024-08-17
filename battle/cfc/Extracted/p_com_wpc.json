@@ -36,7 +36,7 @@
               "Additional Conditional": 0
             }
           }
-        }		
+        }
       }
     },
     "Light_1": {
@@ -98,7 +98,7 @@
     "Throw": {
       "Move Type": 2,
       "Animation Used": "p_com_btl_wpc_ath_thw_f"
-    },	
+    },
     "MortalCounter": {
       "Move Type": 2,
       "Animation Table": {
@@ -213,6 +213,37 @@
     "InterceptAction": {
       "Move Type": 2,
       "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    }
+  },
+  "Moveset Change Table": {
+    "Kiryu": {
+      "Moveset Name": "p_kiryu_legend_brawler",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 3,
+          "Bitmask Byte": 0,
+          "Conditionals": "NOT"
+        },
+        "Condition 1| LAB8 Special Condition: Is Ichiban": {
+          "Property Type": 47,
+          "Unk Byte 1": 5,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 3
+        }
+      }
+    },
+    "Ichiban": {
+      "Moveset Name": "p_kasuga_brawler",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 3,
+          "Bitmask Byte": 0,
+          "Conditionals": "NOT"
+        }
+      }
     }
   }
 }

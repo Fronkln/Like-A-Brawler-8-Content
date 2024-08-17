@@ -1132,5 +1132,54 @@
       "Move Type": 2,
       "Animation Used": "P_KRU_BTL_SUD_style_st"
     }
+  },
+  "Moveset Change Table": {
+    "Moveset 1": {
+      "Moveset Name": "p_com_wpc",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 3,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "Moveset 2": {
+      "Moveset Name": "p_kiryu_rush_brawler",
+      "Conditions": {
+		"Condition 1| LAB8 Special Condition: Kiryu Style": {
+		"Property Type": 47,
+		"Unk Byte 1": 4,
+		"Unk Byte 2": 2,
+		"Unk Byte 3": 0,
+		"Unk Byte 4": 0
+        }
+      }
+    },
+    "Moveset 3": {
+      "Moveset Name": "p_kiryu_crash_brawler",
+      "Conditions": {
+		"Condition 1| LAB8 Special Condition: Kiryu Style": {
+		"Property Type": 47,
+		"Unk Byte 1": 4,
+		"Unk Byte 2": 3,
+		"Unk Byte 3": 0,
+		"Unk Byte 4": 0
+        }
+      }
+    },
+    "Moveset 4": {
+      "Moveset Name": "p_kiryu_legend_1988_brawler",
+      "Conditions": {
+		"Condition 1| LAB8 Special Condition: Kiryu Style": {
+		"Property Type": 47,
+		"Unk Byte 1": 4,
+		"Unk Byte 2": 4,
+		"Unk Byte 3": 0,
+		"Unk Byte 4": 0
+        }
+      }
+    }
   }
 }

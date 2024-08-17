@@ -52,3 +52,7 @@ hact_y8b1600_krc_nage_iwa|56
 hact_y8b1610_krh_surrender_oi_ura|56
 hact_y8b1620_krc_mouko_noukudaki|56
 hact_y8b1630_kru_run_car|56
+hact_y8b1640_krc_backdrop|56
+hact_y8b1650_kru_headbutt|56
+hact_y8b1660_krc_doryu_min|56
+hact_y8b1670_krh_kubi_nage|56

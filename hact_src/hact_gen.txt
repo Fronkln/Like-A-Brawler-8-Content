@@ -77,3 +77,9 @@ y8b1600_krc_nage_iwa
 y8b1610_krh_surrender_oi_ura
 y8b1620_krc_mouko_noukudaki
 y8b1630_kru_run_car
+y8b1640_krc_backdrop
+y8b1650_kru_headbutt
+y8b1660_krc_doryu_min
+y8b1670_krh_kubi_nage
+y8b1680_saku_kubi
+y8b1690_pole_hit

@@ -304,88 +304,64 @@
         "Follow Up 1": {
           "Follows Up to": "SwayAttackHeavyF",
           "Conditions": {
-            "Condition 1| Button Press (Buffered Input)": {
-              "Property Type": 4,
+            "Condition 1| Button Press": {
+              "Property Type": 1,
               "Button Press": "Triangle",
-              "Conditionals": "UNK5",
+              "Conditionals": "",
               "Additional Conditional": 0
             },
-            "Condition 2| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 3| Quickstep": {
-              "Property Type": 26,
-              "Direction": "Forward"
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 18072,
+              "Conditionals": ""
             }
           }
         },
         "Follow Up 2": {
           "Follows Up to": "SwayAttackHeavyL",
           "Conditions": {
-            "Condition 1| Button Press (Buffered Input)": {
-              "Property Type": 4,
+            "Condition 1| Button Press": {
+              "Property Type": 1,
               "Button Press": "Triangle",
-              "Conditionals": "UNK5",
+              "Conditionals": "",
               "Additional Conditional": 0
             },
-            "Condition 2| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 3| Quickstep": {
-              "Property Type": 26,
-              "Direction": "Left"
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 18073,
+              "Conditionals": ""
             }
           }
         },
         "Follow Up 3": {
           "Follows Up to": "SwayAttackHeavyB",
           "Conditions": {
-            "Condition 1| Button Press (Buffered Input)": {
-              "Property Type": 4,
+            "Condition 1| Button Press": {
+              "Property Type": 1,
               "Button Press": "Triangle",
-              "Conditionals": "UNK5",
+              "Conditionals": "",
               "Additional Conditional": 0
             },
-            "Condition 2| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 3| Quickstep": {
-              "Property Type": 26,
-              "Direction": "Back"
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 18071,
+              "Conditionals": ""
             }
           }
         },
         "Follow Up 4": {
           "Follows Up to": "SwayAttackHeavyR",
           "Conditions": {
-            "Condition 1| Button Press (Buffered Input)": {
-              "Property Type": 4,
+            "Condition 1| Button Press": {
+              "Property Type": 1,
               "Button Press": "Triangle",
-              "Conditionals": "UNK5",
+              "Conditionals": "",
               "Additional Conditional": 0
             },
-            "Condition 2| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 3| Quickstep": {
-              "Property Type": 26,
-              "Direction": "Right"
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 18074,
+              "Conditionals": ""
             }
           }
         }
@@ -405,43 +381,23 @@
     },
     "SwayAttackHeavyF": {
       "Move Type": 2,
-      "Animation Used": "P_KRA_BTL_SUD_ath_swy_fin_f"
+      "Animation Used": "p_kra_btl_sud_ath_swy_fin_f"
     },
     "SwayAttackHeavyB": {
       "Move Type": 2,
-      "Animation Used": "P_KRA_BTL_SUD_ath_swy_fin_b"
+      "Animation Used": "p_kra_btl_sud_ath_swy_fin_b"
     },
     "SwayAttackHeavyL": {
       "Move Type": 2,
-      "Animation Used": "P_KRA_BTL_SUD_ath_swy_fin_l"
+      "Animation Used": "p_kra_btl_sud_ath_swy_fin_l"
     },
     "SwayAttackHeavyR": {
       "Move Type": 2,
-      "Animation Used": "P_KRA_BTL_SUD_ath_swy_fin_r"
+      "Animation Used": "p_kra_btl_sud_ath_swy_fin_r"
     },
     "AttackFinish1": {
       "Move Type": 2,
-      "Animation Used": "p_kra_btl_sud_ath_fin01",
-      "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "AttackFinishW1",
-          "Conditions": {
-            "Condition 1| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 2| Button Press (Buffered Input)": {
-              "Property Type": 4,
-              "Button Press": "Triangle",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            }
-          }
-        }
-      }
+      "Animation Used": "p_kra_btl_sud_ath_fin01"
     },
     "AttackFinish2": {
       "Move Type": 2,
@@ -521,30 +477,6 @@
       "Follow Ups": {
         "Follow Up 1": {
           "Follows Up to": "AttackFinishW5",
-          "Conditions": {
-            "Condition 1| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 2| Button Press (Buffered Input)": {
-              "Property Type": 4,
-              "Button Press": "Triangle",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            }
-          }
-        }
-      }
-    },
-    "AttackFinishW1": {
-      "Move Type": 2,
-      "Animation Used": "p_kru_btl_sud_ath_01_finw_md",
-      "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "AttackFinishT1",
           "Conditions": {
             "Condition 1| Follow Up Window Start": {
               "Property Type": 5,
@@ -681,7 +613,7 @@
     },
     "Action": {
       "Move Type": 2,
-      "Animation Used": "P_KRA_BTL_SUD_atm_sze",
+      "Animation Used": "p_kra_btl_sud_atm_sze",
       "Follow Ups": {
         "Follow Up 1": {
           "Follows Up to": "GrabProcedureFStart",
@@ -911,7 +843,7 @@
       "Move Type": 2,
       "Animation Table": {
         "Animation 1": {
-          "Animation Used": "P_KRA_BTL_SUD_sy0_chk_nge",
+          "Animation Used": "p_kra_btl_sud_sy0_chk_nge",
           "Unknown Byte 1": 1,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -919,7 +851,7 @@
           "Motion ID": 21316
         },
         "Animation 2": {
-          "Animation Used": "P_KRA_BTL_SUD_sy1_chk_nge",
+          "Animation Used": "p_kra_btl_sud_sy1_chk_nge",
           "Unknown Byte 1": 3,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -932,7 +864,7 @@
       "Move Type": 2,
       "Animation Table": {
         "Animation 1": {
-          "Animation Used": "P_KRA_BTL_SUD_sy0_chk_rsh",
+          "Animation Used": "p_kra_btl_sud_sy0_chk_rsh",
           "Unknown Byte 1": 1,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -940,7 +872,7 @@
           "Motion ID": 21312
         },
         "Animation 2": {
-          "Animation Used": "P_KRA_BTL_SUD_sy1_chk_rsh",
+          "Animation Used": "p_kra_btl_sud_sy1_chk_rsh",
           "Unknown Byte 1": 3,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -953,7 +885,7 @@
       "Move Type": 2,
       "Animation Table": {
         "Animation 1": {
-          "Animation Used": "P_KRA_BTL_SUD_sy0_chk_fin",
+          "Animation Used": "p_kra_btl_sud_sy0_chk_fin",
           "Unknown Byte 1": 1,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -961,7 +893,7 @@
           "Motion ID": 21314
         },
         "Animation 2": {
-          "Animation Used": "P_KRA_BTL_SUD_sy1_chk_fin",
+          "Animation Used": "p_kra_btl_sud_sy1_chk_fin",
           "Unknown Byte 1": 3,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -1096,6 +1028,44 @@
     "StyleStart": {
       "Move Type": 2,
       "Animation Used": "P_KRH_BTL_SUD_style_st"
+    }
+  },
+  "Moveset Change Table": {
+    "Moveset 2": {
+      "Moveset Name": "p_kiryu_legend_brawler",
+      "Conditions": {
+		"Condition 1| LAB8 Special Condition: Kiryu Style": {
+		"Property Type": 47,
+		"Unk Byte 1": 4,
+		"Unk Byte 2": 1,
+		"Unk Byte 3": 0,
+		"Unk Byte 4": 0
+        }
+      }
+    },
+    "Moveset 3": {
+      "Moveset Name": "p_kiryu_crash_brawler",
+      "Conditions": {
+		"Condition 1| LAB8 Special Condition: Kiryu Style": {
+		"Property Type": 47,
+		"Unk Byte 1": 4,
+		"Unk Byte 2": 3,
+		"Unk Byte 3": 0,
+		"Unk Byte 4": 0
+        }
+      }
+    },
+    "Moveset 4": {
+      "Moveset Name": "p_kiryu_legend_1988_brawler",
+      "Conditions": {
+		"Condition 1| LAB8 Special Condition: Kiryu Style": {
+		"Property Type": 47,
+		"Unk Byte 1": 4,
+		"Unk Byte 2": 4,
+		"Unk Byte 3": 0,
+		"Unk Byte 4": 0
+        }
+      }
     }
   }
 }
