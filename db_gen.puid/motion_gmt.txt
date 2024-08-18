@@ -300,3 +300,4 @@ p_krc_btl_sud_sy1_nck_hvy
 p_krc_btl_sud_sy1_nck_rsh
 p_com_btl_wpy_ath_sht_f
 p_kru_btl_sud_ath_pkup_wpc_l
+e_ymi_btl_wpa_ath_cmb_02

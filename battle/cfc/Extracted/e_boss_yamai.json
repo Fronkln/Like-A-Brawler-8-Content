@@ -22,6 +22,35 @@
         }
       }	  
     },
+    "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "E_YMI_BTL_WPA_ath_cmb",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+        "Condition 2| LAB8 Special Condition: AI Param (Extend Combo?)": {
+          "Property Type": 47,
+          "Unk Byte 1": 8,
+          "Unk Byte 2": 1,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+          }
+        }
+      }
+    },
+    "Light_2": {
+      "Move Type": 2,
+      "Animation Used": "e_ymi_btl_wpa_ath_cmb_02"
+    },
     "MortalAttack2": {
       "Move Type": 2,
       "Animation Used": "e_ymi_btl_wpa_ath_ma_proc"	  

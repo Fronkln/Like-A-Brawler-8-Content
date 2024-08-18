@@ -120,7 +120,7 @@
               "Additional Conditional": 0
             }
           }
-        },		
+        },
         "Follow Up 6": {
           "Follows Up to": "GrabStart",
           "Conditions": {
@@ -455,7 +455,7 @@
     "SwayR2": {
       "Move Type": 2,
       "Animation Used": "p_ich_btl_sud_swy_02_r"
-    },		
+    },
     "Heavy": {
       "Move Type": 2,
       "Animation Used": "p_ich_btl_sud_ath_hvy"
@@ -729,7 +729,7 @@
             }
           }
         }
-	  }
+      }
     },
     "GrabAttackLightF": {
       "Move Type": 2,
@@ -873,7 +873,7 @@
               "Additional Conditional": 0
             }
           }
-        }		
+        }
       }
     },
     "GrabAttackLightB": {
@@ -1019,7 +1019,7 @@
             }
           }
         }
-	  }
+      }
     },
     "MortalCounter": {
       "Move Type": 2,
@@ -1204,7 +1204,7 @@
     "PickupTest": {
       "Move Type": 9,
       "Animation Used": "M_COM_BTL_WPN_pickup_flr"
-    },	
+    },
     "RunAway_Failed_2": {
       "Move Type": 9,
       "Animation Used": "P_ICH_MOV_run_esc_en"
@@ -1260,6 +1260,31 @@
         }
       }
     },
+    "EX_HERO": {
+      "Moveset Name": "p_kasuga_hero_brawler",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 4,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        },
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 2,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+          "Property Type": 47,
+          "Unk Byte 1": 6,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
     "WPD": {
       "Moveset Name": "p_com_wpd",
       "Conditions": {
@@ -1268,13 +1293,6 @@
           "Weapon Category ID": 4,
           "Bitmask Byte": 0,
           "Conditionals": ""
-        },
-        "Condition 2| LAB8 Special Condition: Extreme Heat": {
-          "Property Type": 47,
-          "Unk Byte 1": 6,
-          "Unk Byte 2": 0,
-          "Unk Byte 3": 0,
-          "Unk Byte 4": 3
         }
       }
     },
