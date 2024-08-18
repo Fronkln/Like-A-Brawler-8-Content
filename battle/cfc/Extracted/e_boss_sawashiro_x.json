@@ -4,6 +4,10 @@
       "Move Type": 1,
       "Animation Used": "Null"
     },
+    "MortalAttack": {
+      "Move Type": 2,
+      "Animation Used": "e_saw_btl_wpa_ath_ma_jmp_stun"
+    },
     "Light_1": {
       "Move Type": 2,
       "Animation Used": "E_SAW_BTL_WPX_ath_rengeki"

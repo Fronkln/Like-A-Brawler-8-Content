@@ -4,6 +4,10 @@
       "Move Type": 1,
       "Animation Used": "Null"
     },
+    "MortalAttack": {
+      "Move Type": 2,
+      "Animation Used": "e_nml_btl_wpe_ath_ma"
+    },	  
     "Light_1": {
       "Move Type": 2,
       "Animation Used": "E_SAW_BTL_WPE_slh_ryodan"

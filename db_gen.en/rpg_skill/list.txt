@@ -27,3 +27,6 @@ e_boss_wpg_mortal_attack
 e_dwight_mortal_attack
 e_wong_mortal_attack
 boss_yamai_atk_a
+e_sawashiro_brt_mortal_attack
+e_sawashiro_e_mortal_attack
+e_sawashiro_x_mortal_attack
