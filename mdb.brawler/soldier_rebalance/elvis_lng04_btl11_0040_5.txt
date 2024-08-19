@@ -1,0 +1,6 @@
+{
+   "Comment": "Weapon Master Boss Ichiban Side",
+   "Health": 5000,
+   "Attack": 289,
+   "Defense": 254
+}

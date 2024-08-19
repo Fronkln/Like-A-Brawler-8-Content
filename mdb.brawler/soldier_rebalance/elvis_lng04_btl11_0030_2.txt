@@ -1,0 +1,6 @@
+{
+   "Comment": "Machinery 1",
+   "Health": 1500,
+   "Attack": 200,
+   "Defense": 252
+}

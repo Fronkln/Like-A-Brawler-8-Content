@@ -303,3 +303,12 @@ p_krc_btl_sud_grd_f
 e_ymi_btl_wpa_ath_cmb
 e_ymi_btl_wpa_ath_cmb_02
 e_saw_btl_wpa_ath_ma_jmp_stun
+m_adc_btl_btn_grd_f
+m_adc_btl_btn_grd_l
+m_adc_btl_btn_grd_r
+m_adc_btl_btn_grd_st
+m_adc_btl_btn_swy_b
+m_adc_btl_btn_swy_f
+m_adc_btl_btn_swy_l
+m_adc_btl_btn_swy_r
+M_ADC_BTL_BTN_grd_en
