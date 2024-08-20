@@ -83,3 +83,5 @@ y8b1660_krc_doryu_min
 y8b1670_krh_kubi_nage
 y8b1680_saku_kubi
 y8b1690_pole_hit
+y8b1700_oi_kickover_utu_adc
+y8b1710_oi_trample_ao_adc

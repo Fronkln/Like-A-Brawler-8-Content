@@ -312,3 +312,5 @@ m_adc_btl_btn_swy_f
 m_adc_btl_btn_swy_l
 m_adc_btl_btn_swy_r
 M_ADC_BTL_BTN_grd_en
+m_adc_btl_btn_ath_hvy
+m_adc_btl_btn_ath_01
