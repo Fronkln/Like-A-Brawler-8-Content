@@ -4,6 +4,34 @@
       "Move Type": 1,
       "Animation Used": "Null",
       "Follow Ups": {
+        "Follow Up 10": {
+          "Follows Up to": "Light_1_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
         "Follow Up 1": {
           "Follows Up to": "Light_1",
           "Conditions": {
@@ -109,6 +137,118 @@
       "Move Type": 2,
       "Animation Used": "p_kru_btl_sud_ath_01_md",
       "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_2_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish1",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_1_Low": {
+      "Move Type": 2,
+      "Animation Used": "p_kru_btl_sud_ath_01_md_lw",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_2_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
         "Follow Up 1": {
           "Follows Up to": "Light_2",
           "Conditions": {
@@ -151,6 +291,118 @@
       "Move Type": 2,
       "Animation Used": "p_kru_btl_sud_ath_02_md",
       "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_3_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "Light_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish2",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_2_Low": {
+      "Move Type": 2,
+      "Animation Used": "p_kru_btl_sud_ath_02_md_lw",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_3_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
         "Follow Up 1": {
           "Follows Up to": "Light_3",
           "Conditions": {
@@ -193,6 +445,118 @@
       "Move Type": 2,
       "Animation Used": "p_kru_btl_sud_ath_03_md",
       "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_4_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "Light_4",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish3",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_3_Low": {
+      "Move Type": 2,
+      "Animation Used": "p_kru_btl_sud_ath_03_md_lw",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_4_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
         "Follow Up 1": {
           "Follows Up to": "Light_4",
           "Conditions": {
@@ -234,6 +598,30 @@
     "Light_4": {
       "Move Type": 2,
       "Animation Used": "p_kru_btl_sud_ath_04_md",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "AttackFinish4",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_4_Low": {
+      "Move Type": 2,
+      "Animation Used": "p_kru_btl_sud_ath_04_md_lw",
       "Follow Ups": {
         "Follow Up 1": {
           "Follows Up to": "AttackFinish4",

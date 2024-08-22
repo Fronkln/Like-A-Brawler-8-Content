@@ -314,3 +314,7 @@ m_adc_btl_btn_swy_r
 M_ADC_BTL_BTN_grd_en
 m_adc_btl_btn_ath_hvy
 m_adc_btl_btn_ath_01
+p_kru_btl_sud_ath_01_md_lw
+p_kru_btl_sud_ath_02_md_lw
+p_kru_btl_sud_ath_03_md_lw
+p_kru_btl_sud_ath_04_md_lw

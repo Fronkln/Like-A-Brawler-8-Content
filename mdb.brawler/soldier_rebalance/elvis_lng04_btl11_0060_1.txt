@@ -1,0 +1,6 @@
+{
+   "Comment": "Gasmask Shotgun Boss",
+   "Health": 3950,
+   "Attack": 263,
+   "Defense": 258
+}

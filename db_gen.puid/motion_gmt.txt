@@ -304,3 +304,7 @@ e_ymi_btl_wpa_ath_cmb_02
 e_saw_btl_wpa_ath_ma_jmp_stun
 m_adc_btl_btn_ath_hvy
 m_adc_btl_btn_ath_01
+p_kru_btl_sud_ath_01_md_lw
+p_kru_btl_sud_ath_02_md_lw
+p_kru_btl_sud_ath_03_md_lw
+p_kru_btl_sud_ath_04_md_lw
