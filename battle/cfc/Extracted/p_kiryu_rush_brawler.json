@@ -1066,6 +1066,18 @@
 		"Unk Byte 4": 0
         }
       }
+    },
+    "Moveset 5": {
+      "Moveset Name": "p_kiryu_legend",
+      "Conditions": {
+		"Condition 1| LAB8 Special Condition: Kiryu Style": {
+		"Property Type": 47,
+		"Unk Byte 1": 4,
+		"Unk Byte 2": 5,
+		"Unk Byte 3": 0,
+		"Unk Byte 4": 0
+        }
+      }
     }
   }
 }

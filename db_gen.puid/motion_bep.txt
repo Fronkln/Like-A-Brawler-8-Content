@@ -318,3 +318,11 @@ p_kru_btl_sud_ath_01_md_lw
 p_kru_btl_sud_ath_02_md_lw
 p_kru_btl_sud_ath_03_md_lw
 p_kru_btl_sud_ath_04_md_lw
+p_kra_btl_sud_swy_02_b
+p_kra_btl_sud_swy_02_f
+p_kra_btl_sud_swy_02_l
+p_kra_btl_sud_swy_02_r
+p_kra_btl_sud_swy_03_b
+p_kra_btl_sud_swy_03_f
+p_kra_btl_sud_swy_03_l
+p_kra_btl_sud_swy_03_r

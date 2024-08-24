@@ -1,0 +1,6 @@
+{
+   "Comment": "Majima",
+   "Health": 6500,
+   "Attack": 338,
+   "Defense": 228
+}

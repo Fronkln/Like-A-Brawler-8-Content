@@ -4,6 +4,35 @@
       "Move Type": 1,
       "Animation Used": "Null",
       "Follow Ups": {
+        "Follow Up 11": {
+          "Follows Up to": "Counter",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 35,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Timing": {
+              "Property Type": 30,
+              "Timing": 6
+            }
+          }
+        },
         "Follow Up 10": {
           "Follows Up to": "Light_1_Low",
           "Conditions": {
@@ -1474,6 +1503,10 @@
         }
       }
     },
+    "Counter": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_ath_cntr_tora"
+    },
     "RunAway_Success_2": {
       "Move Type": 9,
       "Animation Used": "P_ICH_MOV_run_esc_lp"
@@ -1564,6 +1597,18 @@
 		"Property Type": 47,
 		"Unk Byte 1": 4,
 		"Unk Byte 2": 4,
+		"Unk Byte 3": 0,
+		"Unk Byte 4": 0
+        }
+      }
+    },
+    "Moveset 5": {
+      "Moveset Name": "p_kiryu_legend",
+      "Conditions": {
+		"Condition 1| LAB8 Special Condition: Kiryu Style": {
+		"Property Type": 47,
+		"Unk Byte 1": 4,
+		"Unk Byte 2": 5,
 		"Unk Byte 3": 0,
 		"Unk Byte 4": 0
         }

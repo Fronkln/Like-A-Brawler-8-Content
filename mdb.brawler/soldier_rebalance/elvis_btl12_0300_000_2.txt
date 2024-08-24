@@ -1,0 +1,6 @@
+{
+   "Comment": "Saejima",
+   "Health": 7500,
+   "Attack": 338,
+   "Defense": 228
+}
