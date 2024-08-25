@@ -326,3 +326,5 @@ p_kra_btl_sud_swy_03_b
 p_kra_btl_sud_swy_03_f
 p_kra_btl_sud_swy_03_l
 p_kra_btl_sud_swy_03_r
+e_dgo_btl_sud_bct_st
+p_kru_btl_sud_ath_cntr_tora

@@ -85,3 +85,4 @@ y8b1680_saku_kubi
 y8b1690_pole_hit
 y8b1700_oi_kickover_utu_adc
 y8b1710_oi_trample_ao_adc
+y8bb1740_dgo_punch_lock
