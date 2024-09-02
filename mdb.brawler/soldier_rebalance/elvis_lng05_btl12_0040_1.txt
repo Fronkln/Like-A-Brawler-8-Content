@@ -1,0 +1,6 @@
+{
+   "Comment": "Narasaki",
+   "Health": 7000,
+   "Attack": 334,
+   "Defense": 304
+}

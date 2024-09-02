@@ -1,0 +1,6 @@
+{
+   "Comment": "Dwight Final",
+   "Health": 9200,
+   "Attack": 345,
+   "Defense": 326
+}

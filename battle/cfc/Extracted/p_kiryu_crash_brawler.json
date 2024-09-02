@@ -1144,7 +1144,7 @@
       }
     },
     "WPH": {
-      "Moveset Name": "p_com_wph",
+      "Moveset Name": "p_kasuga_wph",
       "Conditions": {
         "Condition 1| Weapon Category": {
           "Property Type": 14,
@@ -1160,6 +1160,17 @@
         "Condition 1| Weapon Category": {
           "Property Type": 14,
           "Weapon Category ID": 9,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPM": {
+      "Moveset Name": "p_com_wpm",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 16,
           "Bitmask Byte": 0,
           "Conditionals": ""
         }

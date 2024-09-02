@@ -1,0 +1,6 @@
+{
+   "Comment": "Seiryu Long Battle Sumo Boss",
+   "Health": 3900,
+   "Attack": 330,
+   "Defense": 300
+}

@@ -328,3 +328,17 @@ p_kra_btl_sud_swy_03_l
 p_kra_btl_sud_swy_03_r
 e_dgo_btl_sud_bct_st
 p_kru_btl_sud_ath_cntr_tora
+p_com_btl_wpm_battou
+p_com_btl_wpm_ath_01_md
+p_com_btl_wpm_ath_02_md
+p_com_btl_wpm_ath_03_md
+p_com_btl_wpm_ath_04_md
+p_com_btl_wpm_ath_05_md
+p_krh_btl_sud_ath_01
+p_krh_btl_sud_ath_02
+p_krh_btl_sud_ath_03
+p_krh_btl_sud_ath_04
+p_krh_btl_sud_ath_05
+p_krh_btl_sud_ath_06
+p_krh_btl_sud_ath_07
+p_krh_btl_sud_ath_08

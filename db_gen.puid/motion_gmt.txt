@@ -316,3 +316,9 @@ p_kra_btl_sud_swy_03_b
 p_kra_btl_sud_swy_03_f
 p_kra_btl_sud_swy_03_l
 p_kra_btl_sud_swy_03_r
+p_com_btl_wpm_battou
+p_com_btl_wpm_ath_01_md
+p_com_btl_wpm_ath_02_md
+p_com_btl_wpm_ath_03_md
+p_com_btl_wpm_ath_04_md
+p_com_btl_wpm_ath_05_md

@@ -57,3 +57,6 @@ hact_y8b1650_kru_headbutt|56
 hact_y8b1660_krc_doryu_min|56
 hact_y8b1670_krh_kubi_nage|56
 hact_y8bb1740_dgo_punch_lock|56
+hact_y8bb1750_majima_combo|56
+hact_y8bb1760_sae_soul|56
+hact_y8b1770_knuckle_soul|56
