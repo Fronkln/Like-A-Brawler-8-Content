@@ -1,0 +1,6 @@
+{
+   "Comment": "Shark (Vs Player)",
+   "Health": 7500,
+   "Attack": 200,
+   "Defense": 336
+}

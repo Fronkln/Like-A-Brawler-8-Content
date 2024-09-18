@@ -1,5 +1,1 @@
 G:\SteamLibrary\steamapps\common\Yakuza Kiwami\media\data\motion\property.bin
-P_KRC_WPH_guard_st p_ich_btl_wph_grd_st
-P_KRC_WPH_guard_en p_ich_btl_wph_grd_en
-P_KRC_WPH_guard_lp p_ich_btl_wph_grd_lp
-P_KRC_WPH_guard p_ich_btl_wph_grd_rct_f

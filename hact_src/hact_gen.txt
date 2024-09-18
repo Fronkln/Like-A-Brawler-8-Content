@@ -89,3 +89,7 @@ y8bb1740_dgo_punch_lock
 y8bb1750_majima_combo
 y8bb1760_sae_soul
 y8b1770_knuckle_soul
+y8bb1780_ebn_party_decide
+y8b1790_krl_oi_maekagami
+y8b1800_headlock_nage
+y8b1810_kiryu_g_aston

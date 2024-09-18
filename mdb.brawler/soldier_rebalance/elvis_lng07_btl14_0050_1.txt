@@ -1,0 +1,6 @@
+{
+   "Comment": "Blessed Leviathan",
+   "Health": 8500,
+   "Attack": 300,
+   "Defense": 342
+}

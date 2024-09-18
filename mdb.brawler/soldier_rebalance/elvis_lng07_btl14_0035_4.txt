@@ -1,0 +1,6 @@
+{
+   "Comment": "Palekana Wizard",
+   "Health": 3500,
+   "Attack": 230,
+   "Defense": 365
+}

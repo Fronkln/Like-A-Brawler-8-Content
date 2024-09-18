@@ -1,0 +1,6 @@
+{
+   "Comment": "Palekana Warrior",
+   "Health": 3000,
+   "Attack": 383,
+   "Defense": 342
+}

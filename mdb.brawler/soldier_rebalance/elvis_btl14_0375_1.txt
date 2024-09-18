@@ -1,0 +1,6 @@
+{
+   "Comment": "Bryce Fairchild",
+   "Health": 9000,
+   "Attack": 375,
+   "Defense": 346
+}
