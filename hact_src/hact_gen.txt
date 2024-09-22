@@ -94,3 +94,6 @@ y8b1790_krl_oi_maekagami
 y8b1800_headlock_nage
 y8b1810_kiryu_g_aston
 y8b1820_kyukyoku
+a10620_forklift_start
+y8b1830_kru_doramukan
+y8b1840_kru_wph

@@ -62,3 +62,4 @@ hact_y8bb1760_sae_soul|56
 hact_y8b1770_knuckle_soul|56
 hact_y8bb1780_ebn_party_decide|56
 hact_y8b1800_headlock_nage|56
+hact_y8b1830_kru_doramukan|56
