@@ -1,0 +1,6 @@
+{
+   "Comment": "Ebina",
+   "Health": 22000,
+   "Attack": 350,
+   "Defense": 402
+}

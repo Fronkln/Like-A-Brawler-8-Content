@@ -2,7 +2,222 @@
   "Move Table": {
     "Root": {
       "Move Type": 1,
-      "Animation Used": "Null"
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_1",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| LAB8 Special Condition: Is Active Brawler Player": {
+              "Property Type": 47,
+              "Unk Byte 1": 10,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Heavy",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 1| LAB8 Special Condition: Is Active Brawler Player": {
+              "Property Type": 47,
+              "Unk Byte 1": 10,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "m_acs_btl_wpv_ath_01",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish1",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_2": {
+      "Move Type": 2,
+      "Animation Used": "m_acs_btl_wpv_ath_02",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish2",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_3": {
+      "Move Type": 2,
+      "Animation Used": "m_acs_btl_wpv_ath_03",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_4",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 4,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish3",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_4": {
+      "Move Type": 2,
+      "Animation Used": "m_acs_btl_wpv_ath_04",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "AttackFinish4",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "AttackFinish1": {
+      "Move Type": 2,
+      "Animation Used": "m_sam_btl_wpe_ath_01_fin"
+    },
+    "AttackFinish2": {
+      "Move Type": 2,
+      "Animation Used": "m_sam_btl_wpe_ath_02_fin"
+    },
+    "AttackFinish3": {
+      "Move Type": 2,
+      "Animation Used": "m_sam_btl_wpe_ath_03_fin"
+    },
+    "AttackFinish4": {
+      "Move Type": 2,
+      "Animation Used": "m_sam_btl_wpe_ath_04_fin"
+    },
+    "Heavy": {
+      "Move Type": 2,
+      "Animation Used": "m_acs_btl_wpv_ath_hvy"
     },
     "ComboAtk_1": {
       "Move Type": 2,
@@ -618,6 +833,37 @@
     "RunAwayFailed": {
       "Move Type": 2,
       "Animation Used": "P_ICH_MOV_run_esc_en"
+    }
+  },
+  "Moveset Change Table": {
+    "Kiryu": {
+      "Moveset Name": "p_kiryu_legend_brawler",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 21,
+          "Bitmask Byte": 0,
+          "Conditionals": "NOT"
+        },
+        "Condition 2| LAB8 Special Condition: Is Ichiban": {
+          "Property Type": 47,
+          "Unk Byte 1": 5,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 3
+        }
+      }
+    },
+    "Ichiban": {
+      "Moveset Name": "p_kasuga_brawler",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 21,
+          "Bitmask Byte": 0,
+          "Conditionals": "NOT"
+        }
+      }
     }
   }
 }

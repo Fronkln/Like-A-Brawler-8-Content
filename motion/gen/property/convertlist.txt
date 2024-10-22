@@ -1,1 +1,2 @@
-G:\SteamLibrary\steamapps\common\Yakuza Kiwami\media\data\motion\property.bin
+G:\SteamLibrary\steamapps\common\Yakuza 5\main\data\motion\property.bin
+P_SIN_CMB_03_fin p_ich_btl_sud_ath_03_finw

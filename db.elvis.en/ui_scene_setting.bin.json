@@ -1,0 +1,3045 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 230,
+  "COLUMN_COUNT": 4,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": -1,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": false,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": false,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": false,
+  "TABLE_ID": 1669,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "*": "1",
+    "base_scene": "1",
+    "replace_to": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "*": 1,
+    "base_scene": 1,
+    "replace_to": 1
+  },
+  "COLUMN_INDICES": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "0": {
+    "": {
+      "*": 256,
+      "base_scene": 257,
+      "replace_to": 250
+    }
+  },
+  "1": {
+    "": {
+      "*": 256,
+      "base_scene": 257,
+      "replace_to": 250
+    }
+  },
+  "2": {
+    "": {
+      "*": 12544,
+      "base_scene": 305,
+      "replace_to": 8
+    }
+  },
+  "3": {
+    "": {
+      "*": 12544,
+      "base_scene": 305,
+      "replace_to": 8
+    }
+  },
+  "4": {
+    "": {
+      "*": 5888,
+      "base_scene": 279,
+      "replace_to": 79
+    }
+  },
+  "5": {
+    "": {
+      "*": 5888,
+      "base_scene": 279,
+      "replace_to": 79
+    }
+  },
+  "6": {
+    "": {
+      "*": 15872,
+      "base_scene": 318,
+      "replace_to": 484
+    }
+  },
+  "7": {
+    "": {
+      "*": 15872,
+      "base_scene": 318,
+      "replace_to": 484
+    }
+  },
+  "8": {
+    "": {
+      "*": 25856,
+      "base_scene": 101,
+      "replace_to": 0
+    }
+  },
+  "9": {
+    "": {
+      "*": 25856,
+      "base_scene": 101,
+      "replace_to": 238
+    }
+  },
+  "10": {
+    "": {
+      "*": 25856,
+      "base_scene": 101,
+      "replace_to": 973
+    }
+  },
+  "11": {
+    "": {
+      "*": 14848,
+      "base_scene": 314,
+      "replace_to": 59
+    }
+  },
+  "12": {
+    "": {
+      "*": 14848,
+      "base_scene": 314,
+      "replace_to": 59
+    }
+  },
+  "13": {
+    "": {
+      "*": 14848,
+      "base_scene": 314,
+      "replace_to": 891
+    }
+  },
+  "14": {
+    "": {
+      "*": 14848,
+      "base_scene": 314,
+      "replace_to": 989
+    }
+  },
+  "15": {
+    "": {
+      "*": 15104,
+      "base_scene": 315,
+      "replace_to": 72
+    }
+  },
+  "16": {
+    "": {
+      "*": 15104,
+      "base_scene": 315,
+      "replace_to": 72
+    }
+  },
+  "17": {
+    "": {
+      "*": 27904,
+      "base_scene": 365,
+      "replace_to": 208
+    }
+  },
+  "18": {
+    "": {
+      "*": 27904,
+      "base_scene": 365,
+      "replace_to": 208
+    }
+  },
+  "19": {
+    "": {
+      "*": 35072,
+      "base_scene": 393,
+      "replace_to": 64
+    }
+  },
+  "20": {
+    "": {
+      "*": 35072,
+      "base_scene": 393,
+      "replace_to": 64
+    }
+  },
+  "21": {
+    "": {
+      "*": 36864,
+      "base_scene": 656,
+      "replace_to": 657
+    }
+  },
+  "22": {
+    "": {
+      "*": 36864,
+      "base_scene": 656,
+      "replace_to": 657
+    }
+  },
+  "23": {
+    "": {
+      "*": 29696,
+      "base_scene": 628,
+      "replace_to": 631
+    }
+  },
+  "24": {
+    "": {
+      "*": 29696,
+      "base_scene": 628,
+      "replace_to": 998
+    }
+  },
+  "25": {
+    "": {
+      "*": 512,
+      "base_scene": 258,
+      "replace_to": 251
+    }
+  },
+  "26": {
+    "": {
+      "*": 512,
+      "base_scene": 258,
+      "replace_to": 251
+    }
+  },
+  "27": {
+    "": {
+      "*": 512,
+      "base_scene": 258,
+      "replace_to": 970
+    }
+  },
+  "28": {
+    "": {
+      "*": 24320,
+      "base_scene": 95,
+      "replace_to": 42
+    }
+  },
+  "29": {
+    "": {
+      "*": 24320,
+      "base_scene": 95,
+      "replace_to": 42
+    }
+  },
+  "30": {
+    "": {
+      "*": 24576,
+      "base_scene": 96,
+      "replace_to": 43
+    }
+  },
+  "31": {
+    "": {
+      "*": 24576,
+      "base_scene": 96,
+      "replace_to": 43
+    }
+  },
+  "32": {
+    "": {
+      "*": 24832,
+      "base_scene": 97,
+      "replace_to": 44
+    }
+  },
+  "33": {
+    "": {
+      "*": 24832,
+      "base_scene": 97,
+      "replace_to": 44
+    }
+  },
+  "34": {
+    "": {
+      "*": 25088,
+      "base_scene": 98,
+      "replace_to": 45
+    }
+  },
+  "35": {
+    "": {
+      "*": 25088,
+      "base_scene": 98,
+      "replace_to": 45
+    }
+  },
+  "36": {
+    "": {
+      "*": 25600,
+      "base_scene": 100,
+      "replace_to": 46
+    }
+  },
+  "37": {
+    "": {
+      "*": 25600,
+      "base_scene": 100,
+      "replace_to": 46
+    }
+  },
+  "38": {
+    "": {
+      "*": 25344,
+      "base_scene": 99,
+      "replace_to": 37
+    }
+  },
+  "39": {
+    "": {
+      "*": 25344,
+      "base_scene": 99,
+      "replace_to": 37
+    }
+  },
+  "40": {
+    "": {
+      "*": 31232,
+      "base_scene": 122,
+      "replace_to": 118
+    }
+  },
+  "41": {
+    "": {
+      "*": 31232,
+      "base_scene": 122,
+      "replace_to": 118
+    }
+  },
+  "42": {
+    "": {
+      "*": 38144,
+      "base_scene": 661,
+      "replace_to": 174
+    }
+  },
+  "43": {
+    "": {
+      "*": 38144,
+      "base_scene": 661,
+      "replace_to": 174
+    }
+  },
+  "44": {
+    "": {
+      "*": 25856,
+      "base_scene": 101,
+      "replace_to": 86
+    }
+  },
+  "45": {
+    "": {
+      "*": 25856,
+      "base_scene": 101,
+      "replace_to": 86
+    }
+  },
+  "46": {
+    "": {
+      "*": 25856,
+      "base_scene": 101,
+      "replace_to": 86
+    }
+  },
+  "47": {
+    "": {
+      "*": 25856,
+      "base_scene": 101,
+      "replace_to": 520
+    }
+  },
+  "48": {
+    "": {
+      "*": 25856,
+      "base_scene": 101,
+      "replace_to": 520
+    }
+  },
+  "49": {
+    "": {
+      "*": 15616,
+      "base_scene": 317,
+      "replace_to": 85
+    }
+  },
+  "50": {
+    "": {
+      "*": 15616,
+      "base_scene": 317,
+      "replace_to": 85
+    }
+  },
+  "51": {
+    "": {
+      "*": 40192,
+      "base_scene": 669,
+      "replace_to": 528
+    }
+  },
+  "52": {
+    "": {
+      "*": 40192,
+      "base_scene": 669,
+      "replace_to": 528
+    }
+  },
+  "53": {
+    "": {
+      "*": 8448,
+      "base_scene": 289,
+      "replace_to": 57
+    }
+  },
+  "54": {
+    "": {
+      "*": 8448,
+      "base_scene": 289,
+      "replace_to": 57
+    }
+  },
+  "55": {
+    "": {
+      "*": 31232,
+      "base_scene": 378,
+      "replace_to": 2
+    }
+  },
+  "56": {
+    "": {
+      "*": 31232,
+      "base_scene": 378,
+      "replace_to": 2
+    }
+  },
+  "57": {
+    "": {
+      "*": 30720,
+      "base_scene": 376,
+      "replace_to": 82
+    }
+  },
+  "58": {
+    "": {
+      "*": 30720,
+      "base_scene": 376,
+      "replace_to": 82
+    }
+  },
+  "59": {
+    "": {
+      "*": 10496,
+      "base_scene": 297,
+      "replace_to": 71
+    }
+  },
+  "60": {
+    "": {
+      "*": 10496,
+      "base_scene": 297,
+      "replace_to": 71
+    }
+  },
+  "61": {
+    "": {
+      "*": 27392,
+      "base_scene": 107,
+      "replace_to": 58
+    }
+  },
+  "62": {
+    "": {
+      "*": 27392,
+      "base_scene": 107,
+      "replace_to": 58
+    }
+  },
+  "63": {
+    "": {
+      "*": 27392,
+      "base_scene": 107,
+      "replace_to": 889
+    }
+  },
+  "64": {
+    "": {
+      "*": 61696,
+      "base_scene": 753,
+      "replace_to": 456
+    }
+  },
+  "65": {
+    "": {
+      "*": 61696,
+      "base_scene": 753,
+      "replace_to": 456
+    }
+  },
+  "66": {
+    "": {
+      "*": 61696,
+      "base_scene": 753,
+      "replace_to": 892
+    }
+  },
+  "67": {
+    "": {
+      "*": 27904,
+      "base_scene": 109,
+      "replace_to": 77
+    }
+  },
+  "68": {
+    "": {
+      "*": 27904,
+      "base_scene": 109,
+      "replace_to": 77
+    }
+  },
+  "69": {
+    "": {
+      "*": 14848,
+      "base_scene": 314,
+      "replace_to": 1046
+    }
+  },
+  "70": {
+    "": {
+      "*": 28416,
+      "base_scene": 111,
+      "replace_to": 60
+    }
+  },
+  "71": {
+    "": {
+      "*": 28416,
+      "base_scene": 111,
+      "replace_to": 60
+    }
+  },
+  "72": {
+    "": {
+      "*": 28416,
+      "base_scene": 111,
+      "replace_to": 888
+    }
+  },
+  "73": {
+    "": {
+      "*": 63488,
+      "base_scene": 248,
+      "replace_to": 244
+    }
+  },
+  "74": {
+    "": {
+      "*": 63488,
+      "base_scene": 248,
+      "replace_to": 244
+    }
+  },
+  "75": {
+    "": {
+      "*": 63488,
+      "base_scene": 248,
+      "replace_to": 0
+    }
+  },
+  "76": {
+    "": {
+      "*": 16128,
+      "base_scene": 319,
+      "replace_to": 102
+    }
+  },
+  "77": {
+    "": {
+      "*": 16128,
+      "base_scene": 319,
+      "replace_to": 102
+    }
+  },
+  "78": {
+    "": {
+      "*": 41984,
+      "base_scene": 676,
+      "replace_to": 204
+    }
+  },
+  "79": {
+    "": {
+      "*": 41984,
+      "base_scene": 676,
+      "replace_to": 204
+    }
+  },
+  "80": {
+    "": {
+      "*": 42240,
+      "base_scene": 677,
+      "replace_to": 203
+    }
+  },
+  "81": {
+    "": {
+      "*": 42240,
+      "base_scene": 677,
+      "replace_to": 203
+    }
+  },
+  "82": {
+    "": {
+      "*": 768,
+      "base_scene": 259,
+      "replace_to": 252
+    }
+  },
+  "83": {
+    "": {
+      "*": 768,
+      "base_scene": 259,
+      "replace_to": 252
+    }
+  },
+  "84": {
+    "": {
+      "*": 1024,
+      "base_scene": 260,
+      "replace_to": 253
+    }
+  },
+  "85": {
+    "": {
+      "*": 1024,
+      "base_scene": 260,
+      "replace_to": 253
+    }
+  },
+  "86": {
+    "": {
+      "*": 26368,
+      "base_scene": 359,
+      "replace_to": 219
+    }
+  },
+  "87": {
+    "": {
+      "*": 26368,
+      "base_scene": 359,
+      "replace_to": 219
+    }
+  },
+  "88": {
+    "": {
+      "*": 33280,
+      "base_scene": 130,
+      "replace_to": 9
+    }
+  },
+  "89": {
+    "": {
+      "*": 33280,
+      "base_scene": 130,
+      "replace_to": 9
+    }
+  },
+  "90": {
+    "": {
+      "*": 33280,
+      "base_scene": 130,
+      "replace_to": 619
+    }
+  },
+  "91": {
+    "": {
+      "*": 33280,
+      "base_scene": 130,
+      "replace_to": 972
+    }
+  },
+  "92": {
+    "": {
+      "*": 16640,
+      "base_scene": 321,
+      "replace_to": 131
+    }
+  },
+  "93": {
+    "": {
+      "*": 16640,
+      "base_scene": 321,
+      "replace_to": 131
+    }
+  },
+  "94": {
+    "": {
+      "*": 11008,
+      "base_scene": 299,
+      "replace_to": 10
+    }
+  },
+  "95": {
+    "": {
+      "*": 11008,
+      "base_scene": 299,
+      "replace_to": 10
+    }
+  },
+  "96": {
+    "": {
+      "*": 63744,
+      "base_scene": 249,
+      "replace_to": 575
+    }
+  },
+  "97": {
+    "": {
+      "*": 63744,
+      "base_scene": 249,
+      "replace_to": 242
+    }
+  },
+  "98": {
+    "": {
+      "*": 63744,
+      "base_scene": 249,
+      "replace_to": 242
+    }
+  },
+  "99": {
+    "": {
+      "*": 63744,
+      "base_scene": 249,
+      "replace_to": 471
+    }
+  },
+  "100": {
+    "": {
+      "*": 63744,
+      "base_scene": 249,
+      "replace_to": 469
+    }
+  },
+  "101": {
+    "": {
+      "*": 16384,
+      "base_scene": 320,
+      "replace_to": 120
+    }
+  },
+  "102": {
+    "": {
+      "*": 16384,
+      "base_scene": 320,
+      "replace_to": 120
+    }
+  },
+  "103": {
+    "": {
+      "*": 63744,
+      "base_scene": 249,
+      "replace_to": 242
+    }
+  },
+  "104": {
+    "": {
+      "*": 1280,
+      "base_scene": 261,
+      "replace_to": 254
+    }
+  },
+  "105": {
+    "": {
+      "*": 1280,
+      "base_scene": 261,
+      "replace_to": 254
+    }
+  },
+  "106": {
+    "": {
+      "*": 1280,
+      "base_scene": 261,
+      "replace_to": 971
+    }
+  },
+  "107": {
+    "": {
+      "*": 27136,
+      "base_scene": 362,
+      "replace_to": 83
+    }
+  },
+  "108": {
+    "": {
+      "*": 27136,
+      "base_scene": 362,
+      "replace_to": 83
+    }
+  },
+  "109": {
+    "": {
+      "*": 27136,
+      "base_scene": 362,
+      "replace_to": 502
+    }
+  },
+  "110": {
+    "": {
+      "*": 1536,
+      "base_scene": 262,
+      "replace_to": 255
+    }
+  },
+  "111": {
+    "": {
+      "*": 1536,
+      "base_scene": 262,
+      "replace_to": 255
+    }
+  },
+  "112": {
+    "": {
+      "*": 17664,
+      "base_scene": 325,
+      "replace_to": 326
+    }
+  },
+  "113": {
+    "": {
+      "*": 17664,
+      "base_scene": 325,
+      "replace_to": 326
+    }
+  },
+  "114": {
+    "": {
+      "*": 6144,
+      "base_scene": 280,
+      "replace_to": 69
+    }
+  },
+  "115": {
+    "": {
+      "*": 6144,
+      "base_scene": 280,
+      "replace_to": 69
+    }
+  },
+  "116": {
+    "": {
+      "*": 5120,
+      "base_scene": 276,
+      "replace_to": 275
+    }
+  },
+  "117": {
+    "": {
+      "*": 5120,
+      "base_scene": 276,
+      "replace_to": 275
+    }
+  },
+  "118": {
+    "": {
+      "*": 5120,
+      "base_scene": 276,
+      "replace_to": 622
+    }
+  },
+  "119": {
+    "": {
+      "*": 1792,
+      "base_scene": 263,
+      "replace_to": 256
+    }
+  },
+  "120": {
+    "": {
+      "*": 1792,
+      "base_scene": 263,
+      "replace_to": 256
+    }
+  },
+  "121": {
+    "": {
+      "*": 34560,
+      "base_scene": 135,
+      "replace_to": 128
+    }
+  },
+  "122": {
+    "": {
+      "*": 34560,
+      "base_scene": 135,
+      "replace_to": 128
+    }
+  },
+  "123": {
+    "": {
+      "*": 34816,
+      "base_scene": 136,
+      "replace_to": 134
+    }
+  },
+  "124": {
+    "": {
+      "*": 34816,
+      "base_scene": 136,
+      "replace_to": 134
+    }
+  },
+  "125": {
+    "": {
+      "*": 36096,
+      "base_scene": 141,
+      "replace_to": 140
+    }
+  },
+  "126": {
+    "": {
+      "*": 36096,
+      "base_scene": 141,
+      "replace_to": 140
+    }
+  },
+  "127": {
+    "": {
+      "*": 36864,
+      "base_scene": 144,
+      "replace_to": 40
+    }
+  },
+  "128": {
+    "": {
+      "*": 36864,
+      "base_scene": 144,
+      "replace_to": 40
+    }
+  },
+  "129": {
+    "": {
+      "*": 37376,
+      "base_scene": 146,
+      "replace_to": 148
+    }
+  },
+  "130": {
+    "": {
+      "*": 37376,
+      "base_scene": 146,
+      "replace_to": 148
+    }
+  },
+  "131": {
+    "": {
+      "*": 38400,
+      "base_scene": 150,
+      "replace_to": 152
+    }
+  },
+  "132": {
+    "": {
+      "*": 38400,
+      "base_scene": 150,
+      "replace_to": 152
+    }
+  },
+  "133": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 151
+    }
+  },
+  "134": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 151
+    }
+  },
+  "135": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 0
+    }
+  },
+  "136": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 947
+    }
+  },
+  "137": {
+    "": {
+      "*": 39424,
+      "base_scene": 154,
+      "replace_to": 51
+    }
+  },
+  "138": {
+    "": {
+      "*": 39424,
+      "base_scene": 154,
+      "replace_to": 51
+    }
+  },
+  "139": {
+    "": {
+      "*": 39424,
+      "base_scene": 154,
+      "replace_to": 453
+    }
+  },
+  "140": {
+    "": {
+      "*": 9472,
+      "base_scene": 293,
+      "replace_to": 78
+    }
+  },
+  "141": {
+    "": {
+      "*": 9472,
+      "base_scene": 293,
+      "replace_to": 78
+    }
+  },
+  "142": {
+    "": {
+      "*": 61184,
+      "base_scene": 239,
+      "replace_to": 240
+    }
+  },
+  "143": {
+    "": {
+      "*": 61184,
+      "base_scene": 239,
+      "replace_to": 240
+    }
+  },
+  "144": {
+    "": {
+      "*": 35072,
+      "base_scene": 649,
+      "replace_to": 650
+    }
+  },
+  "145": {
+    "": {
+      "*": 48128,
+      "base_scene": 700,
+      "replace_to": 488
+    }
+  },
+  "146": {
+    "": {
+      "*": 48128,
+      "base_scene": 700,
+      "replace_to": 488
+    }
+  },
+  "147": {
+    "": {
+      "*": 15360,
+      "base_scene": 316,
+      "replace_to": 87
+    }
+  },
+  "148": {
+    "": {
+      "*": 15360,
+      "base_scene": 316,
+      "replace_to": 87
+    }
+  },
+  "149": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 157
+    }
+  },
+  "150": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 157
+    }
+  },
+  "151": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 158
+    }
+  },
+  "152": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 158
+    }
+  },
+  "153": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 655
+    }
+  },
+  "154": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 159
+    }
+  },
+  "155": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 159
+    }
+  },
+  "156": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 0
+    }
+  },
+  "157": {
+    "": {
+      "*": 39936,
+      "base_scene": 156,
+      "replace_to": 0
+    }
+  },
+  "158": {
+    "": {
+      "*": 24320,
+      "base_scene": 351,
+      "replace_to": 349
+    }
+  },
+  "159": {
+    "": {
+      "*": 24320,
+      "base_scene": 351,
+      "replace_to": 865
+    }
+  },
+  "160": {
+    "": {
+      "*": 24320,
+      "base_scene": 351,
+      "replace_to": 890
+    }
+  },
+  "161": {
+    "": {
+      "*": 24320,
+      "base_scene": 351,
+      "replace_to": 539
+    }
+  },
+  "162": {
+    "": {
+      "*": 24320,
+      "base_scene": 351,
+      "replace_to": 539
+    }
+  },
+  "163": {
+    "": {
+      "*": 24320,
+      "base_scene": 351,
+      "replace_to": 349
+    }
+  },
+  "164": {
+    "": {
+      "*": 24576,
+      "base_scene": 352,
+      "replace_to": 350
+    }
+  },
+  "165": {
+    "": {
+      "*": 24320,
+      "base_scene": 351,
+      "replace_to": 480
+    }
+  },
+  "166": {
+    "": {
+      "*": 24320,
+      "base_scene": 351,
+      "replace_to": 480
+    }
+  },
+  "167": {
+    "": {
+      "*": 39168,
+      "base_scene": 665,
+      "replace_to": 538
+    }
+  },
+  "168": {
+    "": {
+      "*": 39168,
+      "base_scene": 665,
+      "replace_to": 538
+    }
+  },
+  "169": {
+    "": {
+      "*": 24320,
+      "base_scene": 351,
+      "replace_to": 949
+    }
+  },
+  "170": {
+    "": {
+      "*": 0,
+      "base_scene": 0,
+      "replace_to": 164
+    }
+  },
+  "171": {
+    "": {
+      "*": 0,
+      "base_scene": 0,
+      "replace_to": 164
+    }
+  },
+  "172": {
+    "": {
+      "*": 11264,
+      "base_scene": 556,
+      "replace_to": 555
+    }
+  },
+  "173": {
+    "": {
+      "*": 11264,
+      "base_scene": 556,
+      "replace_to": 555
+    }
+  },
+  "174": {
+    "": {
+      "*": 45312,
+      "base_scene": 177,
+      "replace_to": 942
+    }
+  },
+  "175": {
+    "": {
+      "*": 45312,
+      "base_scene": 177,
+      "replace_to": 942
+    }
+  },
+  "176": {
+    "": {
+      "*": 46336,
+      "base_scene": 181,
+      "replace_to": 38
+    }
+  },
+  "177": {
+    "": {
+      "*": 46336,
+      "base_scene": 181,
+      "replace_to": 38
+    }
+  },
+  "178": {
+    "": {
+      "*": 47104,
+      "base_scene": 184,
+      "replace_to": 183
+    }
+  },
+  "179": {
+    "": {
+      "*": 47104,
+      "base_scene": 184,
+      "replace_to": 183
+    }
+  },
+  "180": {
+    "": {
+      "*": 47104,
+      "base_scene": 184,
+      "replace_to": 504
+    }
+  },
+  "181": {
+    "": {
+      "*": 49664,
+      "base_scene": 194,
+      "replace_to": 193
+    }
+  },
+  "182": {
+    "": {
+      "*": 49664,
+      "base_scene": 194,
+      "replace_to": 193
+    }
+  },
+  "183": {
+    "": {
+      "*": 50432,
+      "base_scene": 197,
+      "replace_to": 35
+    }
+  },
+  "184": {
+    "": {
+      "*": 50432,
+      "base_scene": 197,
+      "replace_to": 35
+    }
+  },
+  "185": {
+    "": {
+      "*": 51200,
+      "base_scene": 200,
+      "replace_to": 12
+    }
+  },
+  "186": {
+    "": {
+      "*": 51200,
+      "base_scene": 200,
+      "replace_to": 12
+    }
+  },
+  "187": {
+    "": {
+      "*": 56832,
+      "base_scene": 222,
+      "replace_to": 26
+    }
+  },
+  "188": {
+    "": {
+      "*": 56832,
+      "base_scene": 222,
+      "replace_to": 26
+    }
+  },
+  "189": {
+    "": {
+      "*": 57088,
+      "base_scene": 223,
+      "replace_to": 33
+    }
+  },
+  "190": {
+    "": {
+      "*": 57088,
+      "base_scene": 223,
+      "replace_to": 33
+    }
+  },
+  "191": {
+    "": {
+      "*": 58880,
+      "base_scene": 230,
+      "replace_to": 24
+    }
+  },
+  "192": {
+    "": {
+      "*": 59136,
+      "base_scene": 231,
+      "replace_to": 39
+    }
+  },
+  "193": {
+    "": {
+      "*": 59392,
+      "base_scene": 232,
+      "replace_to": 25
+    }
+  },
+  "194": {
+    "": {
+      "*": 59648,
+      "base_scene": 233,
+      "replace_to": 68
+    }
+  },
+  "195": {
+    "": {
+      "*": 32768,
+      "base_scene": 384,
+      "replace_to": 56
+    }
+  },
+  "196": {
+    "": {
+      "*": 32768,
+      "base_scene": 384,
+      "replace_to": 56
+    }
+  },
+  "197": {
+    "": {
+      "*": 10496,
+      "base_scene": 553,
+      "replace_to": 551
+    }
+  },
+  "198": {
+    "": {
+      "*": 10496,
+      "base_scene": 553,
+      "replace_to": 551
+    }
+  },
+  "199": {
+    "": {
+      "*": 19200,
+      "base_scene": 587,
+      "replace_to": 588
+    }
+  },
+  "200": {
+    "": {
+      "*": 19712,
+      "base_scene": 589,
+      "replace_to": 548
+    }
+  },
+  "201": {
+    "": {
+      "*": 19712,
+      "base_scene": 589,
+      "replace_to": 586
+    }
+  },
+  "202": {
+    "": {
+      "*": 25856,
+      "base_scene": 101,
+      "replace_to": 589
+    }
+  },
+  "203": {
+    "": {
+      "*": 20480,
+      "base_scene": 592,
+      "replace_to": 593
+    }
+  },
+  "204": {
+    "": {
+      "*": 20480,
+      "base_scene": 592,
+      "replace_to": 593
+    }
+  },
+  "205": {
+    "": {
+      "*": 19968,
+      "base_scene": 590,
+      "replace_to": 591
+    }
+  },
+  "206": {
+    "": {
+      "*": 19968,
+      "base_scene": 590,
+      "replace_to": 283
+    }
+  },
+  "207": {
+    "": {
+      "*": 19968,
+      "base_scene": 590,
+      "replace_to": 1038
+    }
+  },
+  "208": {
+    "": {
+      "*": 21760,
+      "base_scene": 597,
+      "replace_to": 529
+    }
+  },
+  "209": {
+    "": {
+      "*": 21760,
+      "base_scene": 597,
+      "replace_to": 598
+    }
+  },
+  "210": {
+    "": {
+      "*": 21760,
+      "base_scene": 597,
+      "replace_to": 635
+    }
+  },
+  "211": {
+    "": {
+      "*": 33792,
+      "base_scene": 644,
+      "replace_to": 645
+    }
+  },
+  "212": {
+    "": {
+      "*": 33792,
+      "base_scene": 644,
+      "replace_to": 645
+    }
+  },
+  "213": {
+    "": {
+      "*": 47104,
+      "base_scene": 696,
+      "replace_to": 173
+    }
+  },
+  "214": {
+    "": {
+      "*": 54016,
+      "base_scene": 723,
+      "replace_to": 724
+    }
+  },
+  "215": {
+    "": {
+      "*": 1792,
+      "base_scene": 775,
+      "replace_to": 1045
+    }
+  },
+  "216": {
+    "": {
+      "*": 2048,
+      "base_scene": 776,
+      "replace_to": 778
+    }
+  },
+  "217": {
+    "": {
+      "*": 2048,
+      "base_scene": 776,
+      "replace_to": 778
+    }
+  },
+  "218": {
+    "": {
+      "*": 2304,
+      "base_scene": 777,
+      "replace_to": 659
+    }
+  },
+  "219": {
+    "": {
+      "*": 2304,
+      "base_scene": 777,
+      "replace_to": 659
+    }
+  },
+  "220": {
+    "": {
+      "*": 22272,
+      "base_scene": 855,
+      "replace_to": 856
+    }
+  },
+  "221": {
+    "": {
+      "*": 22272,
+      "base_scene": 855,
+      "replace_to": 856
+    }
+  },
+  "222": {
+    "": {
+      "*": 27392,
+      "base_scene": 107,
+      "replace_to": 914
+    }
+  },
+  "223": {
+    "": {
+      "*": 45056,
+      "base_scene": 944,
+      "replace_to": 941
+    }
+  },
+  "224": {
+    "": {
+      "*": 45312,
+      "base_scene": 945,
+      "replace_to": 943
+    }
+  },
+  "225": {
+    "": {
+      "*": 52992,
+      "base_scene": 975,
+      "replace_to": 868
+    }
+  },
+  "226": {
+    "": {
+      "*": 4352,
+      "base_scene": 1041,
+      "replace_to": 4
+    }
+  },
+  "227": {
+    "": {
+      "*": 4352,
+      "base_scene": 1041,
+      "replace_to": 1043
+    }
+  },
+  "228": {
+    "": {
+      "*": 4352,
+      "base_scene": 1041,
+      "replace_to": 1042
+    }
+  },
+  "229": {
+    "": {
+      "*": 14848,
+      "base_scene": 314,
+      "replace_to": 1167
+    }
+  },
+  "subTable": {
+    "ROW_COUNT": 230,
+    "COLUMN_COUNT": 3,
+    "TEXT_COUNT": 0,
+    "ROW_VALIDATOR": -1,
+    "COLUMN_VALIDATOR": -1,
+    "HAS_ROW_NAMES": true,
+    "HAS_COLUMN_NAMES": false,
+    "HAS_ROW_VALIDITY": false,
+    "HAS_COLUMN_VALIDITY": false,
+    "HAS_UNKNOWN_BITMASK": false,
+    "HAS_ROW_INDICES": false,
+    "TABLE_ID": 0,
+    "STORAGE_MODE": 0,
+    "columnTypes": {
+      "0": 0,
+      "1": 9,
+      "2": 0
+    },
+    "0": {
+      "cmn_window_itemget": {
+        "0": 2,
+        "2": 55
+      }
+    },
+    "1": {
+      "fade": {
+        "0": 4,
+        "2": 226
+      }
+    },
+    "2": {
+      "kaisou": {
+        "0": 8,
+        "2": 2
+      }
+    },
+    "3": {
+      "mini_map": {
+        "0": 9,
+        "2": 88
+      }
+    },
+    "4": {
+      "money": {
+        "0": 10,
+        "2": 94
+      }
+    },
+    "5": {
+      "setting": {
+        "0": 12,
+        "2": 185
+      }
+    },
+    "6": {
+      "darts": {
+        "0": 24,
+        "2": 191
+      }
+    },
+    "7": {
+      "darts_parts": {
+        "0": 25,
+        "2": 193
+      }
+    },
+    "8": {
+      "mahjong": {
+        "0": 26,
+        "2": 187
+      }
+    },
+    "9": {
+      "mahjong_cutin": {
+        "0": 33,
+        "2": 189
+      }
+    },
+    "10": {
+      "pause_todo": {
+        "0": 35,
+        "2": 183
+      }
+    },
+    "11": {
+      "batting_main": {
+        "0": 37,
+        "2": 38
+      }
+    },
+    "12": {
+      "mission_start": {
+        "0": 38,
+        "2": 176
+      }
+    },
+    "13": {
+      "darts_gameselect": {
+        "0": 39,
+        "2": 192
+      }
+    },
+    "14": {
+      "pause_album": {
+        "0": 40,
+        "2": 127
+      }
+    },
+    "15": {
+      "batting_challenge_result": {
+        "0": 42,
+        "2": 28
+      }
+    },
+    "16": {
+      "batting_challenge_select": {
+        "0": 43,
+        "2": 30
+      }
+    },
+    "17": {
+      "batting_homerun_result": {
+        "0": 44,
+        "2": 32
+      }
+    },
+    "18": {
+      "batting_homerun_select": {
+        "0": 45,
+        "2": 34
+      }
+    },
+    "19": {
+      "batting_parts": {
+        "0": 46,
+        "2": 36
+      }
+    },
+    "20": {
+      "player_qte": {
+        "0": 51,
+        "2": 137
+      }
+    },
+    "21": {
+      "mg_vf5": {
+        "0": 56,
+        "2": 195
+      }
+    },
+    "22": {
+      "cmn_window_itemget_adv": {
+        "0": 57,
+        "2": 53
+      }
+    },
+    "23": {
+      "common_window_choice": {
+        "0": 58,
+        "2": 61
+      }
+    },
+    "24": {
+      "common_window_message": {
+        "0": 59,
+        "2": 11
+      }
+    },
+    "25": {
+      "common_window_yesno": {
+        "0": 60,
+        "2": 70
+      }
+    },
+    "26": {
+      "common_window_pay_money": {
+        "0": 61,
+        "2": 8
+      }
+    },
+    "27": {
+      "common_window_picture": {
+        "0": 64,
+        "2": 19
+      }
+    },
+    "28": {
+      "darts_select": {
+        "0": 68,
+        "2": 194
+      }
+    },
+    "29": {
+      "adv_message_skip": {
+        "0": 69,
+        "2": 114
+      }
+    },
+    "30": {
+      "continue": {
+        "0": 71,
+        "2": 59
+      }
+    },
+    "31": {
+      "common_window_message_large": {
+        "0": 72,
+        "2": 15
+      }
+    },
+    "32": {
+      "common_window_dialog": {
+        "0": 77,
+        "2": 67
+      }
+    },
+    "33": {
+      "player_qte_renda": {
+        "0": 78,
+        "2": 140
+      }
+    },
+    "34": {
+      "auth_skip": {
+        "0": 79,
+        "2": 4
+      }
+    },
+    "35": {
+      "cmn_window_itemget_full": {
+        "0": 82,
+        "2": 57
+      }
+    },
+    "36": {
+      "popup_window": {
+        "0": 83,
+        "2": 107
+      }
+    },
+    "37": {
+      "bj": {
+        "0": 85,
+        "2": 49
+      }
+    },
+    "38": {
+      "bet_window": {
+        "0": 86,
+        "2": 44
+      }
+    },
+    "39": {
+      "poker": {
+        "0": 87,
+        "2": 147
+      }
+    },
+    "40": {
+      "batting_challenge_result_judge": {
+        "0": 88,
+        "2": 29
+      }
+    },
+    "41": {
+      "batting_challenge_select_judge": {
+        "0": 89,
+        "2": 31
+      }
+    },
+    "42": {
+      "batting_homerun_result_judge": {
+        "0": 90,
+        "2": 33
+      }
+    },
+    "43": {
+      "batting_homerun_select_judge": {
+        "0": 91,
+        "2": 35
+      }
+    },
+    "44": {
+      "batting_main_judge": {
+        "0": 92,
+        "2": 39
+      }
+    },
+    "45": {
+      "batting_parts_judge": {
+        "0": 93,
+        "2": 37
+      }
+    },
+    "46": {
+      "hanafuda": {
+        "0": 102,
+        "2": 76
+      }
+    },
+    "47": {
+      "player_life_gauge_judge": {
+        "0": 104,
+        "2": 132
+      }
+    },
+    "48": {
+      "player_qte_judge": {
+        "0": 105,
+        "2": 138
+      }
+    },
+    "49": {
+      "common_window_choice_judge": {
+        "0": 106,
+        "2": 62
+      }
+    },
+    "50": {
+      "common_window_dialog_judge": {
+        "0": 108,
+        "2": 68
+      }
+    },
+    "51": {
+      "common_window_yesno_judge": {
+        "0": 110,
+        "2": 71
+      }
+    },
+    "52": {
+      "pause_todo_judge": {
+        "0": 117,
+        "2": 184
+      }
+    },
+    "53": {
+      "batting_batting": {
+        "0": 118,
+        "2": 40
+      }
+    },
+    "54": {
+      "kabu": {
+        "0": 120,
+        "2": 101
+      }
+    },
+    "55": {
+      "batting_batting_judge": {
+        "0": 121,
+        "2": 41
+      }
+    },
+    "56": {
+      "boss_life_gauge_judge": {
+        "0": 123,
+        "2": 134
+      }
+    },
+    "57": {
+      "pause_save": {
+        "0": 127,
+        "2": 197
+      }
+    },
+    "58": {
+      "pause_map": {
+        "0": 128,
+        "2": 121
+      }
+    },
+    "59": {
+      "mini_map_judge": {
+        "0": 129,
+        "2": 89
+      }
+    },
+    "60": {
+      "mg_ufo": {
+        "0": 131,
+        "2": 92
+      }
+    },
+    "61": {
+      "pause_taxi": {
+        "0": 134,
+        "2": 123
+      }
+    },
+    "62": {
+      "pause_taxi_judge": {
+        "0": 137,
+        "2": 124
+      }
+    },
+    "63": {
+      "pause_map_judge": {
+        "0": 138,
+        "2": 122
+      }
+    },
+    "64": {
+      "map_icon": {
+        "0": 140,
+        "2": 125
+      }
+    },
+    "65": {
+      "map_icon_judge": {
+        "0": 142,
+        "2": 126
+      }
+    },
+    "66": {
+      "shougi": {
+        "0": 143,
+        "2": 112
+      }
+    },
+    "67": {
+      "pause_album_judge": {
+        "0": 145,
+        "2": 128
+      }
+    },
+    "68": {
+      "camera_mode_judge": {
+        "0": 147,
+        "2": 130
+      }
+    },
+    "69": {
+      "camera_mode": {
+        "0": 148,
+        "2": 129
+      }
+    },
+    "70": {
+      "boss_life_gauge": {
+        "0": 151,
+        "2": 133
+      }
+    },
+    "71": {
+      "player_life_gauge": {
+        "0": 152,
+        "2": 131
+      }
+    },
+    "72": {
+      "enemy_sub_life_gauge_judge": {
+        "0": 155,
+        "2": 150
+      }
+    },
+    "73": {
+      "enemy_sub_life_gauge": {
+        "0": 157,
+        "2": 149
+      }
+    },
+    "74": {
+      "boss_sub_life_gauge": {
+        "0": 158,
+        "2": 151
+      }
+    },
+    "75": {
+      "npc_sub_life_gauge": {
+        "0": 159,
+        "2": 154
+      }
+    },
+    "76": {
+      "boss_sub_life_gauge_judge": {
+        "0": 160,
+        "2": 152
+      }
+    },
+    "77": {
+      "npc_sub_life_gauge_judge": {
+        "0": 161,
+        "2": 155
+      }
+    },
+    "78": {
+      "stalking_play": {
+        "0": 162,
+        "2": 211
+      }
+    },
+    "79": {
+      "message_window_judge": {
+        "0": 163,
+        "2": 158
+      }
+    },
+    "80": {
+      "now_saving": {
+        "0": 164,
+        "2": 170
+      }
+    },
+    "81": {
+      "common_window_saving_judge": {
+        "0": 165,
+        "2": 173
+      }
+    },
+    "82": {
+      "now_saving_judge": {
+        "0": 166,
+        "2": 171
+      }
+    },
+    "83": {
+      "pause_setting_judge": {
+        "0": 171,
+        "2": 186
+      }
+    },
+    "84": {
+      "friend_gauge": {
+        "0": 173,
+        "2": 213
+      }
+    },
+    "85": {
+      "batting_item_select": {
+        "0": 174,
+        "2": 42
+      }
+    },
+    "86": {
+      "manual_judge": {
+        "0": 178,
+        "2": 174
+      }
+    },
+    "87": {
+      "mission_start_judge": {
+        "0": 182,
+        "2": 177
+      }
+    },
+    "88": {
+      "objective": {
+        "0": 183,
+        "2": 178
+      }
+    },
+    "89": {
+      "objective_judge": {
+        "0": 185,
+        "2": 179
+      }
+    },
+    "90": {
+      "now_loading": {
+        "0": 193,
+        "2": 181
+      }
+    },
+    "91": {
+      "now_loading_judge": {
+        "0": 195,
+        "2": 182
+      }
+    },
+    "92": {
+      "golf_menu": {
+        "0": 203,
+        "2": 80
+      }
+    },
+    "93": {
+      "golf_main": {
+        "0": 204,
+        "2": 78
+      }
+    },
+    "94": {
+      "common_window_scrollable_choice": {
+        "0": 208,
+        "2": 17
+      }
+    },
+    "95": {
+      "item_exchange": {
+        "0": 219,
+        "2": 86
+      }
+    },
+    "96": {
+      "empty_sub_life_gauge": {
+        "0": 220,
+        "2": 157
+      }
+    },
+    "97": {
+      "mahjong_cutin_judge": {
+        "0": 224,
+        "2": 190
+      }
+    },
+    "98": {
+      "mahjong_judge": {
+        "0": 225,
+        "2": 188
+      }
+    },
+    "99": {
+      "common_window_input_number": {
+        "0": 238,
+        "2": 9
+      }
+    },
+    "100": {
+      "player_renda": {
+        "0": 240,
+        "2": 142
+      }
+    },
+    "101": {
+      "player_renda_judge": {
+        "0": 241,
+        "2": 143
+      }
+    },
+    "102": {
+      "npc_offscreen_marker": {
+        "0": 242,
+        "2": 97
+      }
+    },
+    "103": {
+      "encount_offscreen_marker": {
+        "0": 244,
+        "2": 73
+      }
+    },
+    "104": {
+      "encount_offscreen_marker_judge": {
+        "0": 246,
+        "2": 74
+      }
+    },
+    "105": {
+      "npc_offscreen_marker_judge": {
+        "0": 247,
+        "2": 98
+      }
+    },
+    "106": {
+      "arrow_access_mark": {
+        "0": 250,
+        "2": 0
+      }
+    },
+    "107": {
+      "balloon_access_mark": {
+        "0": 251,
+        "2": 25
+      }
+    },
+    "108": {
+      "icon_pict_access_mark": {
+        "0": 252,
+        "2": 82
+      }
+    },
+    "109": {
+      "icon_text_access_mark": {
+        "0": 253,
+        "2": 84
+      }
+    },
+    "110": {
+      "player_action_access_mark": {
+        "0": 254,
+        "2": 104
+      }
+    },
+    "111": {
+      "search_access_mark": {
+        "0": 255,
+        "2": 110
+      }
+    },
+    "112": {
+      "watch_access_mark": {
+        "0": 256,
+        "2": 119
+      }
+    },
+    "113": {
+      "arrow_access_mark_judge": {
+        "0": 266,
+        "2": 1
+      }
+    },
+    "114": {
+      "balloon_access_mark_judge": {
+        "0": 267,
+        "2": 26
+      }
+    },
+    "115": {
+      "icon_pict_access_mark_judge": {
+        "0": 268,
+        "2": 83
+      }
+    },
+    "116": {
+      "icon_text_access_mark_judge": {
+        "0": 269,
+        "2": 85
+      }
+    },
+    "117": {
+      "player_action_access_mark_judge": {
+        "0": 270,
+        "2": 105
+      }
+    },
+    "118": {
+      "search_access_mark_judge": {
+        "0": 271,
+        "2": 111
+      }
+    },
+    "119": {
+      "watch_access_mark_judge": {
+        "0": 272,
+        "2": 120
+      }
+    },
+    "120": {
+      "timer": {
+        "0": 275,
+        "2": 116
+      }
+    },
+    "121": {
+      "timer_judge": {
+        "0": 277,
+        "2": 117
+      }
+    },
+    "122": {
+      "mg_vf2": {
+        "0": 283,
+        "2": 206
+      }
+    },
+    "123": {
+      "continue_judge": {
+        "0": 284,
+        "2": 60
+      }
+    },
+    "124": {
+      "get_item_window_judge": {
+        "0": 290,
+        "2": 54
+      }
+    },
+    "125": {
+      "player_qte_renda_judge": {
+        "0": 294,
+        "2": 141
+      }
+    },
+    "126": {
+      "pause_skip_event_judge": {
+        "0": 295,
+        "2": 5
+      }
+    },
+    "127": {
+      "money_judge": {
+        "0": 303,
+        "2": 95
+      }
+    },
+    "128": {
+      "target_offscreen_marker": {
+        "0": 309,
+        "2": 103
+      }
+    },
+    "129": {
+      "common_dialog_message_judge": {
+        "0": 312,
+        "2": 12
+      }
+    },
+    "130": {
+      "common_dialog_message_large_judge": {
+        "0": 313,
+        "2": 16
+      }
+    },
+    "131": {
+      "hanafuda_judge": {
+        "0": 322,
+        "2": 77
+      }
+    },
+    "132": {
+      "oichokabu_judge": {
+        "0": 323,
+        "2": 102
+      }
+    },
+    "133": {
+      "ufo_catcher_judge": {
+        "0": 324,
+        "2": 93
+      }
+    },
+    "134": {
+      "shogi_judge": {
+        "0": 326,
+        "2": 113
+      }
+    },
+    "135": {
+      "bet_window_judge": {
+        "0": 348,
+        "2": 45
+      }
+    },
+    "136": {
+      "message_window_main": {
+        "0": 349,
+        "2": 163
+      }
+    },
+    "137": {
+      "message_window_phone": {
+        "0": 350,
+        "2": 164
+      }
+    },
+    "138": {
+      "friend_life_gauge_judge": {
+        "0": 354,
+        "2": 135
+      }
+    },
+    "139": {
+      "friend_offscreen_marker_judge": {
+        "0": 355,
+        "2": 75
+      }
+    },
+    "140": {
+      "friend_sub_life_gauge_judge": {
+        "0": 356,
+        "2": 156
+      }
+    },
+    "141": {
+      "kaisou_judge": {
+        "0": 357,
+        "2": 3
+      }
+    },
+    "142": {
+      "bet_window_bj_judge": {
+        "0": 358,
+        "2": 46
+      }
+    },
+    "143": {
+      "item_exchange_judge": {
+        "0": 360,
+        "2": 87
+      }
+    },
+    "144": {
+      "popup_window_judge": {
+        "0": 361,
+        "2": 108
+      }
+    },
+    "145": {
+      "skip_telop_button_judge": {
+        "0": 363,
+        "2": 115
+      }
+    },
+    "146": {
+      "common_dialog_scrollable_choice_judge": {
+        "0": 364,
+        "2": 18
+      }
+    },
+    "147": {
+      "get_item_popup_judge": {
+        "0": 366,
+        "2": 56
+      }
+    },
+    "148": {
+      "record_choice_judge": {
+        "0": 369,
+        "2": 204
+      }
+    },
+    "149": {
+      "get_item_alert_judge": {
+        "0": 377,
+        "2": 58
+      }
+    },
+    "150": {
+      "common_dialog_picture_judge": {
+        "0": 379,
+        "2": 22
+      }
+    },
+    "151": {
+      "pause_vf5fs_judge": {
+        "0": 385,
+        "2": 196
+      }
+    },
+    "152": {
+      "player_qte_chase_judge": {
+        "0": 388,
+        "2": 139
+      }
+    },
+    "153": {
+      "common_dialog_tutorial_judge": {
+        "0": 395,
+        "2": 20
+      }
+    },
+    "154": {
+      "message_window_choice": {
+        "0": 456,
+        "2": 64
+      }
+    },
+    "155": {
+      "homeless_car_offscreen_marker": {
+        "0": 469,
+        "2": 100
+      }
+    },
+    "156": {
+      "homeless_rival_offscreen_marker": {
+        "0": 471,
+        "2": 99
+      }
+    },
+    "157": {
+      "message_window_party_talk_main": {
+        "0": 480,
+        "2": 165
+      }
+    },
+    "158": {
+      "common_dialog_choice_blackjack": {
+        "0": 484,
+        "2": 6
+      }
+    },
+    "159": {
+      "party_chat": {
+        "0": 488,
+        "2": 145
+      }
+    },
+    "160": {
+      "popup_window_new": {
+        "0": 502,
+        "2": 109
+      }
+    },
+    "161": {
+      "notice_todo": {
+        "0": 504,
+        "2": 180
+      }
+    },
+    "162": {
+      "bet_window_casino": {
+        "0": 520,
+        "2": 47
+      }
+    },
+    "163": {
+      "command_choice_blackjack": {
+        "0": 528,
+        "2": 51
+      }
+    },
+    "164": {
+      "rpg_pause_inventory": {
+        "0": 529,
+        "2": 208
+      }
+    },
+    "165": {
+      "message_window_party_talk_cut_in": {
+        "0": 538,
+        "2": 167
+      }
+    },
+    "166": {
+      "bj_message_window": {
+        "0": 539,
+        "2": 161
+      }
+    },
+    "167": {
+      "investment_dialog": {
+        "0": 548,
+        "2": 200
+      }
+    },
+    "168": {
+      "pause_save_yazawa": {
+        "0": 551,
+        "2": 198
+      }
+    },
+    "169": {
+      "common_dialog_saving_yazawa": {
+        "0": 555,
+        "2": 172
+      }
+    },
+    "170": {
+      "before_battle_offscreen_marker": {
+        "0": 575,
+        "2": 96
+      }
+    },
+    "171": {
+      "atm_dialog": {
+        "0": 586,
+        "2": 201
+      }
+    },
+    "172": {
+      "rpg_exchange_cooking": {
+        "0": 588,
+        "2": 199
+      }
+    },
+    "173": {
+      "investment_dialog_base": {
+        "0": 589,
+        "2": 202
+      }
+    },
+    "174": {
+      "arcade_frame_mr": {
+        "0": 591,
+        "2": 205
+      }
+    },
+    "175": {
+      "record_choice": {
+        "0": 593,
+        "2": 203
+      }
+    },
+    "176": {
+      "rpg_pause_inventory_box": {
+        "0": 598,
+        "2": 209
+      }
+    },
+    "177": {
+      "homeless_mini_map": {
+        "0": 619,
+        "2": 90
+      }
+    },
+    "178": {
+      "homeless_timer": {
+        "0": 622,
+        "2": 118
+      }
+    },
+    "179": {
+      "delivery_help_get_member_dialog": {
+        "0": 631,
+        "2": 23
+      }
+    },
+    "180": {
+      "rpg_pause_inventory_dlc": {
+        "0": 635,
+        "2": 210
+      }
+    },
+    "181": {
+      "stalking_play_yazawa": {
+        "0": 645,
+        "2": 212
+      }
+    },
+    "182": {
+      "player_qte_just": {
+        "0": 650,
+        "2": 144
+      }
+    },
+    "183": {
+      "mid_boss_sub_life_gauge": {
+        "0": 655,
+        "2": 153
+      }
+    },
+    "184": {
+      "common_dialog_picture": {
+        "0": 657,
+        "2": 21
+      }
+    },
+    "185": {
+      "localize_language_choice": {
+        "0": 659,
+        "2": 218
+      }
+    },
+    "186": {
+      "localize_language_choice_judge": {
+        "0": 660,
+        "2": 219
+      }
+    },
+    "187": {
+      "batting_item_select_coyote": {
+        "0": 662,
+        "2": 43
+      }
+    },
+    "188": {
+      "message_window_party_talk_cut_in_coyote": {
+        "0": 666,
+        "2": 168
+      }
+    },
+    "189": {
+      "message_window_party_talk_main_coyote": {
+        "0": 667,
+        "2": 166
+      }
+    },
+    "190": {
+      "bj_coyote": {
+        "0": 670,
+        "2": 50
+      }
+    },
+    "191": {
+      "command_choice_blackjack_coyote": {
+        "0": 671,
+        "2": 52
+      }
+    },
+    "192": {
+      "common_dialog_choice_blackjack_coyote": {
+        "0": 672,
+        "2": 7
+      }
+    },
+    "193": {
+      "poker_coyote": {
+        "0": 673,
+        "2": 148
+      }
+    },
+    "194": {
+      "bj_message_window_coyote": {
+        "0": 674,
+        "2": 162
+      }
+    },
+    "195": {
+      "golf_main_coyote": {
+        "0": 678,
+        "2": 79
+      }
+    },
+    "196": {
+      "golf_menu_coyote": {
+        "0": 679,
+        "2": 81
+      }
+    },
+    "197": {
+      "party_chat_coyote": {
+        "0": 701,
+        "2": 146
+      }
+    },
+    "198": {
+      "common_volume_choice": {
+        "0": 714,
+        "2": 220
+      }
+    },
+    "199": {
+      "loading_tips_coyote": {
+        "0": 724,
+        "2": 214
+      }
+    },
+    "200": {
+      "key_config": {
+        "0": 730,
+        "2": 216
+      }
+    },
+    "201": {
+      "message_window_choice_judge": {
+        "0": 754,
+        "2": 65
+      }
+    },
+    "202": {
+      "bet_window_casino_coyote": {
+        "0": 768,
+        "2": 48
+      }
+    },
+    "203": {
+      "key_config_elvis": {
+        "0": 778,
+        "2": 217
+      }
+    },
+    "204": {
+      "common_volume_choice_elvis": {
+        "0": 856,
+        "2": 221
+      }
+    },
+    "205": {
+      "kizuna_sanpo_message_window": {
+        "0": 865,
+        "2": 159
+      }
+    },
+    "206": {
+      "common_choice_timer_elvis": {
+        "0": 868,
+        "2": 225
+      }
+    },
+    "207": {
+      "resort_island_common_dialog_yesno": {
+        "0": 888,
+        "2": 72
+      }
+    },
+    "208": {
+      "resort_island_common_dialog_choice": {
+        "0": 889,
+        "2": 63
+      }
+    },
+    "209": {
+      "resort_island_message_window": {
+        "0": 890,
+        "2": 160
+      }
+    },
+    "210": {
+      "resort_island_common_dialog_message": {
+        "0": 891,
+        "2": 13
+      }
+    },
+    "211": {
+      "resort_island_message_window_choice": {
+        "0": 892,
+        "2": 66
+      }
+    },
+    "212": {
+      "personality_dialog_choice": {
+        "0": 914,
+        "2": 222
+      }
+    },
+    "213": {
+      "help_menu_elvis": {
+        "0": 941,
+        "2": 223
+      }
+    },
+    "214": {
+      "manual_elvis": {
+        "0": 942,
+        "2": 175
+      }
+    },
+    "215": {
+      "tips_elvis": {
+        "0": 943,
+        "2": 224
+      }
+    },
+    "216": {
+      "npc_gauge": {
+        "0": 947,
+        "2": 136
+      }
+    },
+    "217": {
+      "message_window_party_talk_elvis": {
+        "0": 949,
+        "2": 169
+      }
+    },
+    "218": {
+      "resort_island_balloon_access_mark": {
+        "0": 970,
+        "2": 27
+      }
+    },
+    "219": {
+      "resort_island_player_action_access_mark": {
+        "0": 971,
+        "2": 106
+      }
+    },
+    "220": {
+      "crazy_delivery_mini_map": {
+        "0": 972,
+        "2": 91
+      }
+    },
+    "221": {
+      "common_window_input_number_elvis": {
+        "0": 973,
+        "2": 10
+      }
+    },
+    "222": {
+      "matching_app_common_dialog_message": {
+        "0": 989,
+        "2": 14
+      }
+    },
+    "223": {
+      "resort_island_common_dialog_get_member": {
+        "0": 998,
+        "2": 24
+      }
+    },
+    "224": {
+      "arcade_frame_get_bass": {
+        "0": 1038,
+        "2": 207
+      }
+    },
+    "225": {
+      "fade_stage_plane": {
+        "0": 1042,
+        "2": 228
+      }
+    },
+    "226": {
+      "fade_stage_taxi": {
+        "0": 1043,
+        "2": 227
+      }
+    },
+    "227": {
+      "controller_guide_elvis": {
+        "0": 1045,
+        "2": 215
+      }
+    },
+    "228": {
+      "manual_common_dialog_message": {
+        "0": 1046,
+        "2": 69
+      }
+    },
+    "229": {
+      "common_window_message_rich": {
+        "0": 1167,
+        "2": 229
+      }
+    }
+  }
+}

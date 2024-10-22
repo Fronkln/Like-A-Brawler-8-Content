@@ -63,3 +63,8 @@ hact_y8b1770_knuckle_soul|56
 hact_y8bb1780_ebn_party_decide|56
 hact_y8b1800_headlock_nage|56
 hact_y8b1830_kru_doramukan|56
+hact_y8bb1860_ebn_wreckage|56
+hact_y8b1870_nunchaku|56
+hact_y8b1900_harituke_afm|56
+hact_y8b1890_harituke|56
+style_ichiban|19

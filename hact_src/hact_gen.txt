@@ -97,3 +97,10 @@ y8b1820_kyukyoku
 a10620_forklift_start
 y8b1830_kru_doramukan
 y8b1840_kru_wph
+y8b1850_krl_binta
+y8bb1860_ebn_wreckage
+y8b1870_nunchaku
+y8b1880_brk_run
+y8b1890_harituke
+y8b1900_harituke_afm
+y8b1910_ich_stompmania
