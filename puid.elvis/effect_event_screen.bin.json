@@ -1,0 +1,363 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 69,
+  "COLUMN_COUNT": 0,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": -1,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": false,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": false,
+  "TABLE_ID": 0,
+  "STORAGE_MODE": 0,
+  "columnTypes": {},
+  "0": {
+    "": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "1": {
+    "dragon_boost_screen_A": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "2": {
+    "dragon_boost_screen_loop": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "3": {
+    "OgrefBactStart": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "4": {
+    "test_gradation": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "5": {
+    "test_particle": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "6": {
+    "PhysicalWarning_lp": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "7": {
+    "PhysicalWarning_lp2": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "8": {
+    "SumoguriDamage": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "9": {
+    "chase_speedup_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "10": {
+    "videophone_screen_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "11": {
+    "Shadow_coverscreen_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "12": {
+    "Judge_finishblow": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "13": {
+    "JudgeSgrkDamageA": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "14": {
+    "JudgeSgrkScreenEffect_Yl": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "15": {
+    "lexus2_DmgBlind_loop": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "16": {
+    "lexus2_DmgBlind_start": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "17": {
+    "PhysicalWarning_kiryu_belly_blood": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "18": {
+    "JudgeDroneDamageLv1": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "19": {
+    "JudgeDroneDamageLv2": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "20": {
+    "JudgeDroneDamageLv3": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21": {
+    "lexus2_oiuchi_start": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "22": {
+    "first_person_damage": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "23": {
+    "Judge_PhotoMission": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "24": {
+    "physicalwarning_lp2": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "25": {
+    "JudgeChaseScreen": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "26": {
+    "Judge_StyleChange": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "27": {
+    "Judge_FatalWound_lp": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "28": {
+    "Judge_FatalWound": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "29": {
+    "lexus2_dmgblind_loop": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "30": {
+    "Judge_BTL13_Lightning": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "31": {
+    "cart_speedup_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "32": {
+    "rearcrart_speedup_01": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "33": {
+    "YZ_CriticalHit": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "34": {
+    "YZ_BTL_HS_screen01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "35": {
+    "YZ_BTL_HS_screen02": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "36": {
+    "YZ_BTL_HS_screen03": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "37": {
+    "Cart_TimeCounter": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "38": {
+    "keiei_counter_screen": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "39": {
+    "rearcart_speedup_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "40": {
+    "CoyoteDance_screen_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "41": {
+    "CoyoteSoundcollector_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "42": {
+    "CoyoteBoxing_screen_00": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "43": {
+    "CoyoteStelthHazard": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "44": {
+    "CoyoteCatCommunity_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "45": {
+    "CoyoteGirlsBarFailure": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "46": {
+    "CoyoteGirlsBarSuccess": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "47": {
+    "CoyoteDance_fever_en": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "48": {
+    "CoyoteDance_fever_st": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "49": {
+    "CoyoteDance_fever_break": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "50": {
+    "CoyoteDance_fever_free": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "51": {
+    "CoyoteDance_fever_pop": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "52": {
+    "CoyoteDance_fever_rock": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "53": {
+    "CoyoteBikouHazard": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "54": {
+    "Coyote_ScoopMission": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "55": {
+    "CoyoteDance_fever_DLC": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "56": {
+    "EL_BTL_cam_screen01.div": {
+      "reARMP_isValid": "0"
+    }
+  },
+  "57": {
+    "EL_BTL_cam_screen01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "58": {
+    "ElvisCrazyDeliBoostCmr": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "59": {
+    "CoyoteSmellResearch_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "60": {
+    "BabyCart_speed_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "61": {
+    "ElvisBtlHawaii_D": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "62": {
+    "ElvisBtlHawaii_D_end": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "63": {
+    "Elvis_DiMjSj_SpStage": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "64": {
+    "Elvis_UltimetHaet_break": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "65": {
+    "ElvisSujiScreen_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "66": {
+    "ElvisSujiScreen_02": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "67": {
+    "ElvisSujiScreen_03": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "68": {
+    "Brawler_finishblow": {
+      "reARMP_isValid": "1"
+    }
+  }
+}

@@ -104,3 +104,7 @@ y8b1880_brk_run
 y8b1890_harituke
 y8b1900_harituke_afm
 y8b1910_ich_stompmania
+y8b1920_1katana_slash
+y8b1930_oi_1katana_yoko
+y8b1940_hact_stick_knife_wall
+y8b1950_hact_stick_knife_table

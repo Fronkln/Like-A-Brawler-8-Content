@@ -67,4 +67,8 @@ hact_y8bb1860_ebn_wreckage|56
 hact_y8b1870_nunchaku|56
 hact_y8b1900_harituke_afm|56
 hact_y8b1890_harituke|56
-style_ichiban|19
+style_freeter|19
+hact_y8b1910_ich_stompmania|56
+style_oedragon|19
+hact_y8b1920_1katana_slash|56
+hact_y8b1930_oi_1katana_yoko|56

@@ -1555,6 +1555,56 @@
     }
   },
   "Moveset Change Table": {
+    "EX_CHEF": {
+      "Moveset Name": "p_man_job_07",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 19,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        },
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 15,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+          "Property Type": 47,
+          "Unk Byte 1": 6,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
+    "EX_SAMURAI": {
+      "Moveset Name": "p_man_samurai",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 5,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        },
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 25,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+          "Property Type": 47,
+          "Unk Byte 1": 6,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
     "WPA": {
       "Moveset Name": "p_com_wpa",
       "Conditions": {
@@ -1594,6 +1644,17 @@
         "Condition 1| Weapon Category": {
           "Property Type": 14,
           "Weapon Category ID": 4,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPE": {
+      "Moveset Name": "p_com_wpe",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 5,
           "Bitmask Byte": 0,
           "Conditionals": ""
         }

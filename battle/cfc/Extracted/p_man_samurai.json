@@ -44,48 +44,6 @@
     },
     "Light_1": {
       "Move Type": 2,
-      "Animation Used": "p_ich_btl_sud_ath_01",
-      "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "Light_2",
-          "Conditions": {
-            "Condition 1| Button Press (Buffered Input)": {
-              "Property Type": 4,
-              "Button Press": "Square",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            },
-            "Condition 2| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            }
-          }
-        },
-        "Follow Up 2": {
-          "Follows Up to": "AttackFinish1",
-          "Conditions": {
-            "Condition 1| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 2| Button Press (Buffered Input)": {
-              "Property Type": 4,
-              "Button Press": "Triangle",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            }
-          }
-        }
-      }
-    },
-    "Light_1": {
-      "Move Type": 2,
       "Animation Used": "m_sam_btl_wpe_ath_01",
       "Follow Ups": {
         "Follow Up 1": {
