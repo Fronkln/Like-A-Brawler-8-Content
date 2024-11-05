@@ -419,3 +419,10 @@ M_COK_BTL_WPX_swy_b
 M_COK_BTL_WPX_swy_f
 M_COK_BTL_WPX_swy_l
 M_COK_BTL_WPX_swy_r
+m_wes_btl_wpy_sy0_gsp_nge
+m_wes_btl_wpy_sy1_gsp_nge
+m_wes_btl_wpy_sht_lp - Kopya
+m_wes_btl_wpy_sht_en
+m_wes_btl_wpy_sht_st
+m_wes_btl_wpy_sy0_gsp_rsh
+m_wes_btl_wpy_sy1_gsp_rsh

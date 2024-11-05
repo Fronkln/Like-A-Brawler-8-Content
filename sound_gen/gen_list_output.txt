@@ -72,3 +72,5 @@ hact_y8b1910_ich_stompmania|56
 style_oedragon|19
 hact_y8b1920_1katana_slash|56
 hact_y8b1930_oi_1katana_yoko|56
+hact_y8b1960_wes_kabe|56
+hact_y8b1980_wes_harituke|56

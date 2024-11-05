@@ -398,3 +398,8 @@ m_cok_btl_wpx_ath_03
 m_cok_btl_wpx_ath_03_fin
 m_cok_btl_wpx_ath_04
 m_cok_btl_wpx_ath_04_fin
+m_wes_btl_wpy_sy0_gsp_nge
+m_wes_btl_wpy_sy1_gsp_nge
+m_wes_btl_wpy_sht_en
+m_wes_btl_wpy_sy0_gsp_rsh
+m_wes_btl_wpy_sy1_gsp_rsh

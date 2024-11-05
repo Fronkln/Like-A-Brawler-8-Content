@@ -1555,6 +1555,31 @@
     }
   },
   "Moveset Change Table": {
+    "EX_DESPERADO": {
+      "Moveset Name": "p_man_western",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 12,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        },
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 29,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+          "Property Type": 47,
+          "Unk Byte 1": 6,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
     "EX_CHEF": {
       "Moveset Name": "p_man_job_07",
       "Conditions": {

@@ -789,6 +789,13 @@
           "Unk Byte 2": 0,
           "Unk Byte 3": 0,
           "Unk Byte 4": 3
+        },
+        "Condition 3| LAB8 Special Condition: Is Active Brawler Player": {
+          "Property Type": 47,
+          "Unk Byte 1": 10,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
         }
       }
     },
@@ -800,6 +807,13 @@
           "Weapon Category ID": 5,
           "Bitmask Byte": 0,
           "Conditionals": "NOT"
+        },
+        "Condition 2| LAB8 Special Condition: Is Active Brawler Player": {
+          "Property Type": 47,
+          "Unk Byte 1": 10,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
         }
       }
     }
