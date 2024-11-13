@@ -74,3 +74,5 @@ hact_y8b1920_1katana_slash|56
 hact_y8b1930_oi_1katana_yoko|56
 hact_y8b1960_wes_kabe|56
 hact_y8b1980_wes_harituke|56
+hact_y8b1990_wes_hanaredama|56
+hact_y8b2000_sprinkle_solt|56

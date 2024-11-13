@@ -1,3 +1,4 @@
-C:\Users\orhan\Downloads\ishin motion\motion\property.bin
-P_WPY_SYNC_lapel_shot m_wes_btl_wpy_sy0_gsp_rsh
-P_WPY_SYNC1_lapel_shot m_wes_btl_wpy_sy1_gsp_rsh
+D:\Program Files (x86)\SteamLibrary\steamapps\common\Yakuza 0\media\data\motion_w64\property.bin
+E_SBC_CMB_a_01 m_amf_btl_sud_ath_01
+E_SBC_CMB_a_02 m_amf_btl_sud_ath_02
+E_SBC_CMB_a_03 m_amf_btl_sud_ath_03

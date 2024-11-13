@@ -2,7 +2,165 @@
   "Move Table": {
     "Root": {
       "Move Type": 1,
-      "Animation Used": "Null"
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_1",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| LAB8 Special Condition: Is Active Brawler Player": {
+              "Property Type": 47,
+              "Unk Byte 1": 10,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Heavy",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 1| LAB8 Special Condition: Is Active Brawler Player": {
+              "Property Type": 47,
+              "Unk Byte 1": 10,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "m_amf_btl_sud_ath_01",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish1",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_2": {
+      "Move Type": 2,
+      "Animation Used": "m_amf_btl_sud_ath_02",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish2",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_3": {
+      "Move Type": 2,
+      "Animation Used": "m_amf_btl_sud_ath_03",
+      "Follow Ups": {
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish3",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "AttackFinish1": {
+      "Move Type": 2,
+      "Animation Used": "m_sam_btl_wpe_ath_01_fin"
+    },
+    "AttackFinish2": {
+      "Move Type": 2,
+      "Animation Used": "m_sam_btl_wpe_ath_02_fin"
+    },
+    "AttackFinish3": {
+      "Move Type": 2,
+      "Animation Used": "m_sam_btl_wpe_ath_03_fin"
     },
     "ComboAtk_1": {
       "Move Type": 2,
@@ -11,6 +169,10 @@
     "ComboAtk_1_b": {
       "Move Type": 2,
       "Animation Used": "M_AMF_BTL_SUD_ath_nml_02_b"
+    },
+    "Heavy": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_hvy"
     },
     "Skill_amf01": {
       "Move Type": 2,

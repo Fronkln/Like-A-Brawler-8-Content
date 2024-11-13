@@ -111,3 +111,6 @@ y8b1950_hact_stick_knife_table
 y8b1960_wes_kabe
 y8b1970_wes_oi_omote
 y8b1980_wes_harituke
+y8b1990_wes_hanaredama
+y8b2000_sprinkle_solt
+y8b2000_cok_sprinkle_solt

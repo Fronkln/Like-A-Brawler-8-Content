@@ -403,3 +403,6 @@ m_wes_btl_wpy_sy1_gsp_nge
 m_wes_btl_wpy_sht_en
 m_wes_btl_wpy_sy0_gsp_rsh
 m_wes_btl_wpy_sy1_gsp_rsh
+m_amf_btl_sud_ath_01
+m_amf_btl_sud_ath_02
+m_amf_btl_sud_ath_03
