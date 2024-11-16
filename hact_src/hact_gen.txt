@@ -114,3 +114,5 @@ y8b1980_wes_harituke
 y8b1990_wes_hanaredama
 y8b2000_sprinkle_solt
 y8b2000_cok_sprinkle_solt
+y8b2010_wall_knock_neck
+y8b2020_krh_hekimendageki

@@ -5,7 +5,7 @@ for %%I in (.) do set CurrentDirName=%%~nxI
 
 SET UnpackedDir=%CurrentDir%..\..\hact_unpacked\%CurrentDirName%\
 SET FinalDir=%CurrentDir%..\..\hact_elvis\
-SET ToolDir=E:\backup\modtools\Gibbed Par\
+SET ToolDir=C:\Users\orhan_vfigibb\Tools\Gibbed Par\
 
 SET FinalFile=%FinalDir%%CurrentDirName%.par
 

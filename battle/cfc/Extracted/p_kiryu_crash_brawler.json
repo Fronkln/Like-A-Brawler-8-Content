@@ -382,7 +382,7 @@
       "Move Type": 1,
       "Animation Table": {
         "Animation 1": {
-          "Animation Used": "p_ich_btl_sud_sy0_gsp_lp",
+          "Animation Used": "p_kru_btl_sud_sy0_gsp_lp",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 0,
           "Unknown Byte 3": 0,
@@ -390,7 +390,7 @@
           "Motion ID": 19141
         },
         "Animation 2": {
-          "Animation Used": "p_ich_btl_sud_sy1_gsp_lp",
+          "Animation Used": "p_kru_btl_sud_sy1_gsp_lp",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -461,7 +461,7 @@
       "Move Type": 5,
       "Animation Table": {
         "Animation 1": {
-          "Animation Used": "p_ich_btl_sud_sy0_gsp_wlk_lp",
+          "Animation Used": "p_kru_btl_sud_sy0_gsp_wlk_lp",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -469,7 +469,7 @@
           "Motion ID": 16484
         },
         "Animation 2": {
-          "Animation Used": "p_ich_btl_sud_sy1_gsp_wlk_lp",
+          "Animation Used": "p_kru_btl_sud_sy1_gsp_wlk_lp",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -582,7 +582,7 @@
       "Move Type": 1,
       "Animation Table": {
         "Animation 1": {
-          "Animation Used": "p_ich_btl_sud_sy0_lapel_to_neck",
+          "Animation Used": "p_kru_btl_sud_sy0_lapel_to_neck",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 0,
           "Unknown Byte 3": 0,
@@ -590,7 +590,7 @@
           "Motion ID": 19141
         },
         "Animation 2": {
-          "Animation Used": "p_ich_btl_sud_sy1_lapel_to_neck",
+          "Animation Used": "p_kru_btl_sud_sy1_lapel_to_neck",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -617,7 +617,7 @@
       "Move Type": 1,
       "Animation Table": {
         "Animation 1": {
-          "Animation Used": "p_ich_btl_sud_sy0_neck_lp",
+          "Animation Used": "p_kru_btl_sud_sy0_neck_lp",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 0,
           "Unknown Byte 3": 0,
@@ -625,7 +625,7 @@
           "Motion ID": 19141
         },
         "Animation 2": {
-          "Animation Used": "p_ich_btl_sud_sy1_neck_lp",
+          "Animation Used": "p_kru_btl_sud_sy1_neck_lp",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -727,7 +727,7 @@
       "Move Type": 1,
       "Animation Table": {
         "Animation 1": {
-          "Animation Used": "p_ich_btl_sud_sy0_neck_to_lapel",
+          "Animation Used": "p_kru_btl_sud_sy0_neck_to_lapel",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 0,
           "Unknown Byte 3": 0,
@@ -735,7 +735,7 @@
           "Motion ID": 19141
         },
         "Animation 2": {
-          "Animation Used": "p_ich_btl_sud_sy1_neck_to_lapel",
+          "Animation Used": "p_kru_btl_sud_sy1_neck_to_lapel",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -762,7 +762,7 @@
       "Move Type": 5,
       "Animation Table": {
         "Animation 1": {
-          "Animation Used": "p_ich_btl_sud_sy0_neck_wlk_lp",
+          "Animation Used": "p_kru_btl_sud_sy0_neck_wlk_lp",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
@@ -770,7 +770,7 @@
           "Motion ID": 16484
         },
         "Animation 2": {
-          "Animation Used": "p_ich_btl_sud_sy1_neck_wlk_lp",
+          "Animation Used": "p_kru_btl_sud_sy1_neck_wlk_lp",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
