@@ -1,0 +1,2040 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Counter",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 35,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Timing": {
+              "Property Type": 30,
+              "Timing": 6
+            }
+          }
+        },
+        "Follow Up 7": {
+          "Follows Up to": "Light_1_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Light_1",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "down_atk_dush",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Dash",
+              "Conditionals": ""
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            },
+            "Condition 5| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 128
+            },
+            "Condition 6| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 450,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 4": {
+          "Follows Up to": "down_atk",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 5": {
+          "Follows Up to": "Heavy",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 6": {
+          "Follows Up to": "TackleSeize",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Damage": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "DamRevHeavyL",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2|Input Direction": {
+              "Property Type": 26,
+              "Direction": "Right"
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "DamRevHeavyR",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2|Input Direction": {
+              "Property Type": 26,
+              "Direction": "Left"
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "DamRevHeavyF",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Sway": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 5": {
+          "Follows Up to": "SwayAttackHeavyF",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 8617,
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 6": {
+          "Follows Up to": "SwayAttackHeavyL",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 2518,
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 7": {
+          "Follows Up to": "SwayAttackHeavyB",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 13338,
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 8": {
+          "Follows Up to": "SwayAttackHeavyR",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 8616,
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "SwayF2",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Cross",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 8617,
+              "Conditionals": ""
+            },
+            "Condition 3| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "SwayB2",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Cross",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 13338,
+              "Conditionals": ""
+            },
+            "Condition 3| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "SwayL2",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Cross",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 2518,
+              "Conditionals": ""
+            },
+            "Condition 3| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 4": {
+          "Follows Up to": "SwayR2",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Cross",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 8616,
+              "Conditionals": ""
+            },
+            "Condition 3| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_01",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_2_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish1",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_1_Low": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_01_lw",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_2_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish1",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_2": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_02",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_3_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "Light_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish2",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_2_Low": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_02_lw",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_3_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "Light_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish2",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_3": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_03",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_4_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 4,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "Light_4",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 4,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish3",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_3_Low": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_03_lw",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_4_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "Light_4",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 4,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish3",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_4": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_04",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "AttackFinish4",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_4_Low": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_04_lw",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "AttackFinish4",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Counter": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_cntr"
+    },
+    "SwayF2": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_swy_02_f"
+    },
+    "SwayB2": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_swy_02_b"
+    },
+    "SwayL2": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_swy_02_l"
+    },
+    "SwayR2": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_swy_02_r"
+    },
+    "Heavy": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_hvy"
+    },
+    "down_atk": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_ath_dwn_sp"
+    },
+    "down_atk_dush": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_ath_dwn_02_sp"
+    },
+    "AttackFinish1": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_01_fin",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "AttackFinishW1",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "AttackFinish2": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_02_fin",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "AttackFinishW2",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "AttackFinish3": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_03_fin",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "AttackFinishW3",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "AttackFinish4": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_04_fin",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "AttackFinishW4",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "AttackFinishW1": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_01_finw"
+    },
+    "AttackFinishW2": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_02_finw"
+    },
+    "AttackFinishW3": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_03_finw"
+    },
+    "AttackFinishW4": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_04_finw"
+    },
+    "DamRevHeavyF": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_dmg_rev_fin_f"
+    },
+    "DamRevHeavyL": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_dmg_rev_fin_l"
+    },
+    "DamRevHeavyR": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_dmg_rev_fin_r"
+    },
+    "SwayAttackHeavyF": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_swy_f"
+    },
+    "SwayAttackHeavyB": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_swy_b"
+    },
+    "SwayAttackHeavyL": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_swy_l"
+    },
+    "SwayAttackHeavyR": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_swy_r"
+    },
+    "GrabStart": {
+      "Move Type": 2,
+      "Animation Used": "P_KRU_BTL_SUD_bct_atm_sze",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "GrabProcedureF",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Angle Limit": {
+              "Property Type": 20,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 64,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "CanSeize",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "GrabProcedureB",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "CanSeize",
+              "Conditionals": ""
+            }
+          }
+        }
+      }
+    },
+    "GrabProcedureF": {
+      "Move Type": 1,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_gsp_lp",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 0,
+          "Unknown Byte 3": 0,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19141
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_gsp_lp",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19143
+        }
+      },
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "GrabProcedureFMove",
+          "Conditions": {
+            "Condition 1| Analog Deadzone": {
+              "Property Type": 13,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "GrabFToB",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L1",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Action_sync_f",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 4": {
+          "Follows Up to": "GrabAttackLightF",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 5": {
+          "Follows Up to": "GrabAttackHeavyF",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "GrabProcedureFMove": {
+      "Move Type": 5,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_gsp_wlk_lp",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 1,
+          "Motion ID": 16484
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_gsp_wlk_lp",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 16521
+        }
+      },
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "GrabProcedureF",
+          "Conditions": {
+            "Condition 1| Analog Deadzone": {
+              "Property Type": 13,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 128
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Action_sync_f",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "GrabFToB",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L1",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 4": {
+          "Follows Up to": "GrabAttackLightF",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 5": {
+          "Follows Up to": "GrabAttackHeavyF",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "GrabAttackLightF": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_gsp_rsh",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19349
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_gsp_rsh",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19351
+        }
+      }
+    },
+    "GrabAttackHeavyF": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_gsp_hvy",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19349
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_gsp_hvy",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19351
+        }
+      }
+    },
+    "GrabFToB": {
+      "Move Type": 1,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_lapel_to_neck",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 0,
+          "Unknown Byte 3": 0,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19141
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_lapel_to_neck",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19143
+        }
+      },
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "GrabProcedureB",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "GrabProcedureB": {
+      "Move Type": 1,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_neck_lp",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 0,
+          "Unknown Byte 3": 0,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19141
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_neck_lp",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19143
+        }
+      },
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "GrabProcedureBMove",
+          "Conditions": {
+            "Condition 1| Analog Deadzone": {
+              "Property Type": 13,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "GrabBToF",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L1",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "GrabAttackLightB",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 5": {
+          "Follows Up to": "GrabAttackHeavyB",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "GrabAttackLightB": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_nck_rsh",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19349
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_nck_rsh",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19351
+        }
+      }
+    },
+    "GrabAttackHeavyB": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_nck_hvy",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19349
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_nck_hvy",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19351
+        }
+      }
+    },
+    "GrabBToF": {
+      "Move Type": 1,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_neck_to_lapel",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 0,
+          "Unknown Byte 3": 0,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19141
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_neck_to_lapel",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19143
+        }
+      },
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "GrabProcedureF",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "GrabProcedureBMove": {
+      "Move Type": 5,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_neck_wlk_lp",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 16484
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_neck_wlk_lp",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 16521
+        }
+      },
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "GrabProcedureB",
+          "Conditions": {
+            "Condition 1| Analog Deadzone": {
+              "Property Type": 13,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 128
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "GrabBToF",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L1",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "GrabAttackLightB",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 5": {
+          "Follows Up to": "GrabAttackHeavyB",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "MortalCounter": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_mr_01",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 21064
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_mr_01",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 21065
+        }
+      },
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "MortalCounterFollowup",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "TackleSeize": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_atm_sze_vali",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "TackleLoop",
+          "Conditions": {
+            "Condition 1| Follow Up On Hit": {
+              "Property Type": 11,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 6,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Angle Limit": {
+              "Property Type": 20,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 64,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "CanSeize",
+              "Conditionals": ""
+            }
+          }
+        }
+      }
+    },
+    "TackleLoop": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_gsp_vali",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 1,
+          "Motion ID": 21064
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_gsp_vali",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 21065
+        }
+      },
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "TackleLoop",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "TackleEnd",
+          "Conditions": {
+            "Condition 1| Combo Number": {
+              "Property Type": 32,
+              "Unk Byte 1": 10,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 128
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "TackleHeavy",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "TackleEnd": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_gsp_vali_nage",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 21064
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_gsp_vali_nage",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 21065
+        }
+      }
+    },
+    "TackleHeavy": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_gsp_vali_hvy",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 21064
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_gsp_vali_hvy",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 21065
+        }
+      }
+    },
+    "MortalCounterFollowup": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_ich_btl_sud_sy0_mr_02",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 21064
+        },
+        "Animation 2": {
+          "Animation Used": "p_ich_btl_sud_sy1_mr_02",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 21065
+        }
+      }
+    },
+    "Action_sync_f": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_ICH_BTL_SUD_sy0_german",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19349
+        },
+        "Animation 2": {
+          "Animation Used": "P_ICH_BTL_SUD_sy1_german",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19351
+        }
+      }
+    },
+    "Action_sync_f_g": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRU_BTL_SUD_bct_sy0_nge_f_g",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19349
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRU_BTL_SUD_bct_sy1_nge_f_g",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19351
+        }
+      }
+    },
+    "Action_sync_b": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRU_BTL_SUD_bct_sy0_nge_b",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19140
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRU_BTL_SUD_bct_sy1_nge_b",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19142
+        }
+      }
+    },
+    "Action_sync_b_g": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "P_KRU_BTL_SUD_bct_sy0_nge_b_g",
+          "Unknown Byte 1": 1,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19348
+        },
+        "Animation 2": {
+          "Animation Used": "P_KRU_BTL_SUD_bct_sy1_nge_b_g",
+          "Unknown Byte 1": 3,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 19350
+        }
+      }
+    },
+    "RunAway_Success": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Success_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "RunAway_Success_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_lp"
+    },
+    "RunAway_Failed": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "RunAway_Failed_2",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "PickupTest": {
+      "Move Type": 9,
+      "Animation Used": "M_COM_BTL_WPN_pickup_flr"
+    },
+    "RunAway_Failed_2": {
+      "Move Type": 9,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "BreakObstract": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    },
+    "RunAway": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ecp_180r_a"
+    },
+    "RunAwayFailed": {
+      "Move Type": 2,
+      "Animation Used": "P_ICH_MOV_run_esc_en"
+    },
+    "InterceptAction": {
+      "Move Type": 2,
+      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+    }
+  },
+  "Moveset Change Table": {
+    "WPA": {
+      "Moveset Name": "p_com_wpa",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 1,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPB": {
+      "Moveset Name": "p_com_wpb",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 2,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPC": {
+      "Moveset Name": "p_com_wpc",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 3,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPD": {
+      "Moveset Name": "p_com_wpd",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 4,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        },
+        "Condition 3| LAB8 Special Condition: NOT Extreme Heat": {
+          "Property Type": 47,
+          "Unk Byte 1": 6,
+          "Unk Byte 2": 3,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
+    "WPE": {
+      "Moveset Name": "p_com_wpe",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 5,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPF": {
+      "Moveset Name": "p_com_wpc",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 6,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPH": {
+      "Moveset Name": "p_kasuga_wph",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 8,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPN": {
+      "Moveset Name": "p_com_wpa",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 9,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPY": {
+      "Moveset Name": "p_com_wpy",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 12,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPV": {
+      "Moveset Name": "p_man_actionstar",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 21,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    }
+  }
+}

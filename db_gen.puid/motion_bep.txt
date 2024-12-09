@@ -473,3 +473,10 @@ p_kru_btl_sud_sy1_nck_hvy
 p_kru_btl_sud_sy1_nck_rsh
 p_kru_btl_sud_sy1_neck_lp
 p_kru_btl_sud_sy1_neck_wlk_lp
+p_kru_btl_sud_style_st - Kopya
+p_ich_btl_sud_sy1_gsp_vali
+p_kru_btl_krl_style_st - Kopya (2) - Kopya
+p_kru_btl_krl_style_st - Kopya (2)
+m_adc_btl_btn_atm_sze_gsw
+m_adc_btl_btn_sy0_gsw
+m_adc_btl_btn_sy1_gsw

@@ -422,3 +422,6 @@ p_kru_btl_sud_sy1_nck_rsh
 p_kru_btl_sud_sy1_neck_lp
 p_kru_btl_sud_sy1_neck_to_lapel
 p_kru_btl_sud_sy1_neck_wlk_lp
+m_adc_btl_btn_atm_sze_gsw
+m_adc_btl_btn_sy0_gsw
+m_adc_btl_btn_sy1_gsw

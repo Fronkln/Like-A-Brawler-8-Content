@@ -150,7 +150,7 @@
           }
         },
         "Follow Up 6": {
-          "Follows Up to": "TackleSeize",
+          "Follows Up to": "GrabStart",
           "Conditions": {
             "Condition 1| Button Press": {
               "Property Type": 1,

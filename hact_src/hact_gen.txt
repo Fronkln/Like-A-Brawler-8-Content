@@ -116,3 +116,7 @@ y8b2000_sprinkle_solt
 y8b2000_cok_sprinkle_solt
 y8b2010_wall_knock_neck
 y8b2020_krh_hekimendageki
+y8b2030_kru_flashback
+y8b2040_krc_flashback
+y8b2050_krh_flashback
+y8b2060_1katana_wall
