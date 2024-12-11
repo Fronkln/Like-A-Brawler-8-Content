@@ -23,6 +23,34 @@
           }
         },
         "Follow Up 2": {
+          "Follows Up to": "DownAttack",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 3": {
           "Follows Up to": "Heavy",
           "Conditions": {
             "Condition 1| Button Press (Buffered Input)": {
@@ -40,7 +68,7 @@
             }
           }
         },
-        "Follow Up 3": {
+        "Follow Up 4": {
           "Follows Up to": "GrabStart",
           "Conditions": {
             "Condition 1| Button Press": {
@@ -55,11 +83,63 @@
     },
     "Light_1": {
       "Move Type": 2,
-      "Animation Used": "m_adc_btl_btn_ath_01"
+      "Animation Used": "m_adc_btl_btn_ath_01",
+		"Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_2": {
+      "Move Type": 2,
+      "Animation Used": "m_adc_btl_btn_ath_02",
+		"Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_3": {
+      "Move Type": 2,
+      "Animation Used": "m_adc_btl_btn_ath_03"
     },
     "Heavy": {
       "Move Type": 2,
       "Animation Used": "m_adc_btl_btn_ath_hvy"
+    },
+    "DownAttack": {
+      "Move Type": 2,
+      "Animation Used": "m_adc_btl_btn_ath_dwn_rlt"
     },
     "GrabStart": {
       "Move Type": 2,

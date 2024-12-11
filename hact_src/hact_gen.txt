@@ -120,3 +120,5 @@ y8b2030_kru_flashback
 y8b2040_krc_flashback
 y8b2050_krh_flashback
 y8b2060_1katana_wall
+y8b2070_adc_buki_a
+y8b2080_sam_ranbu
