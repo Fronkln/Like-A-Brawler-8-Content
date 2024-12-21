@@ -428,3 +428,4 @@ m_adc_btl_btn_sy1_gsw
 m_adc_btl_btn_ath_02
 m_adc_btl_btn_ath_03
 m_adc_btl_btn_ath_dwn_rlt
+p_kru_btl_sud_ath_mr_02

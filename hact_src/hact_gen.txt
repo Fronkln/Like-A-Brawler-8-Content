@@ -122,3 +122,5 @@ y8b2050_krh_flashback
 y8b2060_1katana_wall
 y8b2070_adc_buki_a
 y8b2080_sam_ranbu
+y8b2090_brk_doushiuchi
+y8b2100_brk_dragon_screw
