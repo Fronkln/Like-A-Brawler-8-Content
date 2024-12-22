@@ -33,3 +33,4 @@ e_sawashiro_x_mortal_attack
 player_wpm_battou
 e_ebina_e_counter
 player_wpe_battou
+p_kiryu_legend_brawler_mortal_counter
