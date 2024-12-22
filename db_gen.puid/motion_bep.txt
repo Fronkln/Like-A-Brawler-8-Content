@@ -485,3 +485,5 @@ m_adc_btl_btn_ath_03
 m_adc_btl_btn_ath_dwn_rlt
 p_kru_btl_sud_ath_mr_01
 p_kru_btl_sud_ath_mr_02
+p_ich_btl_kac_ath_04_fint
+p_ich_btl_sud_ath_01_finw

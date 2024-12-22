@@ -944,7 +944,7 @@
             "Condition 2| Button Press (Buffered Input)": {
               "Property Type": 4,
               "Button Press": "Triangle",
-              "Conditionals": "UNK5",
+              "Conditionals": "",
               "Additional Conditional": 0
             }
           }
@@ -968,7 +968,7 @@
             "Condition 2| Button Press (Buffered Input)": {
               "Property Type": 4,
               "Button Press": "Triangle",
-              "Conditionals": "UNK5",
+              "Conditionals": "",
               "Additional Conditional": 0
             }
           }
