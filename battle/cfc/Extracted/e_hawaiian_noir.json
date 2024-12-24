@@ -2,7 +2,87 @@
   "Move Table": {
     "Root": {
       "Move Type": 1,
-      "Animation Used": "Null"
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 5": {
+          "Follows Up to": "NonTurnAttack1",
+          "Conditions": {
+            "Condition 1| LAB8 Special: Is Realtime": {
+				"Property Type": 47,
+				"Unk Byte 1": 9,
+				"Unk Byte 2": 0,
+				"Unk Byte 3": 0,
+				"Unk Byte 4": 0
+            },
+            "Condition 2| LAB8 Special: AI Param (Can Non Turn Attack)": {
+				"Property Type": 47,
+				"Unk Byte 1": 8,
+				"Unk Byte 2": 3,
+				"Unk Byte 3": 0,
+				"Unk Byte 4": 0
+            },
+			"Condition 3| Weapon Category": {
+				"Property Type": 14,
+				"Weapon Category ID": 12,
+				"Bitmask Byte": 0,
+				"Conditionals": ""
+			},
+            "Condition 4| LAB8 Special: Is Boss": {
+				"Property Type": 47,
+				"Unk Byte 1": 12,
+				"Unk Byte 2": 0,
+				"Unk Byte 3": 0,
+				"Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Sway": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 5": {
+          "Follows Up to": "SwayAttackWPY",
+          "Conditions": {
+            "Condition 1| LAB8 Special: Is Realtime": {
+				"Property Type": 47,
+				"Unk Byte 1": 9,
+				"Unk Byte 2": 0,
+				"Unk Byte 3": 0,
+				"Unk Byte 4": 0
+            },
+            "Condition 2| LAB8 Special: AI Param": {
+				"Property Type": 47,
+				"Unk Byte 1": 8,
+				"Unk Byte 2": 2,
+				"Unk Byte 3": 0,
+				"Unk Byte 4": 0
+            },
+			"Condition 3| Weapon Category": {
+			"Property Type": 14,
+			"Weapon Category ID": 12,
+			"Bitmask Byte": 0,
+			"Conditionals": ""
+			},
+            "Condition 4| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "NonTurnAttack1": {
+      "Move Type": 2,
+      "Animation Used": "E_HWN_SJB_WPY_sht_gun"
+    },
+    "SwayAttackWPY": {
+      "Move Type": 2,
+      "Animation Used": "e_nrm_btl_wpy_ath_swy_f"
     },
     "Light_1": {
       "Move Type": 2,

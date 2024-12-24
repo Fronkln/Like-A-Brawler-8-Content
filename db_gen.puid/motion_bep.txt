@@ -487,3 +487,8 @@ p_kru_btl_sud_ath_mr_01
 p_kru_btl_sud_ath_mr_02
 p_ich_btl_kac_ath_04_fint
 p_ich_btl_sud_ath_01_finw
+e_hwn_btl_wpy_swy_b
+e_hwn_btl_wpy_swy_f
+e_hwn_btl_wpy_swy_l
+e_hwn_btl_wpy_swy_r
+e_nrm_btl_wpy_ath_swy_f

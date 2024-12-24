@@ -1,0 +1,6 @@
+{
+   "Comment": "Roman Goon",
+   "Health": 185,
+   "Attack": 43,
+   "Defense": 42
+}
