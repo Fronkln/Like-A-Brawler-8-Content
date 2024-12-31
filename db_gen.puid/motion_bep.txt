@@ -492,3 +492,6 @@ e_hwn_btl_wpy_swy_f
 e_hwn_btl_wpy_swy_l
 e_hwn_btl_wpy_swy_r
 e_nrm_btl_wpy_ath_swy_f
+p_ich_btl_hro_ath_04
+p_ich_btl_hro_ath_05
+p_ich_btl_hro_ath_sp

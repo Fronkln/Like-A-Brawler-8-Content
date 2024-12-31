@@ -432,3 +432,6 @@ p_kru_btl_sud_ath_mr_02
 p_ich_btl_sud_ath_01_finw
 p_ich_btl_sud_ath_04_fint
 e_nrm_btl_wpy_ath_swy_f
+p_ich_btl_hro_ath_04
+p_ich_btl_hro_ath_05
+p_ich_btl_hro_ath_sp

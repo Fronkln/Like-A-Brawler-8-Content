@@ -1,4 +1,6 @@
-D:\Program Files (x86)\SteamLibrary\steamapps\common\Yakuza 0\media\data\motion_w64\property.bin
-E_SBC_CMB_a_01 m_amf_btl_sud_ath_01
-E_SBC_CMB_a_02 m_amf_btl_sud_ath_02
-E_SBC_CMB_a_03 m_amf_btl_sud_ath_03
+E:\SteamLibrary\steamapps\common\Yakuza Kiwami\media\data\motion\property.bin
+P_MJB_CMB_01 p_ich_btl_hro_ath_01
+P_MJB_CMB_02 p_ich_btl_hro_ath_02
+P_MJB_CMB_03 p_ich_btl_hro_ath_03
+P_MJB_CMB_04 p_ich_btl_hro_ath_04
+P_MJB_CMB_05 p_ich_btl_hro_ath_05
