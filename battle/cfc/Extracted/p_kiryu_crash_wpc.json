@@ -1,0 +1,526 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 5": {
+          "Follows Up to": "Heavy_1",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 6": {
+          "Follows Up to": "Light_1",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 7": {
+          "Follows Up to": "Drop",
+          "Conditions": {
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "FromPocket",
+              "Conditionals": "NOT"
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L3",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 8": {
+          "Follows Up to": "Throw",
+          "Conditions": {
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "FromPocket",
+              "Conditionals": "NOT"
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Drop": {
+      "Move Type": 9,
+      "Animation Used": "P_YAG_BTL_WPC_drp"
+    },
+    "Guard": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Heavy_st",
+          "Conditions": {
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Cross",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Heavy_st": {
+      "Move Type": 2,
+      "Animation Used": "p_krc_btl_wpc_ath_tckl_st",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Heavy_lp",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Heavy_lp": {
+      "Move Type": 2,
+      "Animation Used": "p_krc_btl_wpc_ath_tckl_lp",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Heavy_lp",
+          "Conditions": {
+            "Condition 1| Combo Number": {
+              "Property Type": 32,
+              "Unk Byte 1": 6,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L1",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Heavy_en",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "L1",
+              "Conditionals": "NOT",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "Heavy_en",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Heavy_en": {
+      "Move Type": 2,
+      "Animation Used": "p_krc_btl_wpc_ath_tckl_en"
+    },
+    "Heavy_1": {
+      "Move Type": 2,
+      "Animation Used": "p_krc_btl_wpc_ath_hvy"
+    },
+    "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "p_krc_btl_wpc_ath_01",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Finish_1",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_2": {
+      "Move Type": 2,
+      "Animation Used": "p_krc_btl_wpc_ath_02",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Finish_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Light_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_3": {
+      "Move Type": 2,
+      "Animation Used": "p_krc_btl_wpc_ath_03"
+    },
+    "Finish_1": {
+      "Move Type": 2,
+      "Animation Used": "p_krc_btl_wpc_ath_01_fin",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Finish_2": {
+      "Move Type": 2,
+      "Animation Used": "p_krc_btl_wpc_ath_02_fin",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Pick_c_l": {
+      "Move Type": 18,
+      "Animation Used": "p_krc_btl_wpc_ath_pickup_l",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Pick_c_r": {
+      "Move Type": 18,
+      "Animation Used": "p_krc_btl_wpc_ath_pickup_r",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Pick_c_1_l": {
+      "Move Type": 18,
+      "Animation Used": "p_krc_btl_wpc_ath_01_pickup_l",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Pick_c_1_r": {
+      "Move Type": 18,
+      "Animation Used": "p_krc_btl_wpc_ath_01_pickup_r",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Pick_c_2_l": {
+      "Move Type": 18,
+      "Animation Used": "p_krc_btl_wpc_ath_02_pickup_l",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Pick_c_2_r": {
+      "Move Type": 18,
+      "Animation Used": "p_krc_btl_wpc_ath_02_pickup_r",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Pick_c_3_l": {
+      "Move Type": 18,
+      "Animation Used": "p_krc_btl_wpc_ath_03_pickup_l",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Pick_c_3_r": {
+      "Move Type": 18,
+      "Animation Used": "p_krc_btl_wpc_ath_03_pickup_r",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Throw": {
+      "Move Type": 2,
+      "Animation Used": "p_krc_btl_wpc_ath_thw_sp_f"
+    },
+    "H3265": {
+      "Move Type": 6,
+      "Animation Used": "Null"
+    },
+    "H3166": {
+      "Move Type": 6,
+      "Animation Used": "Null"
+    },
+    "H27230": {
+      "Move Type": 6,
+      "Animation Used": "Null"
+    },
+    "H24110": {
+      "Move Type": 6,
+      "Animation Used": "Null"
+    }
+  },
+  "Moveset Change Table": {
+    "Moveset 1": {
+      "Moveset Name": "Previous Moveset",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 3,
+          "Bitmask Byte": 0,
+          "Conditionals": "NOT"
+        }
+      }
+    }
+  }
+}

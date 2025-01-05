@@ -1136,7 +1136,7 @@
       }
     },
     "WPC": {
-      "Moveset Name": "p_com_wpc",
+      "Moveset Name": "p_kiryu_crash_wpc",
       "Conditions": {
         "Condition 1| Weapon Category": {
           "Property Type": 14,
@@ -1169,7 +1169,7 @@
       }
     },
     "WPF": {
-      "Moveset Name": "p_com_wpc",
+      "Moveset Name": "p_kiryu_crash_wpc",
       "Conditions": {
         "Condition 1| Weapon Category": {
           "Property Type": 14,
