@@ -497,3 +497,15 @@ p_ich_btl_hro_ath_05
 p_ich_btl_hro_ath_sp
 p_ich_btl_hro_ath_04_fin
 p_ich_btl_hro_ath_05_fin
+p_com_btl_sud_ath_pkup_wpd_l
+p_com_btl_wpd_ath_01_md
+p_com_btl_wpd_ath_02_md
+p_com_btl_wpd_ath_03_md
+p_com_btl_wpd_ath_bat
+p_com_btl_wpd_ath_dwn_md
+p_com_btl_wpd_ath_golf
+p_com_btl_wpd_ath_hvy_md
+p_com_btl_wpd_ath_kick
+p_com_btl_wpd_ath_sp_bat
+p_com_btl_wpd_ath_thw_f
+p_com_btl_wpd_drp
