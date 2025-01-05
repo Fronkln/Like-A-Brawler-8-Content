@@ -216,7 +216,7 @@
           }
         },
         "Follow Up 2": {
-          "Follows Up to": "AttackFinish2",
+          "Follows Up to": "AttackFinish4",
           "Conditions": {
             "Condition 1| Follow Up Window Start": {
               "Property Type": 5,
@@ -240,7 +240,7 @@
       "Animation Used": "p_ich_btl_hro_ath_05",
       "Follow Ups": {
         "Follow Up 2": {
-          "Follows Up to": "AttackFinish2",
+          "Follows Up to": "AttackFinish5",
           "Conditions": {
             "Condition 1| Follow Up Window Start": {
               "Property Type": 5,
@@ -282,6 +282,14 @@
     "AttackFinish3": {
       "Move Type": 2,
       "Animation Used": "p_ich_btl_hro_ath_03_fin"
+    },
+    "AttackFinish4": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_hro_ath_04_fin"
+    },
+    "AttackFinish5": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_hro_ath_05_fin"
     },
     "Action_1": {
       "Move Type": 2,

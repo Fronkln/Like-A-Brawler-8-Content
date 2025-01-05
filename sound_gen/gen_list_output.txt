@@ -84,3 +84,6 @@ hact_y8b2090_brk_doushiuchi|56
 hact_y8b2100_brk_dragon_screw|56
 hact_y8b2110_buki_b|56
 hact_y8b1940_hact_stick_knife_wall|56
+hact_y8b2120_golfswing|56
+hact_y8b2130_buki_h|56
+hact_y8b2140_wpn_katate|56

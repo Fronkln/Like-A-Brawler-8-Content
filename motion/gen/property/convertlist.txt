@@ -1,6 +1,3 @@
 E:\SteamLibrary\steamapps\common\Yakuza Kiwami\media\data\motion\property.bin
-P_MJB_CMB_01 p_ich_btl_hro_ath_01
-P_MJB_CMB_02 p_ich_btl_hro_ath_02
-P_MJB_CMB_03 p_ich_btl_hro_ath_03
-P_MJB_CMB_04 p_ich_btl_hro_ath_04
-P_MJB_CMB_05 p_ich_btl_hro_ath_05
+P_MJB_CMB_04_fin p_ich_btl_hro_ath_04_fin
+P_MJB_CMB_05_fin p_ich_btl_hro_ath_05_fin

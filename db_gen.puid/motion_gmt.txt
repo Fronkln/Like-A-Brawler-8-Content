@@ -435,3 +435,5 @@ e_nrm_btl_wpy_ath_swy_f
 p_ich_btl_hro_ath_04
 p_ich_btl_hro_ath_05
 p_ich_btl_hro_ath_sp
+p_ich_btl_hro_ath_04_fin
+p_ich_btl_hro_ath_05_fin
