@@ -60,6 +60,30 @@
         }
       }
     },
+    "PickupAttack": {
+      "Move Type": 2,
+      "Animation Used": "p_kru_btl_sud_ath_pkup_wpc_l",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+	},
     "Drop": {
       "Move Type": 9,
       "Animation Used": "P_YAG_BTL_WPC_drp"

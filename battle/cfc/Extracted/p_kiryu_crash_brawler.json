@@ -4,27 +4,6 @@
       "Move Type": 1,
       "Animation Used": "Null",
       "Follow Ups": {
-        "Follow Up 17": {
-          "Follows Up to": "AttackWPC",
-          "Conditions": {
-            "Condition 1| Button Press": {
-              "Property Type": 1,
-              "Button Press": "Square",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            },
-            "Condition 2| Pickup": {
-              "Property Type": 31,
-              "Weapon Category ID": 3,
-              "Conditionals": "",
-              "Additional Conditional": 0,
-              "Bitmask Byte": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            }
-          }
-        },
         "Follow Up 1": {
           "Follows Up to": "Light_1",
           "Conditions": {
