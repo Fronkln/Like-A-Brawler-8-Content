@@ -87,3 +87,5 @@ hact_y8b1940_hact_stick_knife_wall|56
 hact_y8b2120_golfswing|56
 hact_y8b2130_buki_h|56
 hact_y8b2140_wpn_katate|56
+hact_y8b2150_buki_y|56
+hact_y8b2160_buki_y_ich|56

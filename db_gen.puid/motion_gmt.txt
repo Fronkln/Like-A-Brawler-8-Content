@@ -468,3 +468,10 @@ p_krc_btl_wpc_ath_tckl_lp
 p_krc_btl_wpc_ath_tckl_st
 p_krc_btl_wpc_ath_thw_sp_f
 p_yag_btl_wpc_drp
+p_com_btl_wpa_ath_dwn_md
+p_com_btl_wpa_ath_hvy_md
+p_com_btl_wpy_ath_kick
+p_com_btl_wpy_ath_sht_d
+p_com_btl_wpy_ath_sht_d_en
+p_com_btl_wpy_ath_sht_f_en
+p_com_btl_wpy_drp

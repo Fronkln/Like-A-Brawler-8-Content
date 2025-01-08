@@ -5,20 +5,91 @@
       "Animation Used": "Null",
       "Follow Ups": {
         "Follow Up 2": {
-          "Follows Up to": "Light_1",
+          "Follows Up to": "AttackDown",
           "Conditions": {
-            "Condition 1| Button Press (Buffered Input)": {
-              "Property Type": 4,
-              "Button Press": "Square",
-              "Conditionals": "UNK5",
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Target Status": {
+              "Property Type": 8,
+              "State Type": "Down",
+              "Conditionals": ""
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 200,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "Heavy_Down_1",
+          "Conditions": {
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Bullet",
+              "Conditionals": ""
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Target Status": {
+              "Property Type": 8,
+              "State Type": "Down",
+              "Conditionals": ""
+            },
+            "Condition 4| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 500,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 4": {
+          "Follows Up to": "Heavy_1",
+          "Conditions": {
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Bullet",
+              "Conditionals": ""
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
               "Additional Conditional": 0
             }
           }
         },
         "Follow Up 5": {
-          "Follows Up to": "Heavy",
+          "Follows Up to": "HeavyAttack",
           "Conditions": {
-            "Condition 1| Button Press": {
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Bullet",
+              "Conditionals": "NOT"
+            },
+            "Condition 2| Button Press": {
               "Property Type": 1,
               "Button Press": "Triangle",
               "Conditionals": "",
@@ -27,6 +98,49 @@
           }
         },
         "Follow Up 6": {
+          "Follows Up to": "Light_1",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 7": {
+          "Follows Up to": "Drop",
+          "Conditions": {
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "FromPocket",
+              "Conditionals": "NOT"
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L3",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 8": {
+          "Follows Up to": "Action_1",
+          "Conditions": {
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "FromPocket",
+              "Conditionals": ""
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 9": {
           "Follows Up to": "Throw",
           "Conditions": {
             "Condition 1| Button Press": {
@@ -36,158 +150,129 @@
               "Additional Conditional": 0
             }
           }
-        }		
+        }
       }
+    },
+    "Drop": {
+      "Move Type": 9,
+      "Animation Used": "p_com_btl_wpy_drp"
+    },
+    "Heavy_1": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpy_ath_sht_f",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Heavy_1_En",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Heavy_Down_1": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpy_ath_sht_d",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Heavy_Down_1_En",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Heavy_1_En": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpy_ath_sht_f_en"
+    },
+    "Heavy_Down_1_En": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpy_ath_sht_d_en"
     },
     "Light_1": {
       "Move Type": 2,
-      "Animation Used": "p_com_btl_wpa_ath_01"
+      "Animation Used": "p_com_btl_wpa_ath_01",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
     },
-    "Heavy": {
+    "Light_2": {
       "Move Type": 2,
-      "Animation Used": "p_com_btl_wpy_ath_sht_f"
+      "Animation Used": "p_com_btl_wpa_ath_02",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_3": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpa_ath_03"
     },
     "Throw": {
       "Move Type": 2,
       "Animation Used": "p_com_btl_wpa_ath_thw_f"
-    },	
-    "MortalCounter": {
+    },
+    "Action_1": {
       "Move Type": 2,
-      "Animation Table": {
-        "Animation 1": {
-          "Animation Used": "p_ich_btl_sud_sy0_mr_01",
-          "Unknown Byte 1": 1,
-          "Unknown Byte 2": 2,
-          "Unknown Byte 3": 2,
-          "Unknown Byte 4": 0,
-          "Motion ID": 21064
-        },
-        "Animation 2": {
-          "Animation Used": "p_ich_btl_sud_sy1_mr_01",
-          "Unknown Byte 1": 3,
-          "Unknown Byte 2": 2,
-          "Unknown Byte 3": 2,
-          "Unknown Byte 4": 0,
-          "Motion ID": 21065
-        }
-      },
-      "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "MortalCounterFollowup",
-          "Conditions": {
-            "Condition 1| Button Press": {
-              "Property Type": 1,
-              "Button Press": "Circle",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            }
-          }
-        }
-      }
+      "Animation Used": "p_com_btl_wpy_ath_kick"
     },
-    "MortalCounterFollowup": {
+    "AttackDown": {
       "Move Type": 2,
-      "Animation Table": {
-        "Animation 1": {
-          "Animation Used": "P_ICH_BTL_SUD_sy0_tckl",
-          "Unknown Byte 1": 1,
-          "Unknown Byte 2": 2,
-          "Unknown Byte 3": 2,
-          "Unknown Byte 4": 0,
-          "Motion ID": 20095
-        },
-        "Animation 2": {
-          "Animation Used": "P_ICH_BTL_SUD_sy1_tckl",
-          "Unknown Byte 1": 3,
-          "Unknown Byte 2": 2,
-          "Unknown Byte 3": 2,
-          "Unknown Byte 4": 0,
-          "Motion ID": 20096
-        }
-      }
+      "Animation Used": "p_com_btl_wpa_ath_dwn_md"
     },
-    "RunAway_Success": {
-      "Move Type": 9,
-      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
-      "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "RunAway_Success_2",
-          "Conditions": {
-            "Condition 1| Follow Up Window End": {
-              "Property Type": 6,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            }
-          }
-        }
-      }
-    },
-    "RunAway_Success_2": {
-      "Move Type": 9,
-      "Animation Used": "P_ICH_MOV_run_esc_lp"
-    },
-    "RunAway_Failed": {
-      "Move Type": 9,
-      "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
-      "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "RunAway_Failed_2",
-          "Conditions": {
-            "Condition 1| Follow Up Window End": {
-              "Property Type": 6,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            }
-          }
-        }
-      }
-    },
-    "RunAway_Failed_2": {
-      "Move Type": 9,
-      "Animation Used": "P_ICH_MOV_run_esc_en"
-    },
-    "BreakObstract": {
+    "HeavyAttack": {
       "Move Type": 2,
-      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
-    },
-    "RunAway": {
-      "Move Type": 2,
-      "Animation Used": "E_NML_BTL_SUD_ecp_180r_a"
-    },
-    "RunAwayFailed": {
-      "Move Type": 2,
-      "Animation Used": "P_ICH_MOV_run_esc_en"
-    },
-    "InterceptAction": {
-      "Move Type": 2,
-      "Animation Used": "E_NML_BTL_SUD_ath_thw_leg_r"
+      "Animation Used": "p_com_btl_wpa_ath_hvy_md"
     }
   },
   "Moveset Change Table": {
-    "Kiryu": {
-      "Moveset Name": "p_kiryu_legend_brawler",
-      "Conditions": {
-        "Condition 1| Weapon Category": {
-          "Property Type": 14,
-          "Weapon Category ID": 12,
-          "Bitmask Byte": 0,
-          "Conditionals": "NOT"
-        },
-        "Condition 1| LAB8 Special Condition: Is Ichiban": {
-          "Property Type": 47,
-          "Unk Byte 1": 5,
-          "Unk Byte 2": 0,
-          "Unk Byte 3": 0,
-          "Unk Byte 4": 3
-        }
-      }
-    },
-    "Ichiban": {
-      "Moveset Name": "p_kasuga_brawler",
+    "Moveset 1": {
+      "Moveset Name": "Previous Moveset",
       "Conditions": {
         "Condition 1| Weapon Category": {
           "Property Type": 14,
