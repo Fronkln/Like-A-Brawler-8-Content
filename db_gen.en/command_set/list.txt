@@ -14,3 +14,4 @@ p_kiryu_legend_brawler.dat
 p_com_wpy.dat
 p_com_wpm.dat
 p_com_wpe.dat
+p_kiryu_crash_wpc.dat

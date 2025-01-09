@@ -130,3 +130,4 @@ y8b2130_buki_h
 y8b2140_wpn_katate
 y8b2150_buki_y
 y8b2160_buki_y_ich
+y8b2170_inject_amibou
