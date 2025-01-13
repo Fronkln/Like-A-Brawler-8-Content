@@ -16,7 +16,7 @@
             "Condition 3| LAB8 Special Condition: Player Level": {
               "Property Type": 47,
               "Unk Byte 1": 1,
-              "Unk Byte 2": 35,
+              "Unk Byte 2": 30,
               "Unk Byte 3": 0,
               "Unk Byte 4": 1
             },
@@ -138,6 +138,28 @@
             }
           }
         },
+        "Follow Up 9": {
+          "Follows Up to": "AttackRun",
+          "Conditions": {
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "R1",
+              "Conditionals": "NOT",
+              "Additional Conditional": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Dash",
+              "Conditionals": ""
+            }
+          }
+        },
         "Follow Up 5": {
           "Follows Up to": "Heavy",
           "Conditions": {
@@ -178,6 +200,13 @@
             "Condition 2|Input Direction": {
               "Property Type": 26,
               "Direction": "Right"
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 8,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         },
@@ -193,6 +222,13 @@
             "Condition 2|Input Direction": {
               "Property Type": 26,
               "Direction": "Left"
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 8,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         },
@@ -204,6 +240,13 @@
               "Button Press": "Triangle",
               "Conditionals": "",
               "Additional Conditional": 0
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 8,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         }
@@ -226,6 +269,13 @@
               "Property Type": 38,
               "Motion ID": 8617,
               "Conditionals": ""
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 16,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         },
@@ -242,6 +292,13 @@
               "Property Type": 38,
               "Motion ID": 2518,
               "Conditionals": ""
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 16,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         },
@@ -258,6 +315,13 @@
               "Property Type": 38,
               "Motion ID": 13338,
               "Conditionals": ""
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 16,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         },
@@ -274,6 +338,13 @@
               "Property Type": 38,
               "Motion ID": 8616,
               "Conditionals": ""
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 16,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         },
@@ -297,6 +368,13 @@
               "Unk Byte 2": 0,
               "Unk Byte 3": 0,
               "Unk Byte 4": 0
+            },
+            "Condition 4| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 4,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         },
@@ -320,6 +398,13 @@
               "Unk Byte 2": 0,
               "Unk Byte 3": 0,
               "Unk Byte 4": 0
+            },
+            "Condition 4| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 4,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         },
@@ -343,6 +428,13 @@
               "Unk Byte 2": 0,
               "Unk Byte 3": 0,
               "Unk Byte 4": 0
+            },
+            "Condition 4| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 4,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         },
@@ -366,6 +458,13 @@
               "Unk Byte 2": 0,
               "Unk Byte 3": 0,
               "Unk Byte 4": 0
+            },
+            "Condition 4| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 4,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         }
@@ -375,6 +474,43 @@
       "Move Type": 2,
       "Animation Used": "p_ich_btl_sud_ath_01",
       "Follow Ups": {
+        "Follow Up 8": {
+          "Follows Up to": "Light_2_Rev",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "R1",
+              "Conditionals": "NOT",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Analog Direction": {
+              "Property Type": 23,
+              "Unk Byte": 0,
+              "Analog Direction": 64,
+              "Conditions": 128
+            },
+            "Condition 4| Change Auth": {
+              "Property Type": 25,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| LAB8 Special Condition: An Enemy Is Behind Player": {
+              "Property Type": 47,
+              "Unk Byte 1": 14,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
         "Follow Up 3": {
           "Follows Up to": "Light_2_Low",
           "Conditions": {
@@ -423,6 +559,261 @@
         },
         "Follow Up 2": {
           "Follows Up to": "AttackFinish1",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_1_Rev": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_01_b",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_2_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish1",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_2_Rev": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_02_b",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_3_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "Light_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish2",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_3_Rev": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_03_b",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "Light_4_Low",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 250,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 1": {
+          "Follows Up to": "Light_4",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "AttackFinish2",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_4_Rev": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_04_b",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "AttackFinish4",
           "Conditions": {
             "Condition 1| Follow Up Window Start": {
               "Property Type": 5,
@@ -522,6 +913,43 @@
       "Move Type": 2,
       "Animation Used": "p_ich_btl_sud_ath_02",
       "Follow Ups": {
+		"Follow Up 8": {
+          "Follows Up to": "Light_3_Rev",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "R1",
+              "Conditionals": "NOT",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Analog Direction": {
+              "Property Type": 23,
+              "Unk Byte": 0,
+              "Analog Direction": 64,
+              "Conditions": 128
+            },
+            "Condition 4| Change Auth": {
+              "Property Type": 25,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| LAB8 Special Condition: An Enemy Is Behind Player": {
+              "Property Type": 47,
+              "Unk Byte 1": 14,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
         "Follow Up 3": {
           "Follows Up to": "Light_3_Low",
           "Conditions": {
@@ -676,6 +1104,43 @@
       "Move Type": 2,
       "Animation Used": "p_ich_btl_sud_ath_03",
       "Follow Ups": {
+		"Follow Up 8": {
+          "Follows Up to": "Light_4_Rev",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "R1",
+              "Conditionals": "NOT",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Analog Direction": {
+              "Property Type": 23,
+              "Unk Byte": 0,
+              "Analog Direction": 64,
+              "Conditions": 128
+            },
+            "Condition 4| Change Auth": {
+              "Property Type": 25,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| LAB8 Special Condition: An Enemy Is Behind Player": {
+              "Property Type": 47,
+              "Unk Byte 1": 14,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
         "Follow Up 3": {
           "Follows Up to": "Light_4_Low",
           "Conditions": {
@@ -898,6 +1363,10 @@
       "Move Type": 2,
       "Animation Used": "p_ich_btl_sud_ath_hvy"
     },
+    "AttackRun": {
+      "Move Type": 2,
+      "Animation Used": "p_ich_btl_sud_ath_run_fin"
+    },
     "down_atk": {
       "Move Type": 2,
       "Animation Used": "P_KRU_BTL_SUD_ath_dwn_sp"
@@ -925,6 +1394,13 @@
               "Button Press": "Triangle",
               "Conditionals": "",
               "Additional Conditional": 0
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 12,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         }
@@ -949,6 +1425,13 @@
               "Button Press": "Triangle",
               "Conditionals": "",
               "Additional Conditional": 0
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 12,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         }
@@ -973,6 +1456,13 @@
               "Button Press": "Triangle",
               "Conditionals": "UNK5",
               "Additional Conditional": 0
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 12,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         }
@@ -997,6 +1487,13 @@
               "Button Press": "Triangle",
               "Conditionals": "",
               "Additional Conditional": 0
+            },
+            "Condition 3| LAB8 Special Condition: Player Level": {
+              "Property Type": 47,
+              "Unk Byte 1": 1,
+              "Unk Byte 2": 12,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 1
             }
           }
         }
@@ -2087,6 +2584,17 @@
         "Condition 1| Weapon Category": {
           "Property Type": 14,
           "Weapon Category ID": 9,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPJ": {
+      "Moveset Name": "p_com_wpj",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 20,
           "Bitmask Byte": 0,
           "Conditionals": ""
         }

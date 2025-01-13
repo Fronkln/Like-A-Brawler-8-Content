@@ -4,6 +4,31 @@
       "Move Type": 1,
       "Animation Used": "Null"
     },
+    "Sway": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 5": {
+          "Follows Up to": "SwayAttackB",
+          "Conditions": {
+            "Condition 1| LAB8 Special: Is Realtime": {
+				"Property Type": 47,
+				"Unk Byte 1": 9,
+				"Unk Byte 2": 0,
+				"Unk Byte 3": 0,
+				"Unk Byte 4": 0
+            },
+            "Condition 2| LAB8 Special: AI Param - Can Do Sway Attack": {
+				"Property Type": 47,
+				"Unk Byte 1": 8,
+				"Unk Byte 2": 2,
+				"Unk Byte 3": 0,
+				"Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
     "MortalAttack": {
       "Move Type": 2,
       "Animation Used": "e_ask_btl_sud_ath_ma"
@@ -54,6 +79,10 @@
     "Skill_counter_en": {
       "Move Type": 2,
       "Animation Used": "E_ASK_BTL_SUD_skl_cntr_en"
+    },
+    "SwayAttackB": {
+      "Move Type": 2,
+      "Animation Used": "e_ask_btl_sud_swy_atk_b"
     },
     "RunAway_Success": {
       "Move Type": 9,
