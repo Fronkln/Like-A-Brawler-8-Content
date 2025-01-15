@@ -132,3 +132,7 @@ y8b2150_buki_y
 y8b2160_buki_y_ich
 y8b2170_inject_amibou
 y8b2180_tate_weaponj
+y8br0020_double_sway
+y8br0030_damage_counter
+y8b2190_buki_f
+y8b2200_buki_f_oi

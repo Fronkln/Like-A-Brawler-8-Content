@@ -258,7 +258,9 @@
       "p_com_wpm": 248,
       "p_com_wpe": 249,
       "p_kiryu_crash_wpc": 250,
-      "p_com_wpj": 251
+      "p_com_wpj": 251,
+      "p_com_wpn": 252,
+      "p_com_wpf": 253
     }
   }
 }

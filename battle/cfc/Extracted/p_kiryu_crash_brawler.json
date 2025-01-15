@@ -1170,7 +1170,7 @@
       }
     },
     "WPN": {
-      "Moveset Name": "p_com_wpa",
+      "Moveset Name": "p_com_wpn",
       "Conditions": {
         "Condition 1| Weapon Category": {
           "Property Type": 14,

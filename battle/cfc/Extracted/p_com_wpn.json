@@ -1,0 +1,276 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 4": {
+          "Follows Up to": "AttackDown",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Target Status": {
+              "Property Type": 8,
+              "State Type": "Down",
+              "Conditionals": ""
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 200,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 5": {
+          "Follows Up to": "Heavy_1",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 6": {
+          "Follows Up to": "Light_1",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 7": {
+          "Follows Up to": "Drop",
+          "Conditions": {
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "FromPocket",
+              "Conditionals": "NOT"
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L3",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 8": {
+          "Follows Up to": "ThrowDown_Baseball",
+          "Conditions": {
+            "Condition 1| Weapon ID": {
+              "Property Type": 15,
+              "Weapon ID": 5573
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 3| Target Status": {
+              "Property Type": 8,
+              "State Type": "Down",
+              "Conditionals": ""
+            },
+            "Condition 4| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 500,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 9": {
+          "Follows Up to": "ThrowDown",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Target Status": {
+              "Property Type": 8,
+              "State Type": "Down",
+              "Conditionals": ""
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 500,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 10": {
+          "Follows Up to": "Throw_Baseball",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Weapon ID": {
+              "Property Type": 15,
+              "Weapon ID": 5573
+            }
+          }
+        },
+        "Follow Up 11": {
+          "Follows Up to": "Throw",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Weapon Category": {
+              "Property Type": 14,
+              "Weapon Category ID": 1,
+              "Bitmask Byte": 0,
+              "Conditionals": "UNK6"
+            }
+          }
+        },
+        "Follow Up 12": {
+          "Follows Up to": "Throw",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Drop": {
+      "Move Type": 9,
+      "Animation Used": "p_com_btl_wpa_drp"
+    },
+    "Heavy_1": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpn_ath_hvy_md"
+    },
+    "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpn_ath_01_md",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_2": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpn_ath_02_md",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_3": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpn_ath_03_md"
+    },
+    "Throw": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpa_ath_thw_f"
+    },
+    "Throw_Baseball": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpn_thw_baseball"
+    },
+    "ThrowDown": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpa_ath_thw_d"
+    },
+    "ThrowDown_Baseball": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpn_thw_baseball_d"
+    },
+    "AttackDown": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpn_ath_dwn_md"
+    },
+    "Action_1": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpn_ath_kick"
+    }
+  },
+  "Moveset Change Table": {
+    "Moveset 1": {
+      "Moveset Name": "Previous Moveset",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 9,
+          "Bitmask Byte": 0,
+          "Conditionals": "NOT"
+        }
+      }
+    }
+  }
+}

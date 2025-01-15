@@ -90,3 +90,5 @@ hact_y8b2140_wpn_katate|56
 hact_y8b2150_buki_y|56
 hact_y8b2160_buki_y_ich|56
 hact_y8b2180_tate_weaponj|56
+hact_y8b2190_buki_f|56
+hact_y8b2200_buki_f_oi|56

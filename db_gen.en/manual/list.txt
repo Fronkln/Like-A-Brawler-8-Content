@@ -10,3 +10,6 @@ y8b_tutorial05
 y8b_ichiban_skill_combo_extend
 y8b_warning_poor_battle
 tutorial_subnote_btl13_0020_realtime
+y8b_ichiban_skill_double_sway
+y8b_ichiban_skill_damage_counter
+battle_tutorial_pop09_01_realtime

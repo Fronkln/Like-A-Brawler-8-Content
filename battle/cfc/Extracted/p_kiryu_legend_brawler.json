@@ -1725,7 +1725,7 @@
       }
     },
     "WPF": {
-      "Moveset Name": "p_com_wpc",
+      "Moveset Name": "p_com_wpf",
       "Conditions": {
         "Condition 1| Weapon Category": {
           "Property Type": 14,
@@ -1747,7 +1747,7 @@
       }
     },
     "WPN": {
-      "Moveset Name": "p_com_wpa",
+      "Moveset Name": "p_com_wpn",
       "Conditions": {
         "Condition 1| Weapon Category": {
           "Property Type": 14,
@@ -1763,6 +1763,17 @@
         "Condition 1| Weapon Category": {
           "Property Type": 14,
           "Weapon Category ID": 16,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPJ": {
+      "Moveset Name": "p_com_wpj",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 20,
           "Bitmask Byte": 0,
           "Conditionals": ""
         }
