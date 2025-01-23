@@ -1,3 +1,2 @@
-E:\SteamLibrary\steamapps\common\Yakuza Kiwami\media\data\motion\property.bin
-P_MJB_CMB_04_fin p_ich_btl_hro_ath_04_fin
-P_MJB_CMB_05_fin p_ich_btl_hro_ath_05_fin
+E:\SteamLibrary\steamapps\common\Yakuza 5\main\data\motion\property.bin|y5
+E_WPN_bar_ATK_down e_ymi_btl_wpa_ath_down

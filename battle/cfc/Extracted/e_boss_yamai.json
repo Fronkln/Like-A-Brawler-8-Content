@@ -2,7 +2,32 @@
   "Move Table": {
     "Root": {
       "Move Type": 1,
-      "Animation Used": "Null"
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "WPCAttack",
+          "Conditions": {
+            "Condition 1| Pickup": {
+              "Property Type": 31,
+              "Weapon Category ID": 3,
+              "Bitmask Byte": 0,
+              "Conditionals": ""
+            },
+            "Condition 2| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 350,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
     },
     "MortalAttack": {
       "Move Type": 2,
@@ -20,12 +45,85 @@
             }
           }
         }
-      }	  
+      }
     },
     "Light_1": {
       "Move Type": 2,
       "Animation Used": "E_YMI_BTL_WPA_ath_cmb",
       "Follow Ups": {
+        "Follow Up 4": {
+          "Follows Up to": "DownRev_f",
+          "Conditions": {
+            "Condition 2| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "DownUtu",
+              "Conditionals": ""
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 300,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 5": {
+          "Follows Up to": "DownRev_b",
+          "Conditions": {
+            "Condition 2| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "DownAo",
+              "Conditionals": ""
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 300,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "DownAttack",
+          "Conditions": {
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Light_B_01",
+          "Conditions": {
+            "Condition 2| LAB8 Special Condition: AI Param (Alt Combo)": {
+              "Property Type": 47,
+              "Unk Byte 1": 8,
+              "Unk Byte 2": 13,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
         "Follow Up 1": {
           "Follows Up to": "Light_2",
           "Conditions": {
@@ -36,13 +134,13 @@
               "Unk Byte 3": 0,
               "Unk Byte 4": 0
             },
-        "Condition 2| LAB8 Special Condition: AI Param (Extend Combo?)": {
-          "Property Type": 47,
-          "Unk Byte 1": 8,
-          "Unk Byte 2": 1,
-          "Unk Byte 3": 0,
-          "Unk Byte 4": 0
-        }
+            "Condition 2| LAB8 Special Condition: AI Param (Extend Combo)": {
+              "Property Type": 47,
+              "Unk Byte 1": 8,
+              "Unk Byte 2": 1,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
           }
         }
       }
@@ -51,10 +149,130 @@
       "Move Type": 2,
       "Animation Used": "e_ymi_btl_wpa_ath_cmb_02"
     },
+    "Light_B_01": {
+      "Move Type": 2,
+      "Animation Used": "e_ymi_btl_wpa_ath_b_01",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_B_02",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_B_02": {
+      "Move Type": 2,
+      "Animation Used": "e_ymi_btl_wpa_ath_b_02",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_B_03",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },	
+    "Light_B_03": {
+      "Move Type": 2,
+      "Animation Used": "e_ymi_btl_wpa_ath_b_03"
+    },
+    "Down": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "DownRev_f",
+          "Conditions": {
+            "Condition 2| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "DownUtu",
+              "Conditionals": ""
+            },
+            "Condition 5| LAB8 Special Condition: AI Param (Getup Attack)": {
+              "Property Type": 47,
+              "Unk Byte 1": 8,
+              "Unk Byte 2": 14,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 350,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "DownRev_b",
+          "Conditions": {
+            "Condition 2| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "DownAo",
+              "Conditionals": ""
+            },
+            "Condition 5| LAB8 Special Condition: AI Param (Getup Attack)": {
+              "Property Type": 47,
+              "Unk Byte 1": 8,
+              "Unk Byte 2": 14,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 350,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "DownAttack": {
+      "Move Type": 2,
+      "Animation Used": "e_ymi_btl_wpa_ath_down"
+    },			
     "MortalAttack2": {
       "Move Type": 2,
-      "Animation Used": "e_ymi_btl_wpa_ath_ma_proc"	  
-    },	
+      "Animation Used": "e_ymi_btl_wpa_ath_ma_proc"
+    },
+    "WPCAttack": {
+      "Move Type": 2,
+      "Animation Used": "e_ymi_btl_wpc_pkup_atk"
+    },
+    "DownRev_f": {
+      "Move Type": 2,
+      "Animation Used": "e_ymi_btl_wpa_ath_rev_rgdlf"
+    },
+    "DownRev_b": {
+      "Move Type": 2,
+      "Animation Used": "e_ymi_btl_wpa_ath_rev_rgdlb"
+    },
     "Skill_asset_r": {
       "Move Type": 2,
       "Animation Used": "E_YMI_BTL_WPA_ath_ast_r"

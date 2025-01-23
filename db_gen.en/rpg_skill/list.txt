@@ -34,3 +34,12 @@ player_wpm_battou
 e_ebina_e_counter
 player_wpe_battou
 p_kiryu_legend_brawler_mortal_counter
+player_wpa_noutou
+player_wpb_noutou
+player_wpd_noutou
+player_wpe_noutou
+player_wpg_noutou
+player_wpj_noutou
+player_wpn_noutou
+player_wpy_noutou
+player_wpx_noutou

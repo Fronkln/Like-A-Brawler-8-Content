@@ -1,7 +1,7 @@
 {
   "VERSION": 2,
   "REVISION": 0,
-  "ROW_COUNT": 21556,
+  "ROW_COUNT": 21603,
   "COLUMN_COUNT": 0,
   "TEXT_COUNT": 0,
   "ROW_VALIDATOR": 0,
@@ -107792,6 +107792,241 @@
   },
   "21555": {
     "e_ask_btl_sud_swy_atk_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21556": {
+    "e_srm_btl_sud_ath_ntn_pch_2ren": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21557": {
+    "p_ich_btl_sud_ath_01_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21558": {
+    "p_ich_btl_sud_ath_run_fin": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21559": {
+    "p_ich_btl_sud_ath_02_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21560": {
+    "p_ich_btl_sud_ath_03_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21561": {
+    "p_ich_btl_sud_ath_04_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21562": {
+    "p_ich_btl_sud_sy0_german_rlt": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21563": {
+    "p_ich_btl_sud_sy1_german_rlt": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21564": {
+    "p_com_btl_wpa_ath_thw_d": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21565": {
+    "p_com_btl_wpa_drp": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21566": {
+    "p_com_btl_wpn_ath_01_md": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21567": {
+    "p_com_btl_wpn_ath_02_md": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21568": {
+    "p_com_btl_wpn_ath_03_md": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21569": {
+    "p_com_btl_wpn_ath_dwn_md": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21570": {
+    "p_com_btl_wpn_ath_hvy_md": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21571": {
+    "p_com_btl_wpn_ath_kick": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21572": {
+    "p_com_btl_wpn_thw_baseball": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21573": {
+    "p_com_btl_wpn_thw_baseball_d": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21574": {
+    "p_com_btl_wpf_ath_01_md": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21575": {
+    "p_com_btl_wpf_ath_02_md": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21576": {
+    "p_com_btl_wpf_ath_03_md": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21577": {
+    "p_com_btl_wpf_ath_dwn_md": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21578": {
+    "p_com_btl_wpf_ath_hvy_md": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21579": {
+    "p_com_btl_wpf_ath_thw_sp_f": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21580": {
+    "p_com_btl_rkt_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21581": {
+    "p_com_btl_tho_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21582": {
+    "p_com_btl_wpa_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21583": {
+    "p_com_btl_wpb_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21584": {
+    "p_com_btl_wpd_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21585": {
+    "p_com_btl_wpe_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21586": {
+    "p_com_btl_wpg_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21587": {
+    "p_com_btl_wpi_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21588": {
+    "p_com_btl_wpi_yari_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21589": {
+    "p_com_btl_wpj_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21590": {
+    "p_com_btl_wpm_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21591": {
+    "p_com_btl_wpn_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21592": {
+    "p_com_btl_wpr_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21593": {
+    "p_com_btl_wpt_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21594": {
+    "p_com_btl_wpx_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21595": {
+    "p_com_btl_wpy_noutou": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21596": {
+    "e_ymi_btl_wpc_pkup_atk": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21597": {
+    "e_ymi_btl_wpa_ath_b_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21598": {
+    "e_ymi_btl_wpa_ath_b_02": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21599": {
+    "e_ymi_btl_wpa_ath_b_03": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21600": {
+    "e_ymi_btl_wpa_ath_down": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21601": {
+    "e_ymi_btl_wpa_ath_rev_rgdlb": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21602": {
+    "e_ymi_btl_wpa_ath_rev_rgdlf": {
       "reARMP_isValid": "1"
     }
   }

@@ -1,6 +1,6 @@
 {
    "Comment": "Tomizawaaaaaa",
    "Health": 235,
-   "Attack": 50,
+   "Attack": 75,
    "Defense": 44
 }
