@@ -1,0 +1,6 @@
+{
+   "Comment": "Encounter Boss",
+   "Health": 360,
+   "Attack": 55,
+   "Defense": 54
+}

@@ -581,3 +581,5 @@ e_ymi_btl_wpa_ath_b_03
 e_ymi_btl_wpa_ath_down
 e_ymi_btl_wpa_ath_rev_rgdlb
 e_ymi_btl_wpa_ath_rev_rgdlf
+e_bdb_sjb_wpa_ath_rev_rgdlb
+e_bdb_sjb_wpa_ath_rev_rgdlf

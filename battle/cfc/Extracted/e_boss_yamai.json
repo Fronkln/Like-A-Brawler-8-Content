@@ -13,14 +13,28 @@
               "Bitmask Byte": 0,
               "Conditionals": ""
             },
-            "Condition 2| Target Change": {
+            "Condition 5| LAB8 Special Condition: Is Realtime": {
+              "Property Type": 47,
+              "Unk Byte 1": 9,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| LAB8 Special Condition: AI Param (Scripted1 - Yamai Weapon Attack)": {
+              "Property Type": 47,
+              "Unk Byte 1": 8,
+              "Unk Byte 2": 5,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
               "Property Type": 9,
               "Target": 0,
               "Unk Byte 2": 0,
               "Target Position": 2,
               "Unk Byte 4": 0
             },
-            "Condition 3| Distance Limit": {
+            "Condition 4| Distance Limit": {
               "Property Type": 19,
               "Enemy Distance": 350,
               "Unk Byte 4": 0
@@ -51,53 +65,16 @@
       "Move Type": 2,
       "Animation Used": "E_YMI_BTL_WPA_ath_cmb",
       "Follow Ups": {
-        "Follow Up 4": {
-          "Follows Up to": "DownRev_f",
-          "Conditions": {
-            "Condition 2| Fighter Status": {
-              "Property Type": 7,
-              "State Type": "DownUtu",
-              "Conditionals": ""
-            },
-            "Condition 3| Target Change": {
-              "Property Type": 9,
-              "Target": 0,
-              "Unk Byte 2": 0,
-              "Target Position": 2,
-              "Unk Byte 4": 0
-            },
-            "Condition 4| Distance Limit": {
-              "Property Type": 19,
-              "Enemy Distance": 300,
-              "Unk Byte 4": 0
-            }
-          }
-        },
-        "Follow Up 5": {
-          "Follows Up to": "DownRev_b",
-          "Conditions": {
-            "Condition 2| Fighter Status": {
-              "Property Type": 7,
-              "State Type": "DownAo",
-              "Conditionals": ""
-            },
-            "Condition 3| Target Change": {
-              "Property Type": 9,
-              "Target": 0,
-              "Unk Byte 2": 0,
-              "Target Position": 2,
-              "Unk Byte 4": 0
-            },
-            "Condition 4| Distance Limit": {
-              "Property Type": 19,
-              "Enemy Distance": 300,
-              "Unk Byte 4": 0
-            }
-          }
-        },
         "Follow Up 3": {
           "Follows Up to": "DownAttack",
           "Conditions": {
+            "Condition 5| LAB8 Special Condition: Is Realtime": {
+              "Property Type": 47,
+              "Unk Byte 1": 9,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },			 
             "Condition 3| Target Change": {
               "Property Type": 9,
               "Target": 0,
@@ -115,6 +92,13 @@
         "Follow Up 2": {
           "Follows Up to": "Light_B_01",
           "Conditions": {
+            "Condition 5| LAB8 Special Condition: Is Realtime": {
+              "Property Type": 47,
+              "Unk Byte 1": 9,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
             "Condition 2| LAB8 Special Condition: AI Param (Alt Combo)": {
               "Property Type": 47,
               "Unk Byte 1": 8,
@@ -130,6 +114,13 @@
             "Condition 1| Follow Up Window Start": {
               "Property Type": 5,
               "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| LAB8 Special Condition: Is Realtime": {
+              "Property Type": 47,
+              "Unk Byte 1": 9,
               "Unk Byte 2": 0,
               "Unk Byte 3": 0,
               "Unk Byte 4": 0
@@ -201,6 +192,13 @@
               "State Type": "DownUtu",
               "Conditionals": ""
             },
+            "Condition 6| LAB8 Special Condition: Is Realtime": {
+              "Property Type": 47,
+              "Unk Byte 1": 9,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
             "Condition 5| LAB8 Special Condition: AI Param (Getup Attack)": {
               "Property Type": 47,
               "Unk Byte 1": 8,
@@ -229,6 +227,13 @@
               "Property Type": 7,
               "State Type": "DownAo",
               "Conditionals": ""
+            },
+            "Condition 6| LAB8 Special Condition: Is Realtime": {
+              "Property Type": 47,
+              "Unk Byte 1": 9,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
             },
             "Condition 5| LAB8 Special Condition: AI Param (Getup Attack)": {
               "Property Type": 47,
