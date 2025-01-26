@@ -12,3 +12,4 @@ p_com_wph.cfe
 p_kasuga_wph.cfe
 p_kiryu_legend_brawler.cfe
 p_com_wpe.cfe
+p_kasuga_brawler_ex.cfe
