@@ -43,3 +43,4 @@ player_wpj_noutou
 player_wpn_noutou
 player_wpy_noutou
 player_wpx_noutou
+boss_dwight_atk_a

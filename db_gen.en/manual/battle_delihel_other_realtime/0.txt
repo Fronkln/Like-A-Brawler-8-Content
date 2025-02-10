@@ -1,0 +1,3 @@
+Welcome Back to Pound Town
+btl_manual_015
+Ichiban can now summon <color=striking>Poundmates</color> for help. These are powerful allies with a wide range of abilities, but their assistance carries a fee. The price depends on the Poundmate, and it'll increase depending on their rank and how many times you request them within the same fight.

@@ -1,7 +1,7 @@
 {
   "VERSION": 2,
   "REVISION": 0,
-  "ROW_COUNT": 21603,
+  "ROW_COUNT": 21640,
   "COLUMN_COUNT": 0,
   "TEXT_COUNT": 0,
   "ROW_VALIDATOR": 0,
@@ -108027,6 +108027,191 @@
   },
   "21602": {
     "e_ymi_btl_wpa_ath_rev_rgdlf": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21603": {
+    "e_bdb_sjb_wpa_ath_rev_rgdlb": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21604": {
+    "e_bdb_sjb_wpa_ath_rev_rgdlf": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21605": {
+    "P_ICH_BTL_SUD_EX_ATK_down": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21606": {
+    "P_ICH_BTL_SUD_EX_ATK_heavy": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21607": {
+    "P_ICH_BTL_SUD_EX_CMB_A_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21608": {
+    "P_ICH_BTL_SUD_EX_CMB_A_01_fin": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21609": {
+    "P_ICH_BTL_SUD_EX_CMB_A_02": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21610": {
+    "P_ICH_BTL_SUD_EX_CMB_A_02_fin": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21611": {
+    "P_ICH_BTL_SUD_EX_CMB_A_03": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21612": {
+    "P_ICH_BTL_SUD_EX_CMB_A_03_fin": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21613": {
+    "P_ICH_BTL_SUD_EX_CMB_A_04": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21614": {
+    "P_ICH_BTL_SUD_EX_CMB_A_05": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21615": {
+    "P_ICH_BTL_SUD_EX_CMB_B_01": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21616": {
+    "P_ICH_BTL_SUD_EX_CMB_B_01_fin": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21617": {
+    "P_ICH_BTL_SUD_EX_CMB_B_02": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21618": {
+    "P_ICH_BTL_SUD_EX_CMB_B_02_fin": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21619": {
+    "P_ICH_BTL_SUD_EX_CMB_B_03": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21620": {
+    "P_ICH_BTL_SUD_EX_CMB_B_03_fin": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21621": {
+    "P_ICH_BTL_SUD_EX_CMB_B_04": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21622": {
+    "P_ICH_BTL_SUD_EX_CMB_B_finW": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21623": {
+    "P_ICH_BTL_SUD_EX_seize_miss": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21624": {
+    "P_ICH_BTL_SUD_EX_stand_btl_en": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21625": {
+    "P_ICH_BTL_SUD_EX_stand_btl_st": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21626": {
+    "P_ICH_BTL_SUD_EX_sway_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21627": {
+    "P_ICH_BTL_SUD_EX_sway_f": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21628": {
+    "P_ICH_BTL_SUD_EX_SYNC1_nage_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21629": {
+    "P_ICH_BTL_SUD_EX_SYNC1_nage_f": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21630": {
+    "P_ICH_BTL_SUD_EX_SYNC_nage_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21631": {
+    "P_ICH_BTL_SUD_EX_SYNC_nage_f": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21632": {
+    "e_dwt_btl_wpx_ath_dge_l": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21633": {
+    "e_dwt_btl_wpx_ath_dge_r": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21634": {
+    "e_dwt_btl_wpx_ath_dge_b": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21635": {
+    "e_dwt_btl_wpx_ath_rev_rgdlb": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21636": {
+    "e_dwt_btl_wpx_ath_rev_rgdlf": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21637": {
+    "e_dwt_btl_wpx_ath_dwn": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21638": {
+    "e_dwt_btl_wpx_slh_abare_02": {
+      "reARMP_isValid": "1"
+    }
+  },
+  "21639": {
+    "e_dwt_btl_wpx_slh_kiri_02": {
       "reARMP_isValid": "1"
     }
   }

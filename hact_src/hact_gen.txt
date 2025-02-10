@@ -138,3 +138,4 @@ y8b2190_buki_f
 y8b2200_buki_f_oi
 y8b2210_buki_b_snatch
 y8b2220_buki_e_snatch
+y8b_tutorial_btl01_0100_01_ng

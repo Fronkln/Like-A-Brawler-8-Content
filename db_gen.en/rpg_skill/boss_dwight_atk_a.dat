@@ -1,0 +1,5 @@
+{
+    "CommandSet": "e_boss_dwight_x",
+    "CommandName": "Light_1",
+    "OverrideName": "boss_dwight_atk_a",
+}
