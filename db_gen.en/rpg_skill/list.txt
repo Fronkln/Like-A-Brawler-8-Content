@@ -44,3 +44,5 @@ player_wpn_noutou
 player_wpy_noutou
 player_wpx_noutou
 boss_dwight_atk_a
+boss_wong_atk_a
+boss_wong_parry

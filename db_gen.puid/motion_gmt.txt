@@ -618,3 +618,9 @@ e_dwt_btl_wpx_ath_rev_rgdlf
 e_dwt_btl_wpx_ath_dwn
 e_dwt_btl_wpx_slh_abare_02
 e_dwt_btl_wpx_slh_kiri_02
+e_won_btl_wpb_ath_a_01
+e_won_btl_wpb_ath_a_02
+e_won_btl_wpb_ath_a_03
+e_won_btl_wpb_sy0_pry
+e_won_btl_wpb_sy1_pry
+e_won_btl_wpb_ath_dwn

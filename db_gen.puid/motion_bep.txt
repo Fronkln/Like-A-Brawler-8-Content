@@ -642,3 +642,10 @@ e_dwt_btl_wpx_skl_tame
 e_dwt_btl_wpx_slh_2ren
 e_dwt_btl_wpx_ath_rev_rgdlb
 e_fho_btl_drm_ath_nml
+e_won_btl_wpb_ath_a_01
+e_won_btl_wpb_ath_a_02
+e_won_btl_wpb_ath_a_03
+e_won_btl_wpb_ath_dwn
+E_WON_BTL_WPB_ath_tuki
+e_won_btl_wpb_sy0_pry
+e_won_btl_wpb_sy1_pry
