@@ -44,7 +44,215 @@
     },
     "Light_1": {
       "Move Type": 2,
-      "Animation Used": "m_adc_btl_btn_ath_01"
+      "Animation Used": "m_dnc_btl_sud_ath01",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Heavy_1",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+	  }
+    },
+    "Light_2": {
+      "Move Type": 2,
+      "Animation Used": "m_dnc_btl_sud_ath02",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Heavy_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+	  }
+    },
+    "Light_3": {
+      "Move Type": 2,
+      "Animation Used": "m_dnc_btl_sud_ath03",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_4",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Heavy_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+	  }
+    },
+    "Light_4": {
+      "Move Type": 2,
+      "Animation Used": "m_dnc_btl_sud_ath04",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_5",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "Heavy_4",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+	  }
+    },
+    "Light_5": {
+      "Move Type": 2,
+      "Animation Used": "m_dnc_btl_sud_ath05",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Heavy_5",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Triangle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+	  }
+    },
+    "Heavy_1": {
+      "Move Type": 2,
+      "Animation Used": "m_dnc_btl_sud_ath_fin01"
+    },
+    "Heavy_2": {
+      "Move Type": 2,
+      "Animation Used": "m_dnc_btl_sud_ath_fin02"
+    },
+    "Heavy_3": {
+      "Move Type": 2,
+      "Animation Used": "m_dnc_btl_sud_ath_fin03"
+    },
+    "Heavy_4": {
+      "Move Type": 2,
+      "Animation Used": "m_dnc_btl_sud_ath_fin04"
+    },
+    "Heavy_5": {
+      "Move Type": 2,
+      "Animation Used": "m_dnc_btl_sud_ath_fin05"
     },
     "Heavy": {
       "Move Type": 2,
