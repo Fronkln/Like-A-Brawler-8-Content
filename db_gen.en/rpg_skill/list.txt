@@ -46,3 +46,4 @@ player_wpx_noutou
 boss_dwight_atk_a
 boss_wong_atk_a
 boss_wong_parry
+palekana_warrior_atk_a

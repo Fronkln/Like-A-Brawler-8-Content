@@ -649,3 +649,4 @@ e_won_btl_wpb_ath_dwn
 E_WON_BTL_WPB_ath_tuki
 e_won_btl_wpb_sy0_pry
 e_won_btl_wpb_sy1_pry
+e_ymi_btl_wpa_ath_circle

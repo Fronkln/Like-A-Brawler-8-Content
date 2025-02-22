@@ -4,6 +4,14 @@
       "Move Type": 1,
       "Animation Used": "Null"
     },
+    "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "E_HAK_BTL_WPE_slh_nml"
+    },
+    "NonTurnAttack1": {
+      "Move Type": 2,
+      "Animation Used": "E_HAK_BTL_WPE_slh_nml"
+    },
     "RunAway_Success": {
       "Move Type": 9,
       "Animation Used": "P_ICH_MOV_run_esc_st_r_180",
