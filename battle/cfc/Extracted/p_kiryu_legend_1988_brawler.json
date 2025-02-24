@@ -13,13 +13,6 @@
               "Conditionals": "UNK5",
               "Additional Conditional": 0
             },
-            "Condition 3| LAB8 Special Condition: Player Level": {
-              "Property Type": 47,
-              "Unk Byte 1": 1,
-              "Unk Byte 2": 35,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 1
-            },
             "Condition 2| Target Change": {
               "Property Type": 9,
               "Target": 0,
@@ -41,13 +34,6 @@
               "Button Press": "Triangle",
               "Conditionals": "UNK5",
               "Additional Conditional": 0
-            },
-            "Condition 3| LAB8 Special Condition: Player Level": {
-              "Property Type": 47,
-              "Unk Byte 1": 1,
-              "Unk Byte 2": 35,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 1
             },
             "Condition 2| Target Change": {
               "Property Type": 9,
