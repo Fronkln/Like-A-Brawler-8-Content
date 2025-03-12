@@ -670,3 +670,15 @@ m_dnc_btl_sud_ath_fin03
 m_dnc_btl_sud_ath_fin04
 m_dnc_btl_sud_ath_fin05
 m_dnc_btl_sud_ath_fin06
+e_saw_btl_sud_ath_stdup_b
+e_saw_btl_sud_ath_stdup_f
+E_YMF_BTL_WPA_skl_cntr_lp
+E_YMF_BTL_WPA_skl_cntr_st
+e_ymi_btl_wpa_skl_buff
+e_saw_btl_wpe_ath_rev_rgdlb
+e_saw_btl_wpe_ath_rev_rgdlf
+e_mjm_btl_wpb_ath_dwn
+e_dgo_btl_sud_skl_buff
+e_mjm_btl_wpb_skl_buf
+e_mjm_btl_wpb_skl_bunshin
+e_sae_btl_sud_aura

@@ -96,3 +96,6 @@ hact_y8b2210_buki_b_snatch|56
 hact_y8b2220_buki_e_snatch|56
 hact_y8b1580_krh_snatch_wpd|56
 hact_y8b2230_brk_karameuchi|56
+hact_y8b2250_brk_kubiuchi|56
+hact_y8bb2260_mjm_sting_dosu|56
+hact_y8bb2270_dgo_finishblow|56

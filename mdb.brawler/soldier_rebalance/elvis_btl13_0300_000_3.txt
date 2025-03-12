@@ -1,0 +1,6 @@
+{
+   "Comment": "Enemy",
+   "Health": 1100,
+   "Attack": 278,
+   "Defense": 330
+}

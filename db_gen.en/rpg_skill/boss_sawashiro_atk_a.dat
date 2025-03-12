@@ -1,0 +1,8 @@
+{
+    "Name": "LAB8: Sawashiro Attack",
+    "Motion": "E_SAW_BTL_SUD_ath_rengeki",
+    "UseCond": 23,
+    "CommandSet": "",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}

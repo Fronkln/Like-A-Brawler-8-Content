@@ -258,6 +258,14 @@
         }
       }
     },
+    "DownRev_f": {
+      "Move Type": 2,
+      "Animation Used": "e_ymi_btl_wpa_ath_rev_rgdlf"
+    },
+    "DownRev_b": {
+      "Move Type": 2,
+      "Animation Used": "e_ymi_btl_wpa_ath_rev_rgdlb"
+    },
     "DownAttack": {
       "Move Type": 2,
       "Animation Used": "e_ymi_btl_wpa_ath_down"
@@ -269,14 +277,6 @@
     "WPCAttack": {
       "Move Type": 2,
       "Animation Used": "e_ymi_btl_wpc_pkup_atk"
-    },
-    "DownRev_f": {
-      "Move Type": 2,
-      "Animation Used": "e_ymi_btl_wpa_ath_rev_rgdlf"
-    },
-    "DownRev_b": {
-      "Move Type": 2,
-      "Animation Used": "e_ymi_btl_wpa_ath_rev_rgdlb"
     },
     "Skill_asset_r": {
       "Move Type": 2,

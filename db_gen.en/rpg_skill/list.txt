@@ -47,3 +47,5 @@ boss_dwight_atk_a
 boss_wong_atk_a
 boss_wong_parry
 palekana_warrior_atk_a
+boss_sawashiro_atk_a
+boss_majima_b_atk_a

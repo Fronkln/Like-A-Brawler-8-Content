@@ -497,51 +497,11 @@
     },
     "AttackFinishW2": {
       "Move Type": 2,
-      "Animation Used": "p_kra_btl_sud_ath_dfin02",
-      "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "AttackFinishT2",
-          "Conditions": {
-            "Condition 1| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 2| Button Press (Buffered Input)": {
-              "Property Type": 4,
-              "Button Press": "Triangle",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            }
-          }
-        }
-      }
+      "Animation Used": "p_kra_btl_sud_ath_dfin02"
     },
     "AttackFinishW3": {
       "Move Type": 2,
-      "Animation Used": "p_kra_btl_sud_ath_dfin03",
-      "Follow Ups": {
-        "Follow Up 1": {
-          "Follows Up to": "AttackFinishT3",
-          "Conditions": {
-            "Condition 1| Follow Up Window Start": {
-              "Property Type": 5,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 2| Button Press (Buffered Input)": {
-              "Property Type": 4,
-              "Button Press": "Triangle",
-              "Conditionals": "",
-              "Additional Conditional": 0
-            }
-          }
-        }
-      }
+      "Animation Used": "p_kra_btl_sud_ath_dfin03"
     },
     "AttackFinishW4": {
       "Move Type": 2,

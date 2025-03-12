@@ -140,3 +140,7 @@ y8b2210_buki_b_snatch
 y8b2220_buki_e_snatch
 y8b_tutorial_btl01_0100_01_ng
 y8b2230_brk_karameuchi
+y8b2240_brk_juggle
+y8b2250_brk_kubiuchi
+y8bb2260_mjm_sting_dosu
+y8bb2270_dgo_finishblow

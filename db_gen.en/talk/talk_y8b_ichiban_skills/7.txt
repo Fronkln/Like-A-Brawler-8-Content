@@ -1,0 +1,3 @@
+Yoshino
+Counter Hook (Level 35)
+Counter an attack just before it lands.

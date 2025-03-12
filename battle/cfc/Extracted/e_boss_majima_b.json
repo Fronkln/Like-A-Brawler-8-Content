@@ -4,6 +4,36 @@
       "Move Type": 1,
       "Animation Used": "Null"
     },
+    "Attack_A": {
+      "Move Type": 2,
+      "Animation Used": "E_MJM_BTL_WPB_ath_cmb_01",
+      "Follow Ups": {
+        "Follow Up 3": {
+          "Follows Up to": "DownAttack",
+          "Conditions": {
+            "Condition 5| LAB8 Special Condition: Is Realtime": {
+              "Property Type": 47,
+              "Unk Byte 1": 9,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },			 
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Down",
+              "Conditionals": ""
+            }
+          }
+        }
+      }
+    },	
     "DummyLoad": {
       "Move Type": 2,
       "Animation Used": "E_MJM_BTL_WPB_skl_bunshin"
@@ -15,6 +45,10 @@
     "ComboAtk_1_b": {
       "Move Type": 2,
       "Animation Used": "E_MJM_BTL_WPB_ath_upr_b"
+    },
+    "DownAttack": {
+      "Move Type": 2,
+      "Animation Used": "e_mjm_btl_wpb_ath_dwn"
     },
     "RunAway_Success": {
       "Move Type": 9,

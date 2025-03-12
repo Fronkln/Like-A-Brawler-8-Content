@@ -1,0 +1,6 @@
+{
+   "Comment": "Boss",
+   "Health": 2300,
+   "Attack": 296,
+   "Defense": 258
+}

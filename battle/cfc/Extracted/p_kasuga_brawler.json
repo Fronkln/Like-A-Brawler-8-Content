@@ -171,6 +171,23 @@
             }
           }
         },
+        "Follow Up 90": {
+          "Follows Up to": "TackleSeize",
+          "Conditions": {
+            "Condition 1| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "R1",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
         "Follow Up 6": {
           "Follows Up to": "GrabStart",
           "Conditions": {
@@ -2200,6 +2217,17 @@
               "Additional Conditional": 0
             }
           }
+        },
+        "Follow Up 4": {
+          "Follows Up to": "TackleHeavy",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
         }
       }
     },
@@ -2216,7 +2244,7 @@
         },
         "Animation 2": {
           "Animation Used": "p_ich_btl_sud_sy1_gsp_vali_nage",
-          "Unknown Byte 1": 3,
+          "Unknown Byte 1": 0,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
           "Unknown Byte 4": 0,

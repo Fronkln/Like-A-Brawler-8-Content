@@ -1,2 +1,6 @@
-E:\SteamLibrary\steamapps\common\Yakuza 5\main\data\motion\property.bin|y5
-E_WPN_bar_ATK_down e_ymi_btl_wpa_ath_down
+C:\Users\orhan_vfigibb\Downloads\motion_w64\motion_w64\property.bin|y0
+P_MJA_CMB_01_fin m_dnc_btl_sud_ath_fin01
+P_MJA_CMB_02_fin m_dnc_btl_sud_ath_fin02
+P_MJA_CMB_03_fin m_dnc_btl_sud_ath_fin03
+P_MJA_CMB_04_fin m_dnc_btl_sud_ath_fin04
+P_MJA_CMB_05_fin m_dnc_btl_sud_ath_fin05
