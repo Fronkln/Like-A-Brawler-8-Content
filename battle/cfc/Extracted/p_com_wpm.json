@@ -47,6 +47,22 @@
         "Follow Up 6": {
           "Follows Up to": "Throw",
           "Conditions": {
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "FromPocket",
+              "Conditionals": "NOT"
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 7": {
+          "Follows Up to": "Special",
+          "Conditions": {
             "Condition 1| Button Press": {
               "Property Type": 1,
               "Button Press": "Circle",
@@ -57,7 +73,6 @@
         }		
       }
     },
-
     "Light_1": {
       "Move Type": 2,
       "Animation Used": "p_com_btl_wpm_ath_01_md",
@@ -81,6 +96,10 @@
           }
         }
       }
+    },
+    "Heavy": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpm_ath_hvy_md"
     },
     "Light_1_KRH": {
       "Move Type": 2,
@@ -324,13 +343,13 @@
       "Move Type": 2,
       "Animation Used": "p_kru_btl_krh_ath_05"
     },
-    "Heavy": {
-      "Move Type": 2,
-      "Animation Used": "p_com_btl_wpd_ath_hvy"
-    },
     "Throw": {
       "Move Type": 2,
       "Animation Used": "p_com_btl_wpa_ath_thw_f"
+    },	
+    "Special": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpm_ath_sp"
     },	
     "MortalCounter": {
       "Move Type": 2,
@@ -449,26 +468,8 @@
     }
   },
   "Moveset Change Table": {
-    "Kiryu": {
-      "Moveset Name": "p_kiryu_legend_brawler",
-      "Conditions": {
-        "Condition 1| Weapon Category": {
-          "Property Type": 14,
-          "Weapon Category ID": 16,
-          "Bitmask Byte": 0,
-          "Conditionals": "NOT"
-        },
-        "Condition 1| LAB8 Special Condition: Is Ichiban": {
-          "Property Type": 47,
-          "Unk Byte 1": 5,
-          "Unk Byte 2": 0,
-          "Unk Byte 3": 0,
-          "Unk Byte 4": 3
-        }
-      }
-    },
-    "Ichiban": {
-      "Moveset Name": "p_kasuga_brawler",
+    "Moveset 1": {
+      "Moveset Name": "Previous Moveset",
       "Conditions": {
         "Condition 1| Weapon Category": {
           "Property Type": 14,

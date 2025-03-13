@@ -2423,24 +2423,6 @@
     }
   },
   "Moveset Change Table": {
-    "ENSURE NOT KIRYU!": {
-      "Moveset Name": "p_kiryu_legend_brawler",
-      "Conditions": {
-        "Condition 1| Weapon Category": {
-          "Property Type": 14,
-          "Weapon Category ID": 5,
-          "Bitmask Byte": 0,
-          "Conditionals": "NOT"
-        },
-        "Condition 2| LAB8 Special Condition: Is Ichiban": {
-          "Property Type": 47,
-          "Unk Byte 1": 5,
-          "Unk Byte 2": 0,
-          "Unk Byte 3": 0,
-          "Unk Byte 4": 3
-        }
-      }
-    },
     "EX_FREETER": {
       "Moveset Name": "p_kasuga_brawler_ex",
       "Conditions": {
@@ -2648,6 +2630,17 @@
         "Condition 1| Weapon Category": {
           "Property Type": 14,
           "Weapon Category ID": 20,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPM": {
+      "Moveset Name": "p_com_wpm",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 16,
           "Bitmask Byte": 0,
           "Conditionals": ""
         }

@@ -1928,5 +1928,19 @@
       "Move Type": 2,
       "Animation Used": "P_ICH_BTL_SUD_EX_ATK_down"
     }
+  },
+  "Moveset Change Table": {
+    "Moveset 1": {
+      "Moveset Name": "Previous Moveset",
+      "Conditions": {
+        "Condition 1| LAB8 Special Condition: Extreme Heat": {
+          "Property Type": 47,
+          "Unk Byte 1": 6,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 3
+        }
+      }
+    }
   }
 }

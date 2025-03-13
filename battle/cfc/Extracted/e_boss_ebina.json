@@ -4,6 +4,133 @@
       "Move Type": 1,
       "Animation Used": "Null"
     },
+    "Sway": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "SwayAttackB",
+          "Conditions": {
+            "Condition 1| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 2| Motion ID": {
+              "Property Type": 38,
+              "Motion ID": 17868,
+              "Conditionals": ""
+            },
+            "Condition 3| LAB8 Special Condition: Is Realtime": {
+              "Property Type": 47,
+              "Unk Byte 1": 9,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| LAB8 Special Condition: AI Param (SwayAttack)": {
+              "Property Type": 47,
+              "Unk Byte 1": 8,
+              "Unk Byte 2": 2,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+	  }		  
+	},
+    "Down": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "DownRev_f",
+          "Conditions": {
+            "Condition 2| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "DownUtu",
+              "Conditionals": ""
+            },
+            "Condition 6| LAB8 Special Condition: Is Realtime": {
+              "Property Type": 47,
+              "Unk Byte 1": 9,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| LAB8 Special Condition: AI Param (Getup Attack)": {
+              "Property Type": 47,
+              "Unk Byte 1": 8,
+              "Unk Byte 2": 14,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 350,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 2": {
+          "Follows Up to": "DownRev_b",
+          "Conditions": {
+            "Condition 2| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "DownAo",
+              "Conditionals": ""
+            },
+            "Condition 6| LAB8 Special Condition: Is Realtime": {
+              "Property Type": 47,
+              "Unk Byte 1": 9,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 5| LAB8 Special Condition: AI Param (Getup Attack)": {
+              "Property Type": 47,
+              "Unk Byte 1": 8,
+              "Unk Byte 2": 14,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 350,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "SwayAttackB": {
+      "Move Type": 2,
+      "Animation Used": "e_ebn_btl_sud_ath_swy_b"
+    },
+    "DownRev_f": {
+      "Move Type": 2,
+      "Animation Used": "e_ebn_btl_sud_ath_rev_rgdlf"
+    },
+    "DownRev_b": {
+      "Move Type": 2,
+      "Animation Used": "e_ebn_btl_sud_ath_rev_rgdlb"
+    },
     "Skill_cmb_01": {
       "Move Type": 2,
       "Animation Used": "E_EBN_BTL_SUD_ath_cmb_01",

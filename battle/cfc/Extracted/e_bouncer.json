@@ -2,9 +2,46 @@
   "Move Table": {
     "Root": {
       "Move Type": 1,
-      "Animation Used": "Null"
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "NonTurnAttack1",
+          "Conditions": {
+            "Condition 1| LAB8 Special: Is Realtime": {
+				"Property Type": 47,
+				"Unk Byte 1": 9,
+				"Unk Byte 2": 0,
+				"Unk Byte 3": 0,
+				"Unk Byte 4": 0
+            },
+            "Condition 2| LAB8 Special: AI Param (Can Non Turn Attack)": {
+				"Property Type": 47,
+				"Unk Byte 1": 8,
+				"Unk Byte 2": 3,
+				"Unk Byte 3": 0,
+				"Unk Byte 4": 0
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 280,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
     },
     "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "E_YJB_BTL_SUD_ath_kik"
+    },
+    "NonTurnAttack1": {
       "Move Type": 2,
       "Animation Used": "E_YJB_BTL_SUD_ath_kik"
     },

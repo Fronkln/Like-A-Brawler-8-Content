@@ -671,3 +671,12 @@ p_kra_mov_std_tfm01_sft
 p_kra_mov_std_tfm02_sft
 p_kra_btl_sud_stda_lp
 p_kra_btl_sud_stdb_lp
+p_com_btl_wpm_ath_sp
+p_com_btl_wpm_ath_hvy_md
+e_ebn_btl_sud_ath_swy_b
+e_ebn_btl_sud_ath_rev_rgdlb
+e_ebn_btl_sud_ath_rev_rgdlf
+e_ebn_btl_wpe_ath_rev_rgdlb
+e_ebn_btl_wpe_ath_rev_rgdlf
+e_ebn_btl_wpe_ath_swy_b
+e_nml_btl_wpy_ath_kick

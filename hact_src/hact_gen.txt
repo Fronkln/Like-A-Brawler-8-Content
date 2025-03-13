@@ -144,3 +144,4 @@ y8b2240_brk_juggle
 y8b2250_brk_kubiuchi
 y8bb2260_mjm_sting_dosu
 y8bb2270_dgo_finishblow
+y8bb2280_ebn_oi_1katana_yoko
