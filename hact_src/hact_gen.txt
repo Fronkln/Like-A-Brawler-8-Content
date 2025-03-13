@@ -145,3 +145,6 @@ y8b2250_brk_kubiuchi
 y8bb2260_mjm_sting_dosu
 y8bb2270_dgo_finishblow
 y8bb2280_ebn_oi_1katana_yoko
+y8b2290_krh_ura_throwdrop
+y8b2300_krc_omote_kabe
+y8b2310_krh_multiple

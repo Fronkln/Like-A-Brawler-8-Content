@@ -1790,6 +1790,17 @@
         }
       }
     },
+    "WPQ": {
+      "Moveset Name": "p_com_wpq",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 17,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
     "Moveset 2": {
       "Moveset Name": "p_kiryu_rush_brawler",
       "Conditions": {

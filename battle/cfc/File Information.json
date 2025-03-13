@@ -261,7 +261,8 @@
       "p_com_wpj": 251,
       "p_com_wpn": 252,
       "p_com_wpf": 253,
-      "p_kasuga_brawler_ex": 254
+      "p_kasuga_brawler_ex": 254,
+      "p_com_wpq": 255
     }
   }
 }

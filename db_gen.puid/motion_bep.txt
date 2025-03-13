@@ -698,3 +698,8 @@ E_EBN_BTL_WPE_slh_hvy
 E_EBN_BTL_WPE_slh_wide
 e_ebn_btl_wpe_swy_b
 e_nml_btl_wpy_ath_kick
+p_com_btl_rkt_ath_dwn_md
+p_com_btl_rkt_ath_hvy_md
+p_com_btl_rkt_ath_kik
+p_com_btl_rkt_ath_sht_f
+p_kra_btl_sud_ath_hvy

@@ -369,7 +369,7 @@
     },
     "Heavy": {
       "Move Type": 2,
-      "Animation Used": "p_kra_btl_sud_ath_gdtb_st"
+      "Animation Used": "p_kra_btl_sud_ath_hvy"
     },
     "down_atk": {
       "Move Type": 2,
@@ -606,37 +606,8 @@
             }
           }
         },
-        "Follow Up 2": {
-          "Follows Up to": "Action_sync_b_g",
-          "Conditions": {
-            "Condition 1| Follow Up On Hit": {
-              "Property Type": 11,
-              "Unk Byte 1": 0,
-              "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 0
-            },
-            "Condition 2| Target Change": {
-              "Property Type": 9,
-              "Target": 0,
-              "Unk Byte 2": 0,
-              "Target Position": 6,
-              "Unk Byte 4": 0
-            },
-            "Condition 3| Fighter Status": {
-              "Property Type": 7,
-              "State Type": "CanSeize",
-              "Conditionals": ""
-            },
-            "Condition 4| Fighter Status": {
-              "Property Type": 7,
-              "State Type": "Tall",
-              "Conditionals": ""
-            }
-          }
-        },
         "Follow Up 3": {
-          "Follows Up to": "Action_sync_b",
+          "Follows Up to": "GrabProcedureBStart",
           "Conditions": {
             "Condition 1| Follow Up On Hit": {
               "Property Type": 11,
@@ -674,6 +645,41 @@
         },
         "Animation 2": {
           "Animation Used": "p_kra_btl_sud_sy1_sze_st_f",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 21309
+        }
+      },
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "GrabProcedureF",
+          "Conditions": {
+            "Condition 1| Follow Up Window End": {
+              "Property Type": 6,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "GrabProcedureBStart": {
+      "Move Type": 2,
+      "Animation Table": {
+        "Animation 1": {
+          "Animation Used": "p_kra_btl_sud_sy0_sze_st_b",
+          "Unknown Byte 1": 0,
+          "Unknown Byte 2": 2,
+          "Unknown Byte 3": 2,
+          "Unknown Byte 4": 0,
+          "Motion ID": 21308
+        },
+        "Animation 2": {
+          "Animation Used": "p_kra_btl_sud_sy1_sze_st_b",
           "Unknown Byte 1": 0,
           "Unknown Byte 2": 2,
           "Unknown Byte 3": 2,
