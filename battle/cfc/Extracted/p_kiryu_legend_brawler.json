@@ -13,6 +13,12 @@
               "Conditionals": "UNK5",
               "Additional Conditional": 0
             },
+            "Condition 3| Button Hold": {
+              "Property Type": 2,
+              "Button Press": "R1",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
             "Condition 3| LAB8 Special Condition: Player Level": {
               "Property Type": 47,
               "Unk Byte 1": 1,
@@ -1505,7 +1511,7 @@
     },
     "Counter": {
       "Move Type": 2,
-      "Animation Used": "P_KRU_BTL_SUD_ath_cntr_tora"
+      "Animation Used": "p_kru_btl_sud_ath_cntr_tora_rlt"
     },
     "RunAway_Success_2": {
       "Move Type": 9,

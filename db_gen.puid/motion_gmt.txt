@@ -685,3 +685,4 @@ p_com_btl_rkt_ath_hvy_md
 p_com_btl_rkt_ath_kik
 p_com_btl_rkt_ath_sht_f
 p_kra_btl_sud_ath_hvy
+p_kru_btl_sud_ath_cntr_tora_rlt

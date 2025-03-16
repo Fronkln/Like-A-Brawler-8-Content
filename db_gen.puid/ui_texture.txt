@@ -39,3 +39,5 @@ btl_hp_gauge_spr
 btl_style_eff_col
 btl_style_dist_liquid
 btl_style_change_02_kiryu
+btl_style_change_02_kiryu_dragon
+btl_style_change_02_kasuga
