@@ -103,3 +103,4 @@ hact_y8b2290_krh_ura_throwdrop|56
 hact_y8b2300_krc_omote_kabe|56
 hact_y8b2310_krh_multiple|56
 hact_y8b1880_brk_run|56
+y8b_common_sfx|19
