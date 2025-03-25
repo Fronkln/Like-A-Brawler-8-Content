@@ -4,6 +4,24 @@
       "Move Type": 1,
       "Animation Used": "Null",
       "Follow Ups": {
+        "Follow Up 10": {
+          "Follows Up to": "Action",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Circle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 2| LAB8 Special Condition: Is Active Brawler Player": {
+              "Property Type": 47,
+              "Unk Byte 1": 10,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        },
         "Follow Up 1": {
           "Follows Up to": "Light_1",
           "Conditions": {
@@ -217,7 +235,11 @@
     },
     "Heavy": {
       "Move Type": 2,
-      "Animation Used": "p_ich_btl_sud_ath_hvy"
+      "Animation Used": "m_cok_btl_wpx_ath_hvy_md"
+    },
+    "Action": {
+      "Move Type": 2,
+      "Animation Used": "m_cok_btl_wpx_ath_sp"
     },
     "ComboAtk_1": {
       "Move Type": 2,
@@ -601,6 +623,27 @@
     "RunAwayFailed": {
       "Move Type": 2,
       "Animation Used": "P_ICH_MOV_run_esc_en"
+    }
+  },
+  "Moveset Change Table": {
+    "Moveset 1": {
+      "Moveset Name": "Previous Moveset",
+      "Conditions": {
+        "Condition 1| LAB8 Special Condition: Is Active Brawler Player": {
+           "Property Type": 47,
+           "Unk Byte 1": 10,
+           "Unk Byte 2": 0,
+           "Unk Byte 3": 0,
+           "Unk Byte 4": 0
+        },
+        "Condition 2| LAB8 Special Condition: Extreme Heat": {
+          "Property Type": 47,
+          "Unk Byte 1": 6,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 3
+        }
+      }
     }
   }
 }

@@ -1,17 +1,105 @@
-﻿Name: Like A Brawler 8 (Chapter 1 Demo)
+﻿Name: Like A Brawler 8
 Author: Jhrino & Mugen
 Version: 1.0.0
+Dependencies: 62d185f2-0d10-42d0-955c-67bf5f757994;64b05dbe-c7fa-4b36-9427-082b915645cb;63943da8-94e0-4800-93a2-23b07937f764
 Description: "Turns Like A Dragon 8 into realtime combat.
 	\n\nCredits:	
 	\nJhrino - Gameplay, Moveset, Heat Actions, Programming, Tool Development, VFX
-	\nMugen - Moveset, Heat Actions
+	\nMugen - Moveset, Heat Actions, VFX
 	\nKarpioXP - Extensive Testing
 	\nReLLeRtheR - Animation
 	\nRet-HZ - LibARMP & ReARMP
 	\nHeartlessSeph - Fighter Commander
 	\nSutandoTsukai181 - Yakuza GMT Blender
 	\n\nPatreons who made this project possible!
-	\nNo.1 Sallad Fan
+        \nDAG
+        \noper 73
+        \nTojo4thchairman 
+        \nRaphaël Agostini 
+        \nSnaikerSDM
+        \nZachary Tapocik
+        \nTyphlosos
+        \nZero07
+        \nJayles Wharton
+        \nScarlet Axtella
+        \n정욱 윤
+        \nNico Antonacci
+        \nAdolfin
+        \nBlevk
+        \nBinx Temple
+        \nJohnny judgment
+        \nHerra Ghost
+        \nLuis Bósquez
+        \nxSpaceCowboy98
+        \nHryuio
+        \n我是三文魚殿下
+        \nRoberto Medina Pulido
+        \nCaleb LaDuke
+        \nLogger
+        \nTommyWong007
+        \nBillum
+        \nDSig
+        \n짱 솔
+        \nDAG
+        \nKeenan
+        \nBigStew
+        \n蓮
+        \nMevin
+        \nสมิทธ์ สงวนนาม
+        \ncarter unickow
+        \nVexxyVex
+        \nSomari
+        \n連也 宇田
+        \nBlevk
+        \nJason Leung 
+        \nDebbie Moore   
+        \nvhvh ,klknjn
+        \nMike Austin
+        \nPerverted Algorithmy
+        \nMatt Connor
+        \nIamgoofball
+        \nItsJoewi
+        \nDyna Scape
+        \nSpirit_Pixelz
+        \nJoshua Tsao
+        \nJakoo
+        \nRose
+        \nRō
+        \nRyosuke
+        \nKsw
+        \nJason Leung
+        \nFleet
+        \nexquisite gent
+        \nMrYue
+        \nKukizz
+        \nPrak
+        \nKainthewanderer
+        \nScarlet Axtella
+        \n정욱 윤
+        \nSpooky Man
+        \nShiroOfintent
+        \nLawrence Laggassey
+        \n特上奶茶
+        \nRonpodolfo
+        \nWolf
+        \nKonkDonk
+        \nThatMan
+        \nZoneStalker
+        \nFeng Yan Wen
+        \nhyx
+        \nk3
+        \nAdam Adamski
+        \nStephen Thach
+        \nDeWall2105
+        \novertron
+        \nCaptain Spaghet
+        \nZerotolerancd
+        \nClara Kyouichi
+        \nLittle Yeetling
+        \n蓮
+        \njahnhub
+        \nMrGarcia
+        \nGulmoul
         \nTartine
         \nAradhya soni
         \nZerbs
@@ -20,7 +108,7 @@ Description: "Turns Like A Dragon 8 into realtime combat.
         \nJonah Dooze
         \nSyrtek
         \nSpooky Man
-        \nJackson Glover
+        \nZutzutt
         \nLW
         \nxaisiewguy
         \n映岚 林
@@ -69,7 +157,6 @@ Description: "Turns Like A Dragon 8 into realtime combat.
         \nBouteille
         \nUnderground Dazzling Ghost
         \nJackie_ Boi
-        \nSt1nGxD
         \nRetroDefective
         \nAshton Truscott
         \n8Ball

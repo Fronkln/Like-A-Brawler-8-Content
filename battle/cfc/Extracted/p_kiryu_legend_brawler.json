@@ -19,13 +19,6 @@
               "Conditionals": "",
               "Additional Conditional": 0
             },
-            "Condition 3| LAB8 Special Condition: Player Level": {
-              "Property Type": 47,
-              "Unk Byte 1": 1,
-              "Unk Byte 2": 35,
-              "Unk Byte 3": 0,
-              "Unk Byte 4": 1
-            },
             "Condition 2| Target Change": {
               "Property Type": 9,
               "Target": 0,
@@ -1638,6 +1631,25 @@
           "Property Type": 47,
           "Unk Byte 1": 7,
           "Unk Byte 2": 15,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+          "Property Type": 47,
+          "Unk Byte 1": 6,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
+    "EX_DANCER": {
+      "Moveset Name": "p_man_job_05",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 13,
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
         },

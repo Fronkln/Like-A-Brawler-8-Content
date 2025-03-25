@@ -15,3 +15,4 @@ y8b_ichiban_skill_damage_counter
 battle_tutorial_pop09_01_realtime
 battle_delihel_other_realtime
 y8b_tutorial01_ngp
+y8b_ichiban_skill_trample

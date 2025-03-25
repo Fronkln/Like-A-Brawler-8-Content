@@ -41,3 +41,5 @@ btl_style_dist_liquid
 btl_style_change_02_kiryu
 btl_style_change_02_kiryu_dragon
 btl_style_change_02_kasuga
+y8b_ichiban_skill_trample
+btl_style_change_02_kasuga_worker

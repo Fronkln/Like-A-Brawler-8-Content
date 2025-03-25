@@ -705,3 +705,15 @@ p_com_btl_rkt_ath_sht_f
 p_kra_btl_sud_ath_hvy
 m_nan_btl_tue_skl_fire01
 p_kru_btl_sud_ath_cntr_tora_rlt
+m_cok_btl_wpx_ath_hvy_md
+m_cok_btl_wpx_ath_sp
+f_sac_btl_bag_ath_01
+f_sac_btl_bag_ath_02
+f_sac_btl_bag_ath_03
+f_sac_btl_bag_ath_hvy
+f_sac_btl_bag_sy0_osiroi_rlt
+f_sac_btl_bag_sy1_osiroi_rlt
+F_SAC_BTL_BAG_swy_b
+F_SAC_BTL_BAG_swy_f
+F_SAC_BTL_BAG_swy_l
+F_SAC_BTL_BAG_swy_r
