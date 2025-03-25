@@ -39,6 +39,24 @@
               "Unk Byte 4": 0
             }
           }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "Heavy",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Circle",
+              "Conditionals": "UNK5",
+              "Additional Conditional": 0
+            },
+            "Condition 1| LAB8 Special Condition: Is Active Brawler Player": {
+              "Property Type": 47,
+              "Unk Byte 1": 10,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
         }
       }
     },
@@ -218,6 +236,10 @@
     "Heavy": {
       "Move Type": 2,
       "Animation Used": "m_acs_btl_wpv_ath_hvy"
+    },
+    "Action": {
+      "Move Type": 2,
+      "Animation Used": "m_acs_btl_wpv_ath_sp"
     },
     "ComboAtk_1": {
       "Move Type": 2,
@@ -836,32 +858,22 @@
     }
   },
   "Moveset Change Table": {
-    "Kiryu": {
-      "Moveset Name": "p_kiryu_legend_brawler",
+    "Moveset 1": {
+      "Moveset Name": "Previous Moveset",
       "Conditions": {
-        "Condition 1| Weapon Category": {
-          "Property Type": 14,
-          "Weapon Category ID": 21,
-          "Bitmask Byte": 0,
-          "Conditionals": "NOT"
+        "Condition 1| LAB8 Special Condition: Is Active Brawler Player": {
+           "Property Type": 47,
+           "Unk Byte 1": 10,
+           "Unk Byte 2": 0,
+           "Unk Byte 3": 0,
+           "Unk Byte 4": 0
         },
-        "Condition 2| LAB8 Special Condition: Is Ichiban": {
+        "Condition 2| LAB8 Special Condition: NOT Extreme Heat": {
           "Property Type": 47,
-          "Unk Byte 1": 5,
+          "Unk Byte 1": 6,
           "Unk Byte 2": 0,
           "Unk Byte 3": 0,
           "Unk Byte 4": 3
-        }
-      }
-    },
-    "Ichiban": {
-      "Moveset Name": "p_kasuga_brawler",
-      "Conditions": {
-        "Condition 1| Weapon Category": {
-          "Property Type": 14,
-          "Weapon Category ID": 21,
-          "Bitmask Byte": 0,
-          "Conditionals": "NOT"
         }
       }
     }

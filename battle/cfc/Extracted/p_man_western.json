@@ -239,7 +239,7 @@
           }
         },
         "Follow Up 5": {
-          "Follows Up to": "GrabAttackHeavyF",
+          "Follows Up to": "GrabAttackLightF",
           "Conditions": {
             "Condition 1| Button Press": {
               "Property Type": 1,

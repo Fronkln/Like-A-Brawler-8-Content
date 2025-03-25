@@ -25,6 +25,17 @@
               "Additional Conditional": 0
             }
           }
+        },
+        "Follow Up 6": {
+          "Follows Up to": "Throw",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
         }		
       }
     },
@@ -83,6 +94,10 @@
     "Heavy": {
       "Move Type": 2,
       "Animation Used": "p_com_btl_wph_ath_hvy"
+    },
+    "Throw": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpa_ath_thw_f"
     },
     "MortalCounter": {
       "Move Type": 2,
