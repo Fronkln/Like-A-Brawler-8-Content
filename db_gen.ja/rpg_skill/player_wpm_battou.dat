@@ -1,0 +1,8 @@
+{
+    "Name": "LAB8: Player Equip WPM",
+    "Motion": "p_com_btl_wpm_battou",
+    "UseCond": 23,
+    "CommandSet": "",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}

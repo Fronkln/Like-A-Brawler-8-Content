@@ -1,0 +1,9 @@
+{
+    "Name": "LAB8: Calorie Knight Boss Mortal Attack",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "e_calorie_knight",
+    "CommandName": "MortalAttack_st",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}

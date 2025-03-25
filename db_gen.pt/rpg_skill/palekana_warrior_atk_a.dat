@@ -1,0 +1,5 @@
+{
+    "CommandSet": "e_palekana_warrior",
+    "CommandName": "Light_1",    
+    "OverrideName": "palekana_warrior_atk_a",
+}

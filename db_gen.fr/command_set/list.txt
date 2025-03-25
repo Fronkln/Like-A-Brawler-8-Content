@@ -11,3 +11,11 @@ p_com_wpb.dat
 p_com_wph.dat
 p_kasuga_wph.dat
 p_kiryu_legend_brawler.dat
+p_com_wpy.dat
+p_com_wpm.dat
+p_com_wpe.dat
+p_kiryu_crash_wpc.dat
+p_com_wpj.dat
+p_com_wpf.dat
+p_kasuga_brawler_ex.dat
+p_com_wpq.dat

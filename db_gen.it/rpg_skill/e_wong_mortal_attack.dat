@@ -1,0 +1,9 @@
+{
+    "Name": "LAB8: Wong Mortal Attack",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "e_boss_wong",
+    "CommandName": "MortalAttack_st",
+    "HAct": "",
+    "BaseAttackRatio": 100.0
+}

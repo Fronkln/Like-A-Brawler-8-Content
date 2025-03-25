@@ -1,3 +1,4 @@
 Battle_Guard|Guard
 Battle_Extreme_Heat|Extreme Heat Mode
 Battle_Reset_Camera|Reset Camera/Prevent Heat Action
+Battle_Equip_Weapon|(Unarmed)Equip Weapon

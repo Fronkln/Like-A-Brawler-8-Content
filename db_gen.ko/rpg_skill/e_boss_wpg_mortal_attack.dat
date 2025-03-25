@@ -1,0 +1,9 @@
+{
+    "Name": "LAB8: Generic WPG Boss Mortal Attack",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "e_slugger",
+    "CommandName": "MortalAttack_st",
+    "HAct": "",
+    "BaseAttackRatio": 100.0
+}

@@ -1,0 +1,3 @@
+Damage Counter
+y8b_ichiban_skill_attack
+You can now strike back an enemy after getting hit!

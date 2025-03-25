@@ -1,0 +1,8 @@
+{
+    "Name": "LAB8: Generic WPY Boss Damage Reversal",
+    "Motion": "e_nml_btl_wpy_ath_dmg_rev",
+    "UseCond": 23,
+    "CommandSet": "",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}

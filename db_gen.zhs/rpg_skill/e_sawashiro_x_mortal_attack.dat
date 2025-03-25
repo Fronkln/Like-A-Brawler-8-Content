@@ -1,0 +1,9 @@
+{
+    "Name": "LAB8: Sawashiro X Mortal Attack",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "e_boss_sawashiro_x",
+    "CommandName": "MortalAttack",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}

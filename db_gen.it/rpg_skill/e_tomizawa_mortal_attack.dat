@@ -1,0 +1,9 @@
+{
+    "Name": "LAB8: Tomizawa Mortal Attack",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "p_tomizawa_01",
+    "CommandName": "MortalAttack1_Enemy",
+    "HAct": "",
+    "BaseAttackRatio": 100.0
+}

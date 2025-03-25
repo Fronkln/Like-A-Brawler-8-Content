@@ -1,0 +1,5 @@
+Improper/Broken Battle
+y8b_poor_battle
+This battle may not translate well to or work properly in realtime.
+If you want, you can experience it in turn based instead.
+Sorry!

@@ -1,0 +1,5 @@
+{
+    "CommandSet": "e_boss_yamai",
+    "CommandName": "Light_1",    
+    "OverrideName": "boss_yamai_atk_a",
+}

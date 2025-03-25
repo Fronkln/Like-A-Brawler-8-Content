@@ -1,0 +1,8 @@
+{
+    "Name": "LAB8: Wong Parry",
+    "UseCond": 23,
+    "CommandSet": "e_boss_wong",
+    "CommandName": "Parry",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}

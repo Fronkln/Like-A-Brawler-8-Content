@@ -1,22 +1,10 @@
 2 3
-Combo Extension (Lv.4)
+Double Quickstep (Lv. 4)
 Essence of Torment (Lv.6)
-Skill3
-Skill4
-Skill5
-Skill6
-Skill7
-Skill8
-Skill9
-Skill10
-Skill11
-Skill12
-Skill13
-Skill14
-Skill15
-Skill16
-Skill17
-Skill18
-Skill19
-Skill20
-Skill21
+Damage Counter (Lv. 8)
+Charged Finishing Blow (Lv. 10)
+Double Finishing Blow (Lv. 12)
+Essence of Trampling (Lv. 14)
+Quickstep Attack (Lv. 16)
+Counter Hook (Lv. 30)
+Meteor Tackle (Lv. 35)

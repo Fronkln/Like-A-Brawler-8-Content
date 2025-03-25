@@ -1,0 +1,9 @@
+{
+    "Name": "LAB8: Dwight Mortal Attack",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "e_boss_dwight_x",
+    "CommandName": "MortalAttack_st",
+    "HAct": "",
+    "BaseAttackRatio": 100.0
+}

@@ -1,0 +1,5 @@
+{
+    "InputActionName": "RpgBattle_StyleChange_3",
+    "Button1": "18",
+    "Button2": "45",
+}

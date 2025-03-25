@@ -1,0 +1,5 @@
+{
+    "CommandSet": "e_boss_majima_b",
+    "CommandName": "Attack_A",    
+    "OverrideName": "boss_majima_b_atk_a",
+}

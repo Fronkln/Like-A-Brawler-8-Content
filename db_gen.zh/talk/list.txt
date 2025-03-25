@@ -1,2 +1,3 @@
 talk_y8b_yoshino
 talk_y8b_ichiban_skills
+talk_y8b_kiryu_skills

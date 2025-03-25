@@ -1,0 +1,4 @@
+Dragon's Resurgence
+btl_manual_016_realtime
+When he has heat, Kiryu can now use Extreme Heat Mode, a powerful skill that allows him to <color=striking>change to a fourth style.</color>
+He will briefly become more powerful, but his heat will decay over time, ending if it reaches zero.

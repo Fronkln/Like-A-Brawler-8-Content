@@ -1,0 +1,8 @@
+{
+    "Name": "LAB8: Player Unequip WPB",
+    "Motion": "p_com_btl_wpb_noutou",
+    "UseCond": 23,
+    "CommandSet": "",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}

@@ -1,0 +1,3 @@
+Yoshino
+Meteor Tackle (Level 35)
+Tackle an enemy by locking onto them and grabbing.

@@ -1,0 +1,6 @@
+Obtaining Equipment
+btl_manual_022
+Weapons and armor can be bought in <color=striking>stores</color> and become effective when you <color=striking>equip</color> them.
+When Ichiban is <color=striking>Freelancer</color>, he can pull out these weapons during battle.
+
+Check the map to find stores and see what kind of weapons and armor they sell by placing the cursor on them and pressing <symbol=button_shikaku>.

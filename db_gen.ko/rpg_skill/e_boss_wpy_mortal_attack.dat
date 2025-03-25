@@ -1,0 +1,9 @@
+{
+    "Name": "LAB8: Generic WPY Boss Mortal Attack",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "e_yakuza_pistol",
+    "CommandName": "MortalAttack_Start",
+    "HAct": "",
+    "BaseAttackRatio": 100.0
+}

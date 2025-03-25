@@ -1,0 +1,10 @@
+{
+    "Name": "LAB8: Kiryu Legend Mortal Counter",
+    "Motion": "",
+    "UseCond": 23,
+    "CommandSet": "p_kiryu_legend_brawler",
+    "CommandName": "MortalCounter",
+    "HAct": "",
+    "BaseAttackRatio": 100.0,
+    "IsSync": true 
+}
