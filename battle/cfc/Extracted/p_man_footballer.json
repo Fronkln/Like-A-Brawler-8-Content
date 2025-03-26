@@ -1234,12 +1234,12 @@
            "Unk Byte 3": 0,
            "Unk Byte 4": 0
         },
-        "Condition 2| LAB8 Special Condition: NOT Extreme Heat": {
+        "Condition 3| LAB8 Special Condition: Should Exit Job Commandset": {
           "Property Type": 47,
-          "Unk Byte 1": 6,
+          "Unk Byte 1": 19,
           "Unk Byte 2": 0,
           "Unk Byte 3": 0,
-          "Unk Byte 4": 3
+          "Unk Byte 4": 0
         }
       }
     }

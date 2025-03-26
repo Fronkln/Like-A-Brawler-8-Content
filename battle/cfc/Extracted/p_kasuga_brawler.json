@@ -2477,9 +2477,9 @@
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
         },
-        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
           "Property Type": 47,
-          "Unk Byte 1": 6,
+          "Unk Byte 1": 18,
           "Unk Byte 2": 0,
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
@@ -2496,9 +2496,28 @@
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
         },
-        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
           "Property Type": 47,
-          "Unk Byte 1": 6,
+          "Unk Byte 1": 18,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
+    "EX_ACTIONSTAR": {
+      "Moveset Name": "p_man_actionstar",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 26,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
+          "Property Type": 47,
+          "Unk Byte 1": 18,
           "Unk Byte 2": 0,
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
@@ -2515,9 +2534,9 @@
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
         },
-        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
           "Property Type": 47,
-          "Unk Byte 1": 6,
+          "Unk Byte 1": 18,
           "Unk Byte 2": 0,
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
@@ -2534,9 +2553,9 @@
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
         },
-        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
           "Property Type": 47,
-          "Unk Byte 1": 6,
+          "Unk Byte 1": 18,
           "Unk Byte 2": 0,
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
@@ -2553,9 +2572,9 @@
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
         },
-        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
           "Property Type": 47,
-          "Unk Byte 1": 6,
+          "Unk Byte 1": 18,
           "Unk Byte 2": 0,
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
@@ -2572,9 +2591,9 @@
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
         },
-        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
           "Property Type": 47,
-          "Unk Byte 1": 6,
+          "Unk Byte 1": 18,
           "Unk Byte 2": 0,
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
@@ -2597,9 +2616,9 @@
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
         },
-        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
           "Property Type": 47,
-          "Unk Byte 1": 6,
+          "Unk Byte 1": 18,
           "Unk Byte 2": 0,
           "Unk Byte 3": 0,
           "Unk Byte 4": 0

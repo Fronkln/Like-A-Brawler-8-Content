@@ -819,8 +819,8 @@
     }
   },
   "Moveset Change Table": {
-    "Kiryu": {
-      "Moveset Name": "p_kiryu_legend_brawler",
+    "Go Back !!": {
+      "Moveset Name": "Previous Moveset",
       "Conditions": {
         "Condition 1| Weapon Category": {
           "Property Type": 14,
@@ -828,34 +828,9 @@
           "Bitmask Byte": 0,
           "Conditionals": "NOT"
         },
-        "Condition 2| LAB8 Special Condition: Is Ichiban": {
+        "Condition 3| LAB8 Special Condition: Should Exit Job Commandset": {
           "Property Type": 47,
-          "Unk Byte 1": 5,
-          "Unk Byte 2": 0,
-          "Unk Byte 3": 0,
-          "Unk Byte 4": 3
-        },
-        "Condition 3| LAB8 Special Condition: Is Active Brawler Player": {
-          "Property Type": 47,
-          "Unk Byte 1": 10,
-          "Unk Byte 2": 0,
-          "Unk Byte 3": 0,
-          "Unk Byte 4": 0
-        }
-      }
-    },
-    "Ichiban": {
-      "Moveset Name": "p_kasuga_brawler",
-      "Conditions": {
-        "Condition 1| Weapon Category": {
-          "Property Type": 14,
-          "Weapon Category ID": 5,
-          "Bitmask Byte": 0,
-          "Conditionals": "NOT"
-        },
-        "Condition 2| LAB8 Special Condition: Is Active Brawler Player": {
-          "Property Type": 47,
-          "Unk Byte 1": 10,
+          "Unk Byte 1": 19,
           "Unk Byte 2": 0,
           "Unk Byte 3": 0,
           "Unk Byte 4": 0

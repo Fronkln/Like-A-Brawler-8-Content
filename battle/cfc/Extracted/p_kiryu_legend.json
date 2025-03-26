@@ -740,6 +740,291 @@
     }
   },
   "Moveset Change Table": {
+    "HACKY METHOD TO FIX COMMANDSET SWITCHING BUG FOR OTHER PARTY MEMBERS - ADACHI": {
+      "Moveset Name": "p_adachi_job_01",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 4,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+	  }
+	},
+    "HACKY METHOD TO FIX COMMANDSET SWITCHING BUG FOR OTHER PARTY MEMBERS - NANBA": {
+      "Moveset Name": "p_nanba_job_01",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 3,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+	  }
+	},
+    "HACKY METHOD TO FIX COMMANDSET SWITCHING BUG FOR OTHER PARTY MEMBERS - EPIC KOREAN KPOP GUY": {
+      "Moveset Name": "p_jyungi_job_01",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 6,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+	  }
+	},
+    "HACKY METHOD TO FIX COMMANDSET SWITCHING BUG FOR OTHER PARTY MEMBERS - EPIC CHINESE COOK GUY": {
+      "Moveset Name": "p_chou_job_01",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 7,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+	  }
+	},
+    "HACKY METHOD TO FIX COMMANDSET SWITCHING BUG FOR OTHER PARTY MEMBERS - SAEKO": {
+      "Moveset Name": "p_saeko_job_01",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 5,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+	  }
+	},
+    "HACKY METHOD TO FIX COMMANDSET SWITCHING BUG FOR OTHER PARTY MEMBERS - CHITOSE": {
+      "Moveset Name": "p_chitose_01",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 34,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+	  }
+	},
+    "HACKY METHOD TO FIX COMMANDSET SWITCHING BUG FOR OTHER PARTY MEMBERS - TOMIZAWAAAAA": {
+      "Moveset Name": "p_tomizawa_01",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 35,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+	  }
+	},
+    "HACKY METHOD TO FIX COMMANDSET SWITCHING BUG FOR OTHER PARTY MEMBERS - GIRLBOSS": {
+      "Moveset Name": "p_sonhi_01",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 36,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+	  }
+	},
+    "EX_FREETER": {
+      "Moveset Name": "p_kasuga_brawler_ex",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 0,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        },
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 1,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+          "Property Type": 47,
+          "Unk Byte 1": 6,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
+    "EX_HERO": {
+      "Moveset Name": "p_kasuga_hero_brawler",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 4,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        },
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 2,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
+          "Property Type": 47,
+          "Unk Byte 1": 18,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
+    "EX_CHEF": {
+      "Moveset Name": "p_man_job_07",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 15,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
+          "Property Type": 47,
+          "Unk Byte 1": 18,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
+    "EX_ACTIONSTAR": {
+      "Moveset Name": "p_man_actionstar",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 26,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
+          "Property Type": 47,
+          "Unk Byte 1": 18,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
+    "EX_FIREDANCER": {
+      "Moveset Name": "p_man_job_07",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 15,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
+          "Property Type": 47,
+          "Unk Byte 1": 18,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
+    "EX_WESTERN": {
+      "Moveset Name": "p_man_western",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 29,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
+          "Property Type": 47,
+          "Unk Byte 1": 18,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
+    "EX_FOOTBALLER": {
+      "Moveset Name": "p_man_footballer",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 28,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
+          "Property Type": 47,
+          "Unk Byte 1": 18,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
+    "EX_DANCER": {
+      "Moveset Name": "p_man_job_05",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 13,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
+          "Property Type": 47,
+          "Unk Byte 1": 18,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
+    "EX_SAMURAI": {
+      "Moveset Name": "p_man_samurai",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 5,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        },
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 25,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Should Enter Job Commandset": {
+          "Property Type": 47,
+          "Unk Byte 1": 18,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
     "Moveset 1": {
       "Moveset Name": "p_kiryu_legend_brawler",
       "Conditions": {
