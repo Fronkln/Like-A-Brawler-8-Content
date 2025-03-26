@@ -22,21 +22,58 @@
             }
           }
         },
-        "Follow Up 2": {
-          "Follows Up to": "Heavy",
+        "Follow Up 3": {
+          "Follows Up to": "Heavy_Down_1",
           "Conditions": {
-            "Condition 1| Button Press (Buffered Input)": {
-              "Property Type": 4,
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "Bullet",
+              "Conditionals": ""
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
               "Button Press": "Triangle",
-              "Conditionals": "UNK5",
+              "Conditionals": "",
               "Additional Conditional": 0
             },
-            "Condition 1| LAB8 Special Condition: Is Active Brawler Player": {
-              "Property Type": 47,
-              "Unk Byte 1": 10,
+            "Condition 3| Target Status": {
+              "Property Type": 8,
+              "State Type": "Down",
+              "Conditionals": ""
+            },
+            "Condition 4| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
               "Unk Byte 2": 0,
-              "Unk Byte 3": 0,
+              "Target Position": 2,
               "Unk Byte 4": 0
+            },
+            "Condition 5| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 500,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 5": {
+          "Follows Up to": "Heavy",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 8": {
+          "Follows Up to": "Action_1",
+          "Conditions": {
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
             }
           }
         }
@@ -217,7 +254,15 @@
     },
     "Heavy": {
       "Move Type": 2,
-      "Animation Used": "p_ich_btl_sud_ath_hvy"
+      "Animation Used": "p_com_btl_wpe_ath_hvy_md"
+    },
+    "Heavy_Down_1": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpe_ath_dwn_md"
+    },
+    "Action_1": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpe_ath_sp"
     },
     "ComboAtk_1": {
       "Move Type": 2,

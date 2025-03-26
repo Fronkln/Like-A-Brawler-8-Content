@@ -2505,6 +2505,25 @@
         }
       }
     },
+    "EX_FIREDANCER": {
+      "Moveset Name": "p_man_job_07",
+      "Conditions": {
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 15,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
+        "Condition 3| LAB8 Special Condition: Extreme Heat": {
+          "Property Type": 47,
+          "Unk Byte 1": 6,
+          "Unk Byte 2": 0,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        }
+      }
+    },
     "EX_WESTERN": {
       "Moveset Name": "p_man_western",
       "Conditions": {
@@ -2697,6 +2716,17 @@
         }
       }
     },
+    "WPX": {
+      "Moveset Name": "p_man_job_07",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 19,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
     "WPY": {
       "Moveset Name": "p_com_wpy",
       "Conditions": {
@@ -2714,6 +2744,17 @@
         "Condition 1| Weapon Category": {
           "Property Type": 14,
           "Weapon Category ID": 21,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPQ": {
+      "Moveset Name": "p_com_wpq",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 17,
           "Bitmask Byte": 0,
           "Conditionals": ""
         }

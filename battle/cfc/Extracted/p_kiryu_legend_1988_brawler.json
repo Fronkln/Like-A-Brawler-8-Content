@@ -1671,17 +1671,6 @@
         }
       }
     },
-    "WPM": {
-      "Moveset Name": "p_com_wpm",
-      "Conditions": {
-        "Condition 1| Weapon Category": {
-          "Property Type": 14,
-          "Weapon Category ID": 16,
-          "Bitmask Byte": 0,
-          "Conditionals": ""
-        }
-      }
-    },
     "WPJ": {
       "Moveset Name": "p_com_wpj",
       "Conditions": {
@@ -1693,12 +1682,56 @@
         }
       }
     },
+    "WPM": {
+      "Moveset Name": "p_com_wpm",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 16,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPX": {
+      "Moveset Name": "p_man_job_07",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 19,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
     "WPY": {
       "Moveset Name": "p_com_wpy",
       "Conditions": {
         "Condition 1| Weapon Category": {
           "Property Type": 14,
           "Weapon Category ID": 12,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPV": {
+      "Moveset Name": "p_man_actionstar",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 21,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPQ": {
+      "Moveset Name": "p_com_wpq",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 17,
           "Bitmask Byte": 0,
           "Conditionals": ""
         }

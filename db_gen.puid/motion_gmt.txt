@@ -696,3 +696,4 @@ f_sac_btl_bag_sy0_osiroi_rlt
 f_sac_btl_bag_sy1_osiroi_rlt
 m_acs_btl_wpv_ath_sp
 p_com_btl_wph_ath_hvy
+p_com_btl_wpa_ath_kick

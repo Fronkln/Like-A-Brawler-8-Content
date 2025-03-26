@@ -34,6 +34,22 @@
               "Button Press": "Circle",
               "Conditionals": "",
               "Additional Conditional": 0
+            },
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "FromPocket",
+              "Conditionals": "NOT"
+            }
+          }
+        },
+        "Follow Up 7": {
+          "Follows Up to": "Action",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
             }
           }
         }		
@@ -94,12 +110,16 @@
     },
     "Heavy": {
       "Move Type": 2,
-      "Animation Used": "p_com_btl_wpd_ath_hvy"
+      "Animation Used": "p_com_btl_wpa_ath_hvy_md"
     },
     "Throw": {
       "Move Type": 2,
       "Animation Used": "p_com_btl_wpa_ath_thw_f"
-    },	
+    },
+    "Action": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpa_ath_kick"
+    },		
     "MortalCounter": {
       "Move Type": 2,
       "Animation Table": {

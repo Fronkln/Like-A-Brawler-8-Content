@@ -734,3 +734,4 @@ p_kru_btl_mik_kizuna_sing
 p_kru_btl_pan_kizuna_slam
 p_kru_btl_sud_kizuna_dhkik
 p_com_btl_wph_ath_hvy
+p_com_btl_wpa_ath_kick

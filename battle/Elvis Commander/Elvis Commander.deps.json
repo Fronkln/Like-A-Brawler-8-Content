@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Elvis Commander/1.0.0": {
+        "dependencies": {
+          "ElvisCommand": "1.0.0"
+        },
+        "runtime": {
+          "Elvis Commander.dll": {}
+        }
+      },
+      "ElvisCommand/1.0.0": {
+        "runtime": {
+          "ElvisCommand.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elvis Commander/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElvisCommand/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1107,6 +1107,17 @@
         }
       }
     },
+    "WPX": {
+      "Moveset Name": "p_man_job_07",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 19,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
     "WPY": {
       "Moveset Name": "p_com_wpy",
       "Conditions": {
@@ -1150,6 +1161,13 @@
 		"Unk Byte 2": 3,
 		"Unk Byte 3": 0,
 		"Unk Byte 4": 0
+        },
+		"Condition 1| LAB8 Special Condition: Is DoD": {
+		"Property Type": 47,
+		"Unk Byte 1": 16,
+		"Unk Byte 2": 0,
+		"Unk Byte 3": 0,
+		"Unk Byte 4": 0
         }
       }
     },
@@ -1162,6 +1180,13 @@
 		"Unk Byte 2": 4,
 		"Unk Byte 3": 0,
 		"Unk Byte 4": 0
+        },
+		"Condition 1| LAB8 Special Condition: Is DoD": {
+		"Property Type": 47,
+		"Unk Byte 1": 16,
+		"Unk Byte 2": 0,
+		"Unk Byte 3": 0,
+		"Unk Byte 4": 0
         }
       }
     },
@@ -1172,6 +1197,13 @@
 		"Property Type": 47,
 		"Unk Byte 1": 4,
 		"Unk Byte 2": 5,
+		"Unk Byte 3": 0,
+		"Unk Byte 4": 0
+        },
+		"Condition 1| LAB8 Special Condition: Is DoD": {
+		"Property Type": 47,
+		"Unk Byte 1": 16,
+		"Unk Byte 2": 0,
 		"Unk Byte 3": 0,
 		"Unk Byte 4": 0
         }

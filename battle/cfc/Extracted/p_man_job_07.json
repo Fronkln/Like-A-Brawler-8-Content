@@ -636,12 +636,37 @@
            "Unk Byte 3": 0,
            "Unk Byte 4": 0
         },
+        "Condition 2| LAB8 Special Condition: Player Job": {
+          "Property Type": 47,
+          "Unk Byte 1": 7,
+          "Unk Byte 2": 15,
+          "Unk Byte 3": 0,
+          "Unk Byte 4": 0
+        },
         "Condition 2| LAB8 Special Condition: Extreme Heat": {
           "Property Type": 47,
           "Unk Byte 1": 6,
           "Unk Byte 2": 0,
           "Unk Byte 3": 0,
           "Unk Byte 4": 3
+        }
+      }
+    },
+    "Moveset 2": {
+      "Moveset Name": "Previous Moveset",
+      "Conditions": {
+        "Condition 1| LAB8 Special Condition: Is Active Brawler Player": {
+           "Property Type": 47,
+           "Unk Byte 1": 10,
+           "Unk Byte 2": 0,
+           "Unk Byte 3": 0,
+           "Unk Byte 4": 0
+        },
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 19,
+          "Bitmask Byte": 0,
+          "Conditionals": "NOT"
         }
       }
     }

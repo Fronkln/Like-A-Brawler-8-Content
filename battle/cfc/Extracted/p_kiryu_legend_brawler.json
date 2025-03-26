@@ -1643,13 +1643,13 @@
         }
       }
     },
-    "EX_ACTION_STAR": {
-      "Moveset Name": "p_man_actionstar",
+    "EX_CHEF": {
+      "Moveset Name": "p_man_job_07",
       "Conditions": {
         "Condition 2| LAB8 Special Condition: Player Job": {
           "Property Type": 47,
           "Unk Byte 1": 7,
-          "Unk Byte 2": 26,
+          "Unk Byte 2": 15,
           "Unk Byte 3": 0,
           "Unk Byte 4": 0
         },
@@ -1662,7 +1662,7 @@
         }
       }
     },
-    "EX_CHEF": {
+    "EX_FIREDANCER": {
       "Moveset Name": "p_man_job_07",
       "Conditions": {
         "Condition 2| LAB8 Special Condition: Player Job": {
@@ -1868,6 +1868,17 @@
         "Condition 1| Weapon Category": {
           "Property Type": 14,
           "Weapon Category ID": 20,
+          "Bitmask Byte": 0,
+          "Conditionals": ""
+        }
+      }
+    },
+    "WPX": {
+      "Moveset Name": "p_man_job_07",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 19,
           "Bitmask Byte": 0,
           "Conditionals": ""
         }

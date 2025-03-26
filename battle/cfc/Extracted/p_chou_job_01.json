@@ -408,5 +408,19 @@
       "Move Type": 2,
       "Animation Used": "P_ICH_MOV_run_esc_en"
     }
+  },
+  "Moveset Change Table": {
+    "Placeholder Realtime Moveset": {
+      "Moveset Name": "p_com_wpe",
+      "Conditions": {
+		"Condition 2| LAB8 Special Condition: Is Active Brawler Player": {
+			"Property Type": 47,
+			"Unk Byte 1": 10,
+			"Unk Byte 2": 0,
+			"Unk Byte 3": 0,
+			"Unk Byte 4": 0
+		}
+      }
+    }
   }
 }
