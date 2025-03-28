@@ -1,4 +1,4 @@
 2 3
-Check Skills
-Change Gamemode
-Nevermind
+스킬 체크를 하고 싶어.
+전투 모드를 변경하고 싶어.
+아무 것도 아니야.

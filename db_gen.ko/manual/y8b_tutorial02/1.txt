@@ -1,3 +1,3 @@
-Pausing
+일시 정지
 y8b_tutorial01_manual2
-You can pause during battle with <symbol=button_options>
+<symbol=button_options> 버튼으로 전투 중에 게임을 멈출 수 있습니다.

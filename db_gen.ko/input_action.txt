@@ -1,4 +1,4 @@
-Battle_Guard|Guard
-Battle_Extreme_Heat|Extreme Heat Mode
-Battle_Reset_Camera|Reset Camera/Prevent Heat Action
-Battle_Equip_Weapon|(Unarmed)Equip Weapon
+Battle_Guard|가드
+Battle_Extreme_Heat|얼티밋 히트 모드
+Battle_Reset_Camera|카메라 리셋/히트 액션 사용 방지
+Battle_Equip_Weapon|무기 착용/해제

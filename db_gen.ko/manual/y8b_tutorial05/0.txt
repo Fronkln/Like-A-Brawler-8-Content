@@ -1,4 +1,3 @@
-Mortal Reversal
+모탈 리버설
 y8b_tutorial05_manual1
-Sometimes, powerful enemies may perform a deadly Mortal Attack indicated by them glowing red. 
-Guard just before the hit lands to perform a Mortal Reversal!
+강적들은 붉은 기운을 내뿜는 강력한 모탈 어택을 구사합니다.\n\n적의 공격이 닿기 직전에 가드를 해서 모탈 리버설을 발동시켜봅시다!

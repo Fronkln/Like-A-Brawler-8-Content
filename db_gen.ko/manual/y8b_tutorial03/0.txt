@@ -1,6 +1,3 @@
-Fight With Style!
+얼티밋 히트 모드
 y8b_tutorial03_manual1
-When you have heat, you can enter Extreme Heat Mode!
-When in Extreme Heat Mode, you transform to your current job, and have improved mobility and flinching invulnerability.
-Your heat will rapidly decay, and you will transform back once your heat is depleted. 
-As you increase your stats, you will be able to activate it for longer. For now, give it a try!
+히트 게이지가 있을 때, 키류는 <color=striking>얼티밋 히트 모드</color>를 사용할 수 있습니다.\n\n더 강력한 스킬들을 사용할 수 있으며, 히트 게이지가 소진되면 얼티밋 히트 모드가 종료됩니다.

@@ -1,3 +1,3 @@
-Essence of Trampling (Level 14)
+짓밟기의 극 (레벨 14)
 y8b_ichiban_skill_trample
-Rapidly stomp on a downed enemy when your health is low.
+체력이 낮을 때, 적을 빠르게 짓밟는 공격입니다.

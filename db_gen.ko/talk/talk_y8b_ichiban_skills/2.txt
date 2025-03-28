@@ -1,3 +1,3 @@
-Yoshino
-Damage Counter (Level 8)
-Strike back against an enemy that hit you.
+요시노
+근성 반격 (레벨 8)
+적에게 공격당했을 때 바로 반격할 수 있습니다.

@@ -1,5 +1,3 @@
 Like A Brawler 8
 y8b_tutorial01_manual1
-Welcome to Like A Brawler 8 Chapter 1 Demo!
-The mod will not work past chapter 1.
-Let's go over the basics.
+Like A Brawler 8에 오신 것을 환영합니다!\n\n기본적인 튜토리얼 먼저 시작하겠습니다.

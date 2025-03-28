@@ -1,3 +1,3 @@
-Damage Counter
+근성 반격
 y8b_ichiban_skill_attack
-You can now strike back an enemy after getting hit!
+적에게 공격당했을 때 바로 반격할 수 있습니다.

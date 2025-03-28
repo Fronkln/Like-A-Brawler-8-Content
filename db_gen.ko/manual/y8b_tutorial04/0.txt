@@ -1,5 +1,3 @@
-Working as a Team
+동료와의 연계
 btl_manual_024
-Your allies' positioning opens up a variety of strategic possibilities, like <color=striking>tag team heat actions</color> and <color=striking>back attacks</color> against enemies who have their attention divided.
-
-Many of these attacks provide extra damage, so be sure to make use of them.
+동료와 함께 공격을 하는 <color=striking>유대 히트 액션</color>이나\n동료에게 정신이 팔린 적 등 뒤까지 다가가 공격하면 발동하는 <color=striking>백 어택</color> 등,\n동료의 존재 자체가 전술의 폭을 넓혀 주기도 합니다.\n\n보다 큰 대미지를 줄 수 있으니 기회가 있다면 잘 활용해 봅시다.

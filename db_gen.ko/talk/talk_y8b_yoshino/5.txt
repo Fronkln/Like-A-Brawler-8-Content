@@ -1,3 +1,3 @@
 春日
-I'll wait for the perfect moment to strike.
-(Genre changed to turn-based)
+완벽한 공격 타이밍이 올 때까지 기다리겠어!
+(턴제 전투로 변경합니다.)
