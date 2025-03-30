@@ -706,3 +706,5 @@ p_com_btl_wpg_ath_kick
 p_com_btl_wpg_ath_thw_f
 p_com_btl_wpg_drp
 p_kru_btl_sud_ath_pkup_wpg_l
+e_amn_btl_sud_sy0_stl_scs
+e_amn_btl_sud_sy1_stl_scs
