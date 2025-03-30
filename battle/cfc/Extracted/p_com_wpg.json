@@ -1,0 +1,216 @@
+{
+  "Move Table": {
+    "Root": {
+      "Move Type": 1,
+      "Animation Used": "Null",
+      "Follow Ups": {
+        "Follow Up 2": {
+          "Follows Up to": "AttackDown",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Target Status": {
+              "Property Type": 8,
+              "State Type": "Down",
+              "Conditionals": ""
+            },
+            "Condition 3| Target Change": {
+              "Property Type": 9,
+              "Target": 0,
+              "Unk Byte 2": 0,
+              "Target Position": 2,
+              "Unk Byte 4": 0
+            },
+            "Condition 4| Distance Limit": {
+              "Property Type": 19,
+              "Enemy Distance": 200,
+              "Unk Byte 4": 0
+            }
+          }
+        },
+        "Follow Up 3": {
+          "Follows Up to": "Heavy_1",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Triangle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 4": {
+          "Follows Up to": "Light_1",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 5": {
+          "Follows Up to": "Drop",
+          "Conditions": {
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "FromPocket",
+              "Conditionals": "NOT"
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "L3",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 6": {
+          "Follows Up to": "Action_1",
+          "Conditions": {
+            "Condition 1| Fighter Status": {
+              "Property Type": 7,
+              "State Type": "FromPocket",
+              "Conditionals": ""
+            },
+            "Condition 2| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        },
+        "Follow Up 7": {
+          "Follows Up to": "Throw",
+          "Conditions": {
+            "Condition 1| Button Press": {
+              "Property Type": 1,
+              "Button Press": "Circle",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            }
+          }
+        }
+      }
+    },
+    "Drop": {
+      "Move Type": 9,
+      "Animation Used": "p_com_btl_wpg_drp"
+    },
+    "Heavy_1": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpg_ath_hvy_md"
+    },
+    "Light_1": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpg_ath_01_md",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_2": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpg_ath_02_md",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_3",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "Light_3": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpg_ath_03_md"
+    },
+    "Throw": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpg_ath_thw_f"
+    },
+    "PickAttack": {
+      "Move Type": 18,
+      "Animation Used": "P_KRU_BTL_SUD_ath_pkup_wpg_l",
+      "Follow Ups": {
+        "Follow Up 1": {
+          "Follows Up to": "Light_2",
+          "Conditions": {
+            "Condition 1| Button Press (Buffered Input)": {
+              "Property Type": 4,
+              "Button Press": "Square",
+              "Conditionals": "",
+              "Additional Conditional": 0
+            },
+            "Condition 2| Follow Up Window Start": {
+              "Property Type": 5,
+              "Unk Byte 1": 0,
+              "Unk Byte 2": 0,
+              "Unk Byte 3": 0,
+              "Unk Byte 4": 0
+            }
+          }
+        }
+      }
+    },
+    "AttackDown": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpg_ath_dwn_md"
+    },
+    "Action_1": {
+      "Move Type": 2,
+      "Animation Used": "p_com_btl_wpg_ath_kick"
+    },
+    "H23740": {
+      "Move Type": 6,
+      "Animation Used": "Null"
+    }
+  },
+  "Moveset Change Table": {
+    "Moveset 1": {
+      "Moveset Name": "Previous Moveset",
+      "Conditions": {
+        "Condition 1| Weapon Category": {
+          "Property Type": 14,
+          "Weapon Category ID": 7,
+          "Bitmask Byte": 0,
+          "Conditionals": "NOT"
+        }
+      }
+    }
+  }
+}

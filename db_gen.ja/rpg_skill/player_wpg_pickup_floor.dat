@@ -1,0 +1,8 @@
+{
+    "Name": "LAB8: Player Pickup WPG",
+    "Motion": "p_com_btl_wpg_pickup_flr",
+    "UseCond": 23,
+    "CommandSet": "",
+    "HAct": "",
+    "BaseAttackRatio": 100.0 
+}

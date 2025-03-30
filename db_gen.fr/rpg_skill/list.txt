@@ -51,3 +51,4 @@ boss_sawashiro_atk_a
 boss_majima_b_atk_a
 player_wpj_pickup_floor
 player_wpq_pickup_floor
+player_wpg_pickup_floor

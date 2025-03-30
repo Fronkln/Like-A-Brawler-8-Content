@@ -66,14 +66,14 @@ Xcopy "ui.elvis.en\" "ui.elvis.zhs\" /E /Y /Q
 
 @echo on
 
-DBGen en
-DBGen de
-DBGen es
-DBGen fr
-DBGen it
-DBGen ja
-DBGen ko
-DBGen pt
-DBGen ru
-DBGen zh
-DBGen zhs
+DBGen en simple
+DBGen de simple 
+DBGen es simple 
+DBGen fr simple
+DBGen it simple
+DBGen ja simple
+DBGen ko simple
+DBGen pt simple
+DBGen ru simple
+DBGen zh simple
+DBGen zhs simple
