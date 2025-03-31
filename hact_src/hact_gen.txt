@@ -148,3 +148,6 @@ y8bb2280_ebn_oi_1katana_yoko
 y8b2290_krh_ura_throwdrop
 y8b2300_krc_omote_kabe
 y8b2310_krh_multiple
+y8b2320_buki_g
+y8b2330_buki_g_oi
+y8b2340_juggle_hero

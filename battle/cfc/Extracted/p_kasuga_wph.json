@@ -254,7 +254,7 @@
       "Conditions": {
         "Condition 1| Weapon Category": {
           "Property Type": 14,
-          "Weapon Category ID": 9,
+          "Weapon Category ID": 8,
           "Bitmask Byte": 0,
           "Conditionals": "NOT"
         }
