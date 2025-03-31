@@ -20,3 +20,4 @@ p_com_wpf.dat
 p_kasuga_brawler_ex.dat
 p_com_wpq.dat
 p_com_wpg.dat
+p_com_wpn.dat
